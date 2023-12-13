@@ -1,0 +1,25 @@
+launch_service_provider,mission,name,net,pad,rocket,status
+ExPace,Multiple payloads,Kuaizhou-1A | Multiple payloads,01/09/2017 4:11 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Successful
+ExPace,CentiSpace-1-S1,Kuaizhou-1A | Centispace-1-S1,09/29/2018 4:13 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Successful
+ExPace,KX-09 & TY-1-07 (Xiaoxiang-1-07),Kuaizhou-1A | KX-09 & TY-1-07 (Xiaoxiang-1-07),08/30/2019 11:41 p.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Successful
+ExPace,Jilin-1-02A,Kuaizhou-1A | Jilin-1-02A,11/13/2019 3:40 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Successful
+ExPace,—,Kuaizhou-1A | KL-Alpha,11/17/2019 10 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Successful
+ExPace,Jilin-1-02B,Kuaizhou-1A | Jilin-1-02B,12/07/2019 2:55 a.m.,"Mobile Launcher Pad | Taiyuan Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Successful
+ExPace,—,"Kuaizhou-1A | HEAD-2A, 2B & Tianyi-16, 17 & Tianqi-4A, 4B",12/07/2019 8:52 a.m.,"Launch Complex 16 | Taiyuan Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Successful
+ExPace,Yinhe-1,Kuaizhou-1A | Yinhe-1,01/16/2020 3:02 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Successful
+ExPace,"Xingyun-2 01, 02","Kuaizhou-1A | Xingyun-2 01, 02",05/12/2020 1:16 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Successful
+ExPace,Maiden Flight,Kuaizhou-11 | Maiden Flight,07/10/2020 4:17 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Kuaizhou-11,Launch Failure
+ExPace,Jilin-1-02C,Kuaizhou-1A | Jilin-1-02C,09/12/2020 5:02 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Failure
+ExPace,Jilin-1-02D,Kuaizhou-1A | Jilin-1-02D,09/27/2021 6:19 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Successful
+ExPace,Jilin-1-02F,Kuaizhou-1A | Jilin-1-02F,10/27/2021 6:19 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Successful
+ExPace,Shiyan 11,Kuaizhou-1A | Shiyan 11,11/24/2021 11:41 p.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Successful
+ExPace,GeeSAT X 2,Kuaizhou 1A | GeeSat x2,12/15/2021 2 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Failure
+ExPace,—,Kuaizhou 1A | Tianxing-1,06/22/2022 2:08 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Successful
+ExPace,Chuangxin-16,Kuaizhou-1A | Chuangxin-16,08/23/2022 2:36 a.m.,"Mobile Launcher Pad | Xichang Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Successful
+ExPace,CentiSpace-1 S3 & S4,Kuaizhou-1A | CentiSpace-1 S3 & S4,09/06/2022 2:24 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Successful
+ExPace,Shiyan 14 & Shiyan 15,Kuaizhou-1A | Shiyan 14 & Shiyan 15,09/24/2022 10:55 p.m.,"Mobile Launcher Pad | Taiyuan Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Successful
+ExPace,Xingyun VDES,Kuaizhou 11 | Xingyun VDES,12/07/2022 1:15 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Kuaizhou-11,Launch Successful
+ExPace,Tianmu-1 03-06,Kuaizhou-1A | Tianmu-1 03-06,03/22/2023 9:09 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Successful
+ExPace,Longjiang 3,Kuaizhou-1A | Longjiang 3,06/09/2023 2:35 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Successful
+ExPace,Tianmu-1 07-10,Kuaizhou-1A | Tianmu-1 07-10,07/20/2023 3:20 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Successful
+ExPace,HEAD-3A/B/C/D/E,Kuaizhou-1A | HEAD-3A/B/C/D/E,08/14/2023 5:32 a.m.,"Mobile Launcher Pad | Xichang Satellite Launch Center, People's Republic of China",Kuaizhou,Launch Successful

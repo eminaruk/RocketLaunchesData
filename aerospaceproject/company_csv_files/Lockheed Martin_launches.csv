@@ -1,0 +1,90 @@
+launch_service_provider,mission,name,net,pad,rocket,status
+Lockheed Martin,Sphinx (Titan IIIE maiden flight),Titan IIIE | Sphinx (Titan IIIE Maiden Flight),02/11/1974 1:48 p.m.,"Space Launch Complex 41 | Cape Canaveral, FL, USA",Titan III,Launch Failure
+Lockheed Martin,Helios-A,Titan IIIE | Helios-A,12/10/1974 7:11 a.m.,"Space Launch Complex 41 | Cape Canaveral, FL, USA",Titan III,Launch Successful
+Lockheed Martin,Viking 1,Titan IIIE | Viking 1,08/20/1975 9:22 p.m.,"Space Launch Complex 41 | Cape Canaveral, FL, USA",Titan III,Launch Successful
+Lockheed Martin,Viking 2,Titan IIIE | Viking 2,09/09/1975 6:39 p.m.,"Space Launch Complex 41 | Cape Canaveral, FL, USA",Titan III,Launch Successful
+Lockheed Martin,Helios-B,Titan IIIE | Helios-B,01/15/1976 5:34 a.m.,"Space Launch Complex 41 | Cape Canaveral, FL, USA",Titan III,Launch Successful
+Lockheed Martin,Voyager 2,Titan IIIE | Voyager 2,08/20/1977 2:29 p.m.,"Space Launch Complex 41 | Cape Canaveral, FL, USA",Titan III,Launch Successful
+Lockheed Martin,Voyager 1,Titan IIIE | Voyager 1,09/05/1977 12:56 p.m.,"Space Launch Complex 41 | Cape Canaveral, FL, USA",Titan III,Launch Successful
+Lockheed Martin,INTELSAT 705,Atlas IIAS | INTELSAT 705,03/22/1995 6:18 a.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,AMSC 1,Atlas IIA | AMSC 1,04/07/1995 11:47 p.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIA,Launch Successful
+Lockheed Martin,UHF F/O F5,Atlas II | UHF F/O F5,05/31/1995 3:27 p.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas II,Launch Successful
+Lockheed Martin Space Operations,STS-71,Space Shuttle Atlantis / OV-104 | STS-71,06/27/1995 7:32 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Space Shuttle,Launch Successful
+Lockheed Martin,DSCS-3 B7,Atlas IIA | DSCS-3 B7,07/31/1995 11:30 p.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIA,Launch Successful
+Lockheed Martin,Gemstar DSS-1,LLV-I | Gemstar DSS-1,08/15/1995 10:30 p.m.,"Space Launch Complex 6 | Vandenberg SFB, CA, USA",LLV-I,Launch Failure
+Lockheed Martin,JCSAT 3,Atlas IIAS | JCSAT 3,08/29/1995 12:53 a.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin Space Operations,STS-69,Space Shuttle Endeavour / OV-105 | STS-69,09/07/1995 3:09 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Space Shuttle,Launch Successful
+Lockheed Martin Space Operations,STS-73,Space Shuttle Columbia / OV-102 | STS-73,10/20/1995 1:53 p.m.,"Launch Complex 39B | Kennedy Space Center, FL, USA",Space Shuttle,Launch Successful
+Lockheed Martin,UHF F/O F6,Atlas II | UHF F/O F6,10/22/1995 8 a.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas II,Launch Successful
+Lockheed Martin Space Operations,STS-74,Space Shuttle Atlantis / OV-104 | STS-74,11/12/1995 12:30 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Space Shuttle,Launch Successful
+Lockheed Martin,SOHO,Atlas IIAS | SOHO,12/02/1995 8:08 a.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,Galaxy 3R,Atlas IIA | Galaxy 3R,12/15/1995 12:23 a.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIA,Launch Successful
+Lockheed Martin Space Operations,STS-72,Space Shuttle Endeavour / OV-105 | STS-72,01/11/1996 9:41 a.m.,"Launch Complex 39B | Kennedy Space Center, FL, USA",Space Shuttle,Launch Successful
+Lockheed Martin,Palapa C1,Atlas IIAS | Palapa C1,02/01/1996 1:15 a.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin Space Operations,STS-75,Space Shuttle Columbia / OV-102 | STS-75,02/22/1996 8:18 p.m.,"Launch Complex 39B | Kennedy Space Center, FL, USA",Space Shuttle,Launch Successful
+Lockheed Martin Space Operations,STS-76,Space Shuttle Atlantis / OV-104 | STS-76,03/22/1996 8:13 a.m.,"Launch Complex 39B | Kennedy Space Center, FL, USA",Space Shuttle,Launch Successful
+Lockheed Martin,INMARSAT III F-1,Atlas IIA | INMARSAT III F-1,04/03/1996 11:01 p.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIA,Launch Successful
+Lockheed Martin Space Operations,STS-77,Space Shuttle Endeavour / OV-105 | STS-77,05/19/1996 10:30 a.m.,"Launch Complex 39B | Kennedy Space Center, FL, USA",Space Shuttle,Launch Successful
+Lockheed Martin Space Operations,STS-78,Space Shuttle Columbia / OV-102 | STS-78,06/20/1996 2:49 p.m.,"Launch Complex 39B | Kennedy Space Center, FL, USA",Space Shuttle,Launch Successful
+Lockheed Martin,UHF F/O F7,Atlas II | UHF F/O F7,07/25/1996 12:41 p.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas II,Launch Successful
+Lockheed Martin,GE 1,Atlas IIA | GE 1,09/08/1996 9:49 p.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIA,Launch Successful
+Lockheed Martin,Hot Bird 2,Atlas IIA | Hot Bird 2,11/21/1996 8:47 p.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIA,Launch Successful
+Lockheed Martin,INMARSAT III F-3,Atlas IIA | INMARSAT III F-3,12/18/1996 1:57 a.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIA,Launch Successful
+Lockheed Martin,JCSAT R,Atlas IIAS | JCSAT R,02/17/1997 1:42 a.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,Tempo 2,Atlas IIA | Tempo 2,03/08/1997 6:01 a.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIA,Launch Successful
+Lockheed Martin,Superbird 3,Atlas IIAS | Superbird 3,07/28/1997 1:15 a.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,Lewis,LLMV-I | Lewis,08/23/1997 6:51 a.m.,"Space Launch Complex 6 | Vandenberg SFB, CA, USA",LLMV-I,Launch Successful
+Lockheed Martin,GE 3,Atlas IIAS | GE 3,09/04/1997 12:03 p.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,Echostar III,Atlas IIAS | Echostar III,10/05/1997 9:01 p.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,—,Titan IVB/Cenatur | Cassini-Huygens,10/15/1997 8:43 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Titan IVB,Launch Successful
+Lockheed Martin,DSCS-3 B13,Atlas IIA | DSCS-3 B13,10/25/1997 12:46 a.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIA,Launch Successful
+Lockheed Martin,Galaxy 8i,Atlas IIAS | Galaxy 8i,12/08/1997 11:52 p.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,Lunar Prospector,Athena II | Lunar Prospector,01/07/1998 2:28 a.m.,"Space Launch Complex 46 | Cape Canaveral, FL, USA",Athena II,Launch Successful
+Lockheed Martin,NROL-5 (Quasar 12),Atlas IIA | NROL-5,01/29/1998 6:37 p.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIA,Launch Successful
+Lockheed Martin,INTELSAT 806,Atlas IIAS | INTELSAT 806,02/28/1998 12:21 a.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,UHF F/O F8,Atlas II | UHF F/O F8,03/16/1998 9:32 p.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas II,Launch Successful
+Lockheed Martin,INTELSAT 805,Atlas IIAS | INTELSAT 805,06/18/1998 10:48 p.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,Hot Bird 5,Atlas IIA | Hot Bird 5,10/09/1998 10:50 p.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIA,Launch Successful
+Lockheed Martin,UHF F/O F9,Atlas IIA | UHF F/O F9,10/20/1998 7:19 a.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIA,Launch Successful
+Lockheed Martin,Formosat-1,Athena I | Formosat-1,01/27/1999 12:34 a.m.,"Space Launch Complex 46 | Cape Canaveral, FL, USA",Athena I,Launch Successful
+Lockheed Martin,JCSAT 4A,Atlas IIAS | JCSAT 4A,02/16/1999 1:45 a.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,Eutelsat W3,Atlas IIAS | Eutelsat W3,04/12/1999 10:50 p.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,Ikonos 1,Athena II | Ikonos 1,04/27/1999 6:22 p.m.,"Space Launch Complex 6 | Vandenberg SFB, CA, USA",Athena II,Launch Failure
+Lockheed Martin,Echostar V,Atlas IIAS | Echostar V,09/23/1999 6:02 a.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,Ikonos,Athena II | Ikonos,09/24/1999 6:21 p.m.,"Space Launch Complex 6 | Vandenberg SFB, CA, USA",Athena II,Launch Successful
+Lockheed Martin,UHF F/O F10,Atlas IIA | UHF F/O F10,11/23/1999 4:06 a.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIA,Launch Successful
+Lockheed Martin,Terra,Atlas IIAS | Terra,12/18/1999 6:57 p.m.,"Space Launch Complex 3E | Vandenberg SFB, CA, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,DSCS-3 B8,Atlas IIA | DSCS-3 B8,01/21/2000 1:03 a.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIA,Launch Successful
+Lockheed Martin,Hispasat 1C,Atlas IIAS | Hispasat 1C,02/03/2000 11:30 p.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,GOES 11,Atlas IIA | GOES 11,05/03/2000 7:07 a.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIA,Launch Successful
+Lockheed Martin,Eutelsat W4,Atlas Agena B | Eutelsat W4,05/24/2000 11:10 p.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIIA,Launch Successful
+Lockheed Martin,TDRS 8,Atlas IIA | TDRS 8,06/30/2000 12:56 p.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIA,Launch Successful
+Lockheed Martin,Echostar VI,Atlas IIAS | Echostar VI,07/14/2000 5:21 a.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,DSCS-3 B11,Atlas IIA | DSCS-3 B11,10/20/2000 12:40 a.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIA,Launch Successful
+Lockheed Martin,NROL-10 (Quasar 13),Atlas IIAS | NROL-10,12/06/2000 2:47 a.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,ICO F2,Atlas IIAS | ICO F2,06/19/2001 4:41 a.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,GOES 12,Atlas IIA | GOES 12,07/23/2001 7:23 a.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIA,Launch Successful
+Lockheed Martin,NROL-13 (Intruder 5A & 5B),Atlas IIAS | NROL-13,09/08/2001 3:25 p.m.,"Space Launch Complex 3E | Vandenberg SFB, CA, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,Starshine-OSCAR-43,Athena I | Starshine-OSCAR-43,09/30/2001 2:40 a.m.,"Launch Pad 1 | Pacific Spaceport Complex, Alaska, USA",Athena I,Launch Successful
+Lockheed Martin,NROL-12 (Quasar 14),Atlas IIAS | NROL-12,10/11/2001 2:32 a.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,Echostar VII,Atlas | Echostar VII,02/21/2002 12:43 p.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIIB,Launch Successful
+Lockheed Martin,TDRS 9,Atlas IIA | TDRS 9,03/08/2002 10:59 p.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIA,Launch Successful
+Lockheed Martin,Hot Bird 6,Atlas V 401 | Hot Bird 6,08/21/2002 10:05 p.m.,"Space Launch Complex 41 | Cape Canaveral, FL, USA",Atlas V 401,Launch Successful
+Lockheed Martin,INTELSAT 906,Ariane 44L | INTELSAT 906,09/06/2002 6:44 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Lockheed Martin,Hispasat 1D,Atlas IIAS | Hispasat 1D,09/18/2002 10:04 p.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,TDRS 10,Atlas IIA | TDRS 10,12/05/2002 2:42 a.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIA,Launch Successful
+Lockheed Martin,Asiasat 4,Atlas | Asiasat 4,04/12/2003 12:47 a.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIIB,Launch Successful
+Lockheed Martin,Hellas Sat 2,Atlas V 401 | Hellas Sat 2,05/13/2003 10:10 p.m.,"Space Launch Complex 41 | Cape Canaveral, FL, USA",Atlas V 401,Launch Successful
+Lockheed Martin,Rainbow 1,Atlas V 521 | Rainbow 1,07/17/2003 11:45 p.m.,"Space Launch Complex 41 | Cape Canaveral, FL, USA",Atlas V 521,Launch Successful
+Lockheed Martin,NROL-18 (Intruder 6A & 6B),Atlas IIAS | NROL-18,12/02/2003 10:04 a.m.,"Space Launch Complex 3E | Vandenberg SFB, CA, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,UHF F/O F11,Atlas | UHF F/O F11,12/18/2003 2:30 a.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIIB,Launch Successful
+Lockheed Martin,AMC 10,Atlas IIAS | AMC 10,02/05/2004 11:46 p.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,MBSAT,Atlas Agena B | MBSAT,03/13/2004 5:40 a.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIIA,Launch Successful
+Lockheed Martin,Superbird A2,Atlas IIAS | Superbird A2,04/16/2004 12:45 a.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,AMC 11,Atlas IIAS | AMC 11,05/19/2004 10:22 p.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,NROL-1 (Quasar 15),Atlas IIAS | NROL-1,08/31/2004 11:17 p.m.,"Launch Complex 36A | Cape Canaveral, FL, USA",Atlas IIAS,Launch Successful
+Lockheed Martin,AMC 16,Atlas V 521 | AMC 16,12/17/2004 12:07 p.m.,"Space Launch Complex 41 | Cape Canaveral, FL, USA",Atlas V 521,Launch Successful
+Lockheed Martin,NROL-23 (Intruder 7A & 7B),Atlas | NROL-23,02/03/2005 7:41 a.m.,"Launch Complex 36B | Cape Canaveral, FL, USA",Atlas IIIB,Launch Successful
+Lockheed Martin,INMARSAT 4 F1,Atlas V 431 | INMARSAT 4 F1,03/11/2005 9:42 p.m.,"Space Launch Complex 41 | Cape Canaveral, FL, USA",Atlas V 431,Launch Successful
+Lockheed Martin,Mars Reconnaissance Orbiter,Atlas V 401 | Mars Reconnaissance Orbiter,08/12/2005 11:43 a.m.,"Space Launch Complex 41 | Cape Canaveral, FL, USA",Atlas V 401,Launch Successful
+Lockheed Martin,Astra 1KR,Atlas V 411 | Astra 1KR,04/20/2006 8:27 p.m.,"Space Launch Complex 41 | Cape Canaveral, FL, USA",Atlas V 411,Launch Successful

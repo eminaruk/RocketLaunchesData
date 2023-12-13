@@ -1,0 +1,159 @@
+launch_service_provider,mission,name,net,pad,rocket,status
+Institute of Space and Astronautical Science,Ohsumi 1,Lambda 4S | Ohsumi 1,09/26/1966 2:58 a.m.,"KS Center | Uchinoura Space Center, Japan",Lambda 4S,Launch Failure
+Institute of Space and Astronautical Science,Ohsumi 2,Lambda 4S | Ohsumi 2,12/20/1966 2:20 a.m.,"KS Center | Uchinoura Space Center, Japan",Lambda 4S,Launch Failure
+Institute of Space and Astronautical Science,Ohsumi 3,Lambda 4S | Ohsumi 3,04/13/1967 2:40 a.m.,"KS Center | Uchinoura Space Center, Japan",Lambda 4S,Launch Failure
+Institute of Space and Astronautical Science,Ohsumi 4,Lambda 4S | Ohsumi 4,09/22/1969 2:10 a.m.,"KS Center | Uchinoura Space Center, Japan",Lambda 4S,Launch Failure
+Institute of Space and Astronautical Science,Ohsumi 5,Lambda 4S | Ohsumi 5,02/11/1970 4:25 a.m.,"KS Center | Uchinoura Space Center, Japan",Lambda 4S,Launch Successful
+Institute of Space and Astronautical Science,MS-F1,Mu-4S | MS-F1,09/25/1970 5 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-4S,Launch Failure
+Institute of Space and Astronautical Science,Tansei-1,Mu-4S | Tansei-1,02/16/1971 4 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-4S,Launch Successful
+Institute of Space and Astronautical Science,Shinsei,Mu-4S | Shinsei,09/28/1971 4 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-4S,Launch Successful
+Institute of Space and Astronautical Science,Denpa,Mu-4S | Denpa,08/19/1972 2:40 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-4S,Launch Successful
+Institute of Space and Astronautical Science,Tansei-2,Mu-3C | Tansei-2,02/16/1974 5 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3C,Launch Successful
+Institute of Space and Astronautical Science,Taiyo,Mu-3C | Taiyo,02/24/1975 5:25 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3C,Launch Successful
+National Space Development Agency of Japan,Kiku-1,N-I | Kiku-1,09/09/1975 5:30 a.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",N-I,Launch Successful
+Institute of Space and Astronautical Science,CORSA,Mu-3C | CORSA,02/04/1976 6 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3C,Launch Failure
+National Space Development Agency of Japan,Ume 1,N-I | Ume 1,02/29/1976 3:30 a.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",N-I,Launch Successful
+Institute of Space and Astronautical Science,Tansei-3,Mu-3H | Tansei-3,02/19/1977 5:15 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3H,Launch Successful
+National Space Development Agency of Japan,Kiku 2,N-I | Kiku 2,02/23/1977 8:50 a.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",N-I,Launch Successful
+Institute of Space and Astronautical Science,Kyokko,Mu-3H | Kyokko,02/04/1978 7 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3H,Launch Successful
+National Space Development Agency of Japan,Ume 2,N-I | Ume 2,02/16/1978 4 a.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",N-I,Launch Successful
+Institute of Space and Astronautical Science,Jikiken,Mu-3H | Jikiken,09/16/1978 5 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3H,Launch Successful
+National Space Development Agency of Japan,Ayame,N-I | Ayame,02/06/1979 8:46 a.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",N-I,Launch Failure
+Institute of Space and Astronautical Science,Hakucho,Mu-3C | Hakucho,02/21/1979 5 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3C,Launch Successful
+Institute of Space and Astronautical Science,Tansei-4,Mu-3S | Tansei-4,02/17/1980 12:40 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S,Launch Successful
+National Space Development Agency of Japan,Ayame 2,N-I | Ayame 2,02/22/1980 8:35 a.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",N-I,Launch Successful
+National Space Development Agency of Japan,Kiku-3,N-2 | Kiku-3,02/11/1981 8:30 a.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",N-2,Launch Successful
+Institute of Space and Astronautical Science,Hinotori,Mu-3S | Hinotori,02/21/1981 12:30 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S,Launch Successful
+National Space Development Agency of Japan,Himawari 2,N-2 | Himawari 2,08/10/1981 8:03 p.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",N-2,Launch Successful
+National Space Development Agency of Japan,Kiku-4,N-I | Kiku-4,09/03/1982 5 a.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",N-I,Launch Successful
+National Space Development Agency of Japan,Sakura 2A,N-2 | Sakura 2A,02/04/1983 8:37 a.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",N-2,Launch Successful
+Institute of Space and Astronautical Science,Tenma,Mu-3S | Tenma,02/20/1983 5:10 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S,Launch Successful
+National Space Development Agency of Japan,Sakura 2B,N-2 | Sakura 2B,08/05/1983 8:29 p.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",N-2,Launch Successful
+National Space Development Agency of Japan,Yuri 2A,N-2 | Yuri 2A,01/23/1984 7:58 a.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",N-2,Launch Successful
+Institute of Space and Astronautical Science,Ohzora,Mu-3S | Ohzora,02/14/1984 8 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S,Launch Successful
+National Space Development Agency of Japan,Himawari 3,N-2 | Himawari 3,08/02/1984 8:30 p.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",N-2,Launch Successful
+Institute of Space and Astronautical Science,Sakigake,Mu-3S-II | Sakigake,01/07/1985 7:26 p.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S-II,Launch Successful
+Institute of Space and Astronautical Science,Suisei,Mu-3S-II | Suisei,08/18/1985 11:33 p.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S-II,Launch Successful
+National Space Development Agency of Japan,Yuri 2B,N-2 | Yuri 2B,02/12/1986 7:55 a.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",N-2,Launch Successful
+Mitsubishi Heavy Industries,Ajisai,H-1 | Ajisai,08/12/1986 8:45 p.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",H-1,Launch Successful
+Institute of Space and Astronautical Science,Ginga,Mu-3S-II | Ginga,02/05/1987 6:30 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S-II,Launch Successful
+National Space Development Agency of Japan,Momo 1a,N-2 | Momo 1a,02/19/1987 1:23 a.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",N-2,Launch Successful
+Mitsubishi Heavy Industries,Kiku 5,H-1 | Kiku 5,08/27/1987 9:20 a.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",H-1,Launch Successful
+Mitsubishi Heavy Industries,Sakura 3A,H-1 | Sakura 3A,02/19/1988 10:05 a.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",H-1,Launch Successful
+Mitsubishi Heavy Industries,Sakura 3B,H-1 | Sakura 3B,09/16/1988 9:59 a.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",H-1,Launch Successful
+Institute of Space and Astronautical Science,Akebono,Mu-3S-II | Akebono,02/21/1989 11:30 p.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S-II,Launch Successful
+Mitsubishi Heavy Industries,Himawari 4,H-1 | Himawari 4,09/05/1989 7:11 p.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",H-1,Launch Successful
+Institute of Space and Astronautical Science,Hiten,Mu-3S-II | Hiten,01/24/1990 11:46 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S-II,Launch Successful
+Mitsubishi Heavy Industries,Momo 1b,H-1 | Momo 1b,02/07/1990 1:33 a.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",H-1,Launch Successful
+Mitsubishi Heavy Industries,Yuri 3A,H-1 | Yuri 3A,08/28/1990 9:05 a.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",H-1,Launch Successful
+Mitsubishi Heavy Industries,Yuri 3B,H-1 | Yuri 3B,08/25/1991 8:40 a.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",H-1,Launch Successful
+Institute of Space and Astronautical Science,Yohkoh,Mu-3S-II | Yohkoh,08/30/1991 2:30 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S-II,Launch Successful
+Mitsubishi Heavy Industries,Fuyo 1,H-1 | Fuyo 1,02/11/1992 1:50 a.m.,"Osaki Launch Complex | Tanegashima Space Center, Japan",H-1,Launch Successful
+Institute of Space and Astronautical Science,Asuka,Mu-3S-II | Asuka,02/20/1993 2:20 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S-II,Launch Successful
+Japan Aerospace Exploration Agency,Myojo & Ryusei,H-II | Myojo & Ryusei,02/03/1994 10:20 p.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-II,Launch Successful
+Japan Aerospace Exploration Agency,Kiku-6,H-II | Kiku-6,08/28/1994 7:50 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-II,Launch Successful
+Institute of Space and Astronautical Science,EXPRESS,Mu-3S-II | EXPRESS,01/15/1995 1:45 p.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S-II,Launch Failure
+Japan Aerospace Exploration Agency,SFU & Himawari 5,H-II | SFU & Himawari 5,03/18/1995 8:01 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-II,Launch Successful
+Japan Aerospace Exploration Agency,Midori,H-II | Midori,08/17/1996 1:53 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-II,Launch Successful
+Institute of Space and Astronautical Science,Haruka,M-V | Haruka,02/12/1997 4:50 a.m.,"Mu Center | Uchinoura Space Center, Japan",M-V,Launch Successful
+Japan Aerospace Exploration Agency,TRMM & ETS 7,H-II | TRMM & ETS 7,11/27/1997 9:27 p.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-II,Launch Successful
+Japan Aerospace Exploration Agency,Kakehashi,H-II | Kakehashi,02/21/1998 7:55 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-II,Launch Successful
+Institute of Space and Astronautical Science,Nozomi,M-V | Nozomi,07/03/1998 6:12 p.m.,"Mu Center | Uchinoura Space Center, Japan",M-V,Launch Successful
+Japan Aerospace Exploration Agency,MTSAT,H-II | MTSAT,11/15/1999 7:29 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-II,Launch Failure
+Institute of Space and Astronautical Science,ASTRO E,M-V | ASTRO E,02/10/2000 1:30 a.m.,"Mu Center | Uchinoura Space Center, Japan",M-V,Launch Failure
+Japan Aerospace Exploration Agency,LRE,H-IIA 202 | LRE,08/29/2001 7 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Japan Aerospace Exploration Agency,Tsubasa,H-IIA 2024 | Tsubasa,02/04/2002 2:45 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 2024,Launch Successful
+Japan Aerospace Exploration Agency,USERS & DRTS,H-IIA 2024 | USERS & DRTS,09/10/2002 8:20 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 2024,Launch Successful
+Japan Aerospace Exploration Agency,Midori-2,H-IIA 202 | Midori-2,12/14/2002 1:31 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Japan Aerospace Exploration Agency,IGS Radar 1 & IGS Optical 1,H-IIA 2024 | IGS Radar 1 & IGS Optical 1,03/28/2003 1:27 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 2024,Launch Successful
+Institute of Space and Astronautical Science,Hayabusa,M-V | Hayabusa,05/09/2003 4:29 a.m.,"Mu Center | Uchinoura Space Center, Japan",M-V,Launch Successful
+Japan Aerospace Exploration Agency,IGS Radar (2) & IGS Optical (2),H-IIA 2024 | IGS Radar (2) & IGS Optical (2),11/29/2003 4:33 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 2024,Launch Failure
+Japan Aerospace Exploration Agency,Himawari-6 (MTSAT-1R),H-IIA 2022 | Himawari-6 (MTSAT-1R),02/26/2005 9:25 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 2022,Launch Successful
+Japan Aerospace Exploration Agency,Suzaku,M-V | Suzaku,07/10/2005 3:30 a.m.,"Mu Center | Uchinoura Space Center, Japan",M-V,Launch Successful
+Japan Aerospace Exploration Agency,Daichi,H-IIA 2022 | Daichi,01/24/2006 1:33 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 2022,Launch Successful
+Japan Aerospace Exploration Agency,Himawari-7 (MTSAT-2),H-IIA 2024 | Himawari-7 (MTSAT-2),02/18/2006 6:27 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 2024,Launch Successful
+Japan Aerospace Exploration Agency,Akari,M-V | Akari,02/21/2006 9:28 p.m.,"Mu Center | Uchinoura Space Center, Japan",M-V,Launch Successful
+Japan Aerospace Exploration Agency,IGS Optical 2,H-IIA 202 | IGS Optical 2,09/11/2006 4:35 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Japan Aerospace Exploration Agency,Hinode,M-V | Hinode,09/22/2006 9:36 p.m.,"Mu Center | Uchinoura Space Center, Japan",M-V,Launch Successful
+Japan Aerospace Exploration Agency,Kiku-8,H-IIA 204 | Kiku-8,12/18/2006 6:32 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 204,Launch Successful
+Japan Aerospace Exploration Agency,IGS Radar 2 & IGS Optical 3V,H-IIA 2024 | IGS Radar 2 & IGS Optical 3V,02/24/2007 4:41 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 2024,Launch Successful
+Japan Aerospace Exploration Agency,Kaguya,H-IIA 2022 | Kaguya,09/14/2007 1:31 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 2022,Launch Successful
+Japan Aerospace Exploration Agency,Kizuna,H-IIA 2024 | Kizuna,02/23/2008 8:55 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 2024,Launch Successful
+Japan Aerospace Exploration Agency,GOSAT,H-IIA 202 | GOSAT,01/23/2009 3:54 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,Kounotori 1 (HTV-1),H-IIB 304 | Kounotori 1 (HTV-1),09/10/2009 5:01 p.m.,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H-IIB,Launch Successful
+Japan Aerospace Exploration Agency,IGS Optical 3,H-IIA 202 | IGS-Optical 3,11/28/2009 1:21 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,Akatsuki (Planet-C),H-IIA 202 | Akatsuki (Planet-C),05/20/2010 9:58 p.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,Michibiki (QZS-1),H-IIA 202 | Michibiki (QZS-1),09/11/2010 11:17 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,Kounotori 2 (HTV-2),H-IIB 304 | Kounotori 2 (HTV-2),01/22/2011 5:37 a.m.,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H-IIB,Launch Successful
+Mitsubishi Heavy Industries,IGS Optical 4,H-IIA 202 | IGS Optical 4,09/23/2011 4:36 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,IGS Radar 3,H-IIA 202 | IGS Radar 3,12/12/2011 1:21 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,GCOM-W1,H-IIA 202 | GCOM-W1,05/17/2012 4:39 p.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,Kounotori 3 (HTV-3),H-IIB 304 | Kounotori 3 (HTV-3),07/21/2012 2:06 a.m.,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H-IIB,Launch Successful
+Mitsubishi Heavy Industries,IGS Radar 4 & IGS Optical 5V,H-IIA 202 | IGS Radar 4 & IGS Optical 5V,01/27/2013 4:40 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,Kounotori 4 (HTV-4),H-IIB 304 | Kounotori 4 (HTV-4),08/03/2013 7:48 p.m.,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H-IIB,Launch Successful
+Japan Aerospace Exploration Agency,Hisaki (SPRINT-A),Epsilon | Hisaki (SPRINT-A),09/14/2013 5 a.m.,"Mu Center | Uchinoura Space Center, Japan",Epsilon,Launch Successful
+Mitsubishi Heavy Industries,GPM Core,H-IIA 202 | GPM-Core,02/27/2014 6:37 p.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,ALOS-2,H-IIA 202 | ALOS-2,05/24/2014 3:05 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,Himawari-8,H-IIA 202 | Himawari-8,10/07/2014 5:16 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,Hayabusa-2,H-IIA 202 | Hayabusa-2,12/03/2014 4:22 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,IGS Radar Spare,H-IIA 202 | IGS Radar Spare,02/01/2015 1:21 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,IGS Optical 5,H-IIA 202 | IGS Optical 5,03/26/2015 1:21 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,Kounotori 5 (HTV-5),H-IIB 304 | Kounotori 5 (HTV-5),08/19/2015 11:50 a.m.,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H-IIB,Launch Successful
+Mitsubishi Heavy Industries,Telstar 12 VANTAGE,H-IIA 204 | Telstar 12 VANTAGE,11/24/2015 6:50 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA,Launch Successful
+Mitsubishi Heavy Industries,Astro-H (Hitomi),H-IIA 202 | Astro-H (Hitomi),02/17/2016 8:45 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,Himawari-9,H-IIA 202 | Himawari-9,11/02/2016 6:20 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,Kounotori 6 (HTV-6),H-IIB 304 | Kounotori 6 (HTV-6),12/09/2016 1:26 p.m.,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H-IIB,Launch Successful
+Japan Aerospace Exploration Agency,ERG (Exploration of energization and Radiation in Geospace),Epsilon | ERG (ARASE),12/20/2016 11 a.m.,"Mu Center | Uchinoura Space Center, Japan",Epsilon,Launch Successful
+Japan Aerospace Exploration Agency,TRICOM-1,SS-520-4 | TRICOM-1,01/14/2017 11:33 p.m.,"KS Center | Uchinoura Space Center, Japan",SS-520,Launch Failure
+Mitsubishi Heavy Industries,DSN 2 (Kirameki 2),H-IIA 204 | DSN 2 (Kirameki 2),01/24/2017 7:44 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA,Launch Successful
+Mitsubishi Heavy Industries,IGS Radar 5,H-IIA 202 | IGS Radar 5,03/17/2017 1:20 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,Michibiki 2 (QZS-2),H-IIA 202 | Michibiki 2 (QZS-2),06/01/2017 12:17 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Interstellar Technologies,1st Test Flight,MOMO | 1st Test Flight,07/30/2017 7:30 a.m.,"Launch Complex 0 | Hokkaido Spaceport, Japan",MOMO v0,Launch Failure
+Mitsubishi Heavy Industries,Michibiki 3 (QZS-3),H-IIA 204 | Michibiki 3 (QZS-3),08/19/2017 5:29 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA,Launch Successful
+Mitsubishi Heavy Industries,Michibiki 4 (QZS-4),H-IIA 202 | Michibiki 4 (QZS-4),10/09/2017 10:01 p.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,GCOM-C1 & SLATS,H-IIA 202 | GCOM-C1 & SLATS,12/23/2017 1:26 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Japan Aerospace Exploration Agency,ASNARO-2,Epsilon | ASNARO-2,01/17/2018 9:06 p.m.,"Mu Center | Uchinoura Space Center, Japan",Epsilon,Launch Successful
+Japan Aerospace Exploration Agency,TRICOM-1R,SS-520-5 | TRICOM-1R,02/03/2018 5:03 a.m.,"KS Center | Uchinoura Space Center, Japan",SS-520,Launch Successful
+Japan Aerospace Exploration Agency,IGS Optical 6,H-IIA 202 | IGS Optical 6,02/27/2018 4:34 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,IGS Radar 6,H-IIA 202 | IGS Radar 6,06/12/2018 4:20 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Interstellar Technologies,Launch 2,MOMO | Launch 2,06/29/2018 8:30 p.m.,"Launch Complex 0 | Hokkaido Spaceport, Japan",MOMO v0,Launch Failure
+Mitsubishi Heavy Industries,Kounotori 7 (HTV-7),H-IIB 304 | Kounotori 7 (HTV-7),09/22/2018 5:52 p.m.,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H-IIB,Launch Successful
+Mitsubishi Heavy Industries,KhalifaSat & GOSAT-2,H-IIA 202 | KhalifaSat & GOSAT-2,10/29/2018 4:08 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Japan Aerospace Exploration Agency,RAPIS-1 & others,Epsilon | RAPIS-1 & others,01/18/2019 12:50 a.m.,"Mu Center | Uchinoura Space Center, Japan",Epsilon,Launch Successful
+Interstellar Technologies,Flight 3,MOMO | Flight 3,05/04/2019 8:45 p.m.,"Launch Complex 0 | Hokkaido Spaceport, Japan",MOMO v0,Launch Successful
+Interstellar Technologies,Flight 4,MOMO | Flight 4,07/27/2019 7:20 a.m.,"Launch Complex 0 | Hokkaido Spaceport, Japan",MOMO v0,Launch Failure
+Mitsubishi Heavy Industries,Kounotori 8 (HTV-8),H-IIB 304 | Kounotori 8 (HTV-8),09/24/2019 4:05 p.m.,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H-IIB,Launch Successful
+Mitsubishi Heavy Industries,IGS Optical 7,H-IIA 202 | IGS Optical 7,02/09/2020 1:34 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,Kounotori 9 (HTV-9),H-IIB 304 | Kounotori 9 (HTV-9),05/20/2020 5:31 p.m.,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H-IIB,Launch Successful
+Interstellar Technologies,Flight 5,MOMO | Flight 5,06/13/2020 8:15 p.m.,"Launch Complex 0 | Hokkaido Spaceport, Japan",MOMO v0,Launch Failure
+Mitsubishi Heavy Industries,Hope (Emirates Mars Mission),H-IIA 202 | Hope (Emirates Mars Mission),07/19/2020 9:58 p.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,JDRS-1,H-IIA 202 | JDRS-1,11/29/2020 7:25 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Interstellar Technologies,Flight 7,MOMO | Flight 7,07/03/2021 8:45 a.m.,"Launch Complex 0 | Hokkaido Spaceport, Japan",MOMO v1,Launch Successful
+Interstellar Technologies,Flight 6,MOMO | Flight 6,07/31/2021 8 a.m.,"Launch Complex 0 | Hokkaido Spaceport, Japan",MOMO v1,Launch Successful
+Mitsubishi Heavy Industries,QZS-1R,H-IIA 202 | QZS-1R,10/26/2021 2:19 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Japan Aerospace Exploration Agency,RAISE-2 & others,Epsilon | RAISE-2 & others,11/09/2021 12:55 a.m.,"Mu Center | Uchinoura Space Center, Japan",Epsilon,Launch Successful
+Mitsubishi Heavy Industries,Inmarsat-6 F1,H-IIA 204 | Inmarsat-6 F1,12/22/2021 3:32 p.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA,Launch Successful
+Japan Aerospace Exploration Agency,RAISE-3 & others,Epsilon | RAISE-3 & others,10/12/2022 12:50 a.m.,"Mu Center | Uchinoura Space Center, Japan",Epsilon,Launch Failure
+Mitsubishi Heavy Industries,IGS Radar 7,H-IIA 202 | IGS Radar 7,01/26/2023 1:50 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,ALOS-3 (Maiden flight),H3-22 | ALOS-3 (Maiden flight),03/07/2023 1:37 a.m.,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H3-22,Launch Failure
+Japan Aerospace Exploration Agency,XRISM & SLIM,H-IIA 202 | XRISM & SLIM,09/06/2023 11:42 p.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Launch Successful
+Mitsubishi Heavy Industries,IGS Optical 8,H-IIA 202 | IGS Optical 8,01/11/2024 4 a.m.,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,Go for Launch
+Mitsubishi Heavy Industries,H3 Test Flight 2,H3-22 | H3 Test Flight 2,03/31/2024 midnight,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H3-22,To Be Determined
+Japan Aerospace Exploration Agency,GOSAT-GW,H-IIA 202 | GOSAT-GW,04/30/2024 midnight,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,To Be Determined
+Mitsubishi Heavy Industries,IGS Radar 8,H-IIA 202 | IGS Radar 8,04/30/2024 midnight,"Yoshinobu Launch Complex LP-1 | Tanegashima Space Center, Japan",H-IIA 202,To Be Determined
+Mitsubishi Heavy Industries,DSN 3 (Kirameki 3),H3 | DSN 3 (Kirameki 3),12/31/2024 midnight,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H3,To Be Determined
+Mitsubishi Heavy Industries,HTV-X1,H3-24 | HTV-X1,12/31/2024 midnight,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H3-24,To Be Determined
+Mitsubishi Heavy Industries,Advanced Land Observing Satellite-4 (ALOS-4),H3-30 | Advanced Land Observing Satellite-4 (ALOS-4),12/31/2024 midnight,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H3-30,To Be Determined
+Mitsubishi Heavy Industries,Michibiki 5 (QZS-5),H3 | Michibiki 5 (QZS-5),12/31/2024 midnight,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H3,To Be Determined
+Mitsubishi Heavy Industries,—,H3 | Inmarsat satellite,12/31/2024 midnight,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H3,To Be Determined
+Japan Aerospace Exploration Agency,—,Epsilon | JV-LOTUSat-1,12/31/2024 midnight,"Mu Center | Uchinoura Space Center, Japan",Epsilon,To Be Determined
+Interstellar Technologies,Maiden Flight,ZERO | Maiden Flight,12/31/2025 midnight,"Launch Complex 1 | Hokkaido Spaceport, Japan",ZERO,To Be Determined
+Mitsubishi Heavy Industries,HTV-X2,H3-24 | HTV-X2,12/31/2025 midnight,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H3-24,To Be Determined
+Mitsubishi Heavy Industries,Lunar Polar Exploration Mission (LUPEX),H3 | Lunar Polar Exploration Mission (LUPEX),12/31/2025 midnight,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H3,To Be Determined
+Japan Aerospace Exploration Agency,RAISE-4 & others,Epsilon | RAISE-4 & others,12/31/2025 midnight,"Mu Center | Uchinoura Space Center, Japan",Epsilon,To Be Determined
+Mitsubishi Heavy Industries,Michibiki 7 (QZS-7),H3 | Michibiki 7 (QZS-7),12/31/2025 midnight,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H3,To Be Determined
+Japan Aerospace Exploration Agency,DESTINY+,Epsilon | DESTINY+,12/31/2025 midnight,"Mu Center | Uchinoura Space Center, Japan",Epsilon,To Be Determined
+Mitsubishi Heavy Industries,Michibiki 6 (QZS-6),H3 | Michibiki 6 (QZS-6),12/31/2025 midnight,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H3,To Be Determined
+Mitsubishi Heavy Industries,ETS-9,H3 | ETS-9,12/31/2025 midnight,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H3,To Be Determined
+Mitsubishi Heavy Industries,HTV-X3,H3-24 | HTV-X3,12/31/2026 midnight,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H3-24,To Be Determined
+Mitsubishi Heavy Industries,Martian Moon eXplorer (MMX),H3-24 | Martian Moon eXplorer (MMX),12/31/2026 midnight,"Yoshinobu Launch Complex LP-2 | Tanegashima Space Center, Japan",H3-24,To Be Determined

@@ -1,0 +1,469 @@
+{
+  "Unknown": [
+    "1worldspace",
+    "Asia Pacific Multilateral Cooperation in Space Technology and Applications",
+    "Asia-Pacific Space Cooperation Organization",
+    "Unknown"
+  ],
+  "United States": [
+    "ABL Space Systems",
+    "Ad Astra Rocket Company",
+    "Aerojet",
+    "Aevum",
+    "Alliant Techsystems",
+    "American Rocket Company",
+    "Amsat",
+    "Andrews Space",
+    "Armadillo Aerospace",
+    "Army Ballistic Missile Agency",
+    "Astranis Space Technologies Corp.",
+    "Astra Space",
+    "Astrobotic Technology",
+    "Axiom Space",
+    "Ball Aerospace & Technologies Corp.",
+    "Bigelow Aerospace",
+    "BlackSky",
+    "Blue Origin",
+    "Boeing",
+    "Capella Space",
+    "Chrysler",
+    "Convair",
+    "Deep Space Industries",
+    "Defense Advanced Research Projects Agency",
+    "Digital Globe",
+    "DirecTV",
+    "DSN Corporation",
+    "Echostar",
+    "EXOS Aerospace",
+    "Fairchild Space and Electronics Division",
+    "Firefly Aerospace",
+    "General Dynamics",
+    "General Electric",
+    "GeoOptics",
+    "Globalstar",
+    "HawkEye 360",
+    "Hughes",
+    "Hughes Aircraft",
+    "Interorbital Systems",
+    "Intuitive Machines",
+    "Iridium Communications",
+    "Kuiper Systems LLC",
+    "Leidos",
+    "Lockheed Martin",
+    "Lockheed Martin Space Operations",
+    "Lockheed Space Operations Company",
+    "Martin Marietta",
+    "Masten Space Systems",
+    "Maxar Technologies",
+    "McDonnell Douglas",
+    "Missile Defense Agency",
+    "National Aeronautics and Space Administration",
+    "National Oceanic and Atmospheric Administration",
+    "National Reconnaissance Office",
+    "National Security Agency",
+    "North American Aviation",
+    "Northrop Grumman Space Systems",
+    "Northrop Grumman Space Technology",
+    "Orbital ATK",
+    "Orbital Sciences Corporation",
+    "PanAmSat",
+    "Philco Ford",
+    "Planetary Resources",
+    "Planet Labs",
+    "PlanetSpace",
+    "ProtoStar",
+    "Relativity Space",
+    "Rivada Space Networks",
+    "Rocketdyne",
+    "Rockwell International",
+    "Sandia National Laboratories",
+    "Scaled Composites",
+    "Scorpius Space Launch Company",
+    "Sierra Nevada Corporation",
+    "Space Adventures",
+    "SpaceDev",
+    "Space Development Agency",
+    "Spaceflight Launch Services",
+    "Space Florida",
+    "Space Pioneer",
+    "SpaceQuest, Ltd.",
+    "Space Services Inc.",
+    "Space Systems/Loral",
+    "SpaceX",
+    "Spire Global",
+    "Stoke Space",
+    "Swales Aerospace",
+    "Tethers Unlimited, Inc.",
+    "TRW",
+    "United Launch Alliance",
+    "United Space Alliance",
+    "United States Air Force",
+    "United States Department of Defense",
+    "United States Space Force",
+    "UP Aerospace",
+    "US Army",
+    "US Navy",
+    "Vector",
+    "Viasat",
+    "Virgin Galactic",
+    "Virgin Orbit",
+    "Vought",
+    "WildBlue",
+    "XCOR Aerospace",
+    "XTAR LLC"
+  ],
+  "Brazil": [
+    "Aeronautics and Space Research and Diffusion Center",
+    "Brazilian Space Agency",
+    "Department of Aerospace Science and Technology",
+    "Star One"
+  ],
+  "France": [
+    "A\u00c3\u00a9rospatiale",
+    "Airbus Defence and Space",
+    "ArianeGroup",
+    "Arianespace",
+    "Astrium Satellites",
+    "Direction g\u00c3\u00a9n\u00c3\u00a9rale de l'armement",
+    "EADS Astrium Space Transportation",
+    "Eutelsat",
+    "French Armed Forces",
+    "Snecma",
+    "Soci\u00c3\u00a9t\u00c3\u00a9 d'\u00c3\u00a9tude et de r\u00c3\u00a9alisation d'engins balistiques",
+    "Thales Alenia Space"
+  ],
+  "South Korea": [
+    "Agency for Defense Development",
+    "Korea Aerospace Research Institute",
+    "Korean Astronaut Program",
+    "TiSPACE"
+  ],
+  "Algeria": [
+    "Algerian Space Agency"
+  ],
+  "United Arab Emirates": [
+    "AlYahSat",
+    "Mohammed bin Rashid Space Centre"
+  ],
+  "Russia": [
+    "A.M. Makarov Yuzhny Machine-Building Plant",
+    "Energia",
+    "GK Launch Services",
+    "International Launch Services",
+    "ISC Kosmotras",
+    "JSC Information Satellite Systems",
+    "KB Mashinostroyeniya",
+    "Khrunichev State Research and Production Space Center",
+    "Makeyev Rocket Design Bureau",
+    "Ministry of Defense of the Russian Federation",
+    "Moscow Institute of Thermal Technology",
+    "NPO Lavochkin",
+    "Production Corporation Polyot",
+    "Progress Rocket Space Center",
+    "RKK Energiya",
+    "Robotics Institute",
+    "Russian Aerospace Defence Forces",
+    "Russian Federal Space Agency (ROSCOSMOS)",
+    "Russian Space Forces",
+    "Seventh Ministry of Machine Building Industry",
+    "Strategic Rocket Forces"
+  ],
+  "India": [
+    "Antrix Corporation Limited",
+    "Hindustan Aeronautics Limited",
+    "Indian Space Research Organization"
+  ],
+  "Saudi Arabia": [
+    "Arab Satellite Communications Organization",
+    "Saudi Space Commission",
+    "Space Research Institute of Saudi Arabia"
+  ],
+  "Australia, Japan, South Korea": [
+    "Asia-Pacific Regional Space Agency Forum"
+  ],
+  "Malaysia": [
+    "Astronautic Technology Sdn Bhd",
+    "Malaysian National Space Agency",
+    "MEASAT Satellite Systems"
+  ],
+  "Japan": [
+    "Astroscale",
+    "Broadcasting Satellite System Corporation",
+    "Cabinet Intelligence and Research Office",
+    "IHI Corporation",
+    "Institute of Space and Astronautical Science",
+    "Interstellar Technologies",
+    "Japan Aerospace Exploration Agency",
+    "Mitsubishi Heavy Industries",
+    "National Space Development Agency of Japan",
+    "QPS Research Institute",
+    "SKY Perfect JSAT Group",
+    "Synspective"
+  ],
+  "Austria": [
+    "Austrian Space Agency"
+  ],
+  "United Kingdom": [
+    "Avanti Communications",
+    "British Aerospace",
+    "British Satellite Broadcasting",
+    "Hawker Siddeley Dynamics",
+    "Inmarsat",
+    "Orbex",
+    "Paradigm Secure Communications",
+    "Reaction Engines Ltd.",
+    "Royal Aircraft Establishment",
+    "Science and Engineering Research Council",
+    "Skyrora",
+    "Surrey Satellite Technology Ltd",
+    "UK Ministry Of Defence",
+    "UK Space Agency"
+  ],
+  "Italy": [
+    "Avio S.p.A",
+    "Italian Air Force",
+    "Italian Space Agency"
+  ],
+  "Azerbaijan": [
+    "Azerbaijan National Aerospace Agency"
+  ],
+  "Belarus": [
+    "Belarus Space Agency"
+  ],
+  "Belgium": [
+    "Belgian Institute for Space Aeronomy"
+  ],
+  "Venezuela": [
+    "Bolivarian Agency for Space Activities"
+  ],
+  "Bolivia": [
+    "Bolivian Space Agency"
+  ],
+  "Canada": [
+    "Bristol Aerospace Company",
+    "Canadian Arrow",
+    "Canadian Space Agency",
+    "Magellan Aerospace Corporation",
+    "National Research Council",
+    "Northstar Earth & Space",
+    "SPAR Aerospace",
+    "Telesat"
+  ],
+  "Bulgaria": [
+    "Bulgarian Space Agency"
+  ],
+  "Germany": [
+    "Bundeswehr",
+    "Eurockot Launch Services",
+    "German Aerospace Center",
+    "HyImpulse",
+    "Isar Aerospace",
+    "OHB System",
+    "Rocket Factory Augsburg"
+  ],
+  "China": [
+    "CAS Space",
+    "China Aerospace Corporation",
+    "China Aerospace Science and Industry Corporation",
+    "China Aerospace Science and Technology Corporation",
+    "China Great Wall Industry Corporation",
+    "China National Space Administration",
+    "China Rocket Co. Ltd.",
+    "ExPace",
+    "Galactic Energy",
+    "iSpace",
+    "LandSpace",
+    "No. 5 Research Academy",
+    "OneSpace",
+    "People's Liberation Army"
+  ],
+  "Singapore": [
+    "Centre for Remote Imaging, Sensing and Processing"
+  ],
+  "Colombia": [
+    "Colombian Space Commission"
+  ],
+  "Argentina": [
+    "Comisi\u00c3\u00b3n Nacional de Actividades Espaciales",
+    "INVAP"
+  ],
+  "International organization": [
+    "Committee on Space Research",
+    "Consultative Committee for Space Data Systems",
+    "European Launcher Development Organisation",
+    "European Organisation for the Exploitation of Meteorological Satellites",
+    "European Space Agency",
+    "European Space Research Organisation",
+    "European Union Agency for the Space Programme",
+    "Intelsat",
+    "International Institute for Aeronautical Sciences",
+    "Land Launch",
+    "Regional African Satellite Communication Organization",
+    "United Nations Committee on the Peaceful Uses of Outer Space",
+    "United Nations Office for Outer Space Affairs"
+  ],
+  "Australia": [
+    "Commonwealth Scientific and Industrial Research Organisation",
+    "Equatorial Launch Australia",
+    "Gilmour Space Technologies",
+    "National Space Activities Commission",
+    "Optus",
+    "Royal Australian Air Force",
+    "Southern Launch",
+    "Weapons Research Establishment"
+  ],
+  "Denmark": [
+    "Copenhagen Suborbitals",
+    "Danish National Space Center",
+    "Technical University of Denmark - National Space Institute"
+  ],
+  "Croatia": [
+    "Croatian Space Agency"
+  ],
+  "Portugal": [
+    "FCT Space Office"
+  ],
+  "Netherlands": [
+    "Fokker Space & Systems",
+    "Netherlands Institute for Space Research"
+  ],
+  "Thailand": [
+    "Geo-Informatics and Space Technology Development Agency",
+    "Thaicom"
+  ],
+  "Spain": [
+    "Hisdesat",
+    "HispaSat",
+    "Instituto Nacional de T\u00c3\u00a9cnica Aeroespacial",
+    "Payload Aerospace S.L."
+  ],
+  "Hungary": [
+    "Hungarian Space Office"
+  ],
+  "Greece": [
+    "Institute for Space Applications and Remote Sensing"
+  ],
+  "Iran": [
+    "Iranian Space Agency",
+    "Islamic Revolutionary Guard Corps Aerospace Force"
+  ],
+  "Israel": [
+    "Israel Aerospace Industries",
+    "Israeli Space Agency"
+  ],
+  "Kazakhstan": [
+    "Kazakh Space Research Institute",
+    "National Space Agency (KazCosmos)",
+    "National Space Agency of the Republic of Kazakhstan"
+  ],
+  "Norway": [
+    "Kongsberg Defence & Aerospace",
+    "Norwegian Space Centre"
+  ],
+  "North Korea": [
+    "Korean Committee of Space Technology",
+    "Ministry of Aerospace Industry",
+    "Ministry of Space Industry",
+    "National Aerospace Development Administration"
+  ],
+  "Lithuania": [
+    "Lithuanian Space Association"
+  ],
+  "Mexico": [
+    "Mexican Satellite System",
+    "Mexican Space Agency",
+    "Satmex"
+  ],
+  "Czech Republic": [
+    "Ministry of Transport of the Czech Republic - Space Technologies and Satellite Systems Department"
+  ],
+  "Egypt": [
+    "National Authority for Remote Sensing and Space Sciences"
+  ],
+  "Sudan": [
+    "National Center of Space Research"
+  ],
+  "Indonesia": [
+    "National Commission for Aerospace Research and Development",
+    "National Institute of Aeronautics and Space",
+    "PT Pasifik Satelit Nusantara",
+    "PT Telkom"
+  ],
+  "Nigeria": [
+    "National Commission for Space Research",
+    "National Space Research and Development Agency"
+  ],
+  "Mongolia": [
+    "National Remote Sensing Center of Mongolia"
+  ],
+  "Tunisia": [
+    "National Remote Sensing Center of Tunisia"
+  ],
+  "South Africa": [
+    "National Research Council",
+    "South African National Space Agency"
+  ],
+  "Ukraine": [
+    "National Space Agency of Ukraine",
+    "Yuzhnoye Design Bureau"
+  ],
+  "Taiwan": [
+    "National Space Organization"
+  ],
+  "Sweden": [
+    "Ovzon",
+    "Swedish National Space Board",
+    "Swedish Space Corp"
+  ],
+  "Pakistan": [
+    "Pakistan Space and Upper Atmosphere Research Commission"
+  ],
+  "Poland": [
+    "Polish Space Agency",
+    "Space Research Centre"
+  ],
+  "United States (headquarters in the United States and New Zealand)": [
+    "Rocket Lab"
+  ],
+  "Romania": [
+    "Romanian Space Agency"
+  ],
+  "Morocco": [
+    "Royal Centre for Remote Sensing"
+  ],
+  "Switzerland": [
+    "RUAG Space",
+    "Swiss Space Office"
+  ],
+  "International organization (Russia, Ukraine, United States, Norway)": [
+    "Sea Launch"
+  ],
+  "Luxembourg": [
+    "SES"
+  ],
+  "Soviet Union (no longer exists)": [
+    "Soviet Space Program"
+  ],
+  "Sri Lanka": [
+    "Space Research and Remote Sensing Organization",
+    "Sri Lanka Space Agency"
+  ],
+  "International organization (Russia, Europe)": [
+    "Starsem SA"
+  ],
+  "Turkey": [
+    "TUBITAK Space Technologies Research Institute",
+    "Turkish Aerospace Industries",
+    "Turkish Air Force",
+    "T\u00c3\u00bcrksat"
+  ],
+  "Turkmenistan": [
+    "Turkmenistan National Space Agency"
+  ],
+  "Uzbekistan": [
+    "Uzbek State Space Research Agency (UzbekCosmos)"
+  ],
+  "Vietnam": [
+    "Vietnam Posts and Telecommunications Group"
+  ]
+}

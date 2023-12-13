@@ -1,0 +1,73 @@
+launch_service_provider,mission,name,net,pad,rocket,status
+Orbital Sciences Corporation,—,"Pegasus | Pegsat, NavySat",04/05/1990 7:10 p.m.,Edwards Air Force Base | Air launch to orbit,Pegasus,Launch Successful
+Orbital Sciences Corporation,—,Pegasus HAPS | 7 microsats,07/17/1991 5:33 p.m.,Edwards Air Force Base | Air launch to orbit,Pegasus HAPS,Launch Successful
+Orbital Sciences Corporation,—,Pegasus | Satélite de Coleta de Dados-1 (SCD-1),02/09/1993 2:30 p.m.,Cape Canaveral | Air launch to orbit,Pegasus,Launch Successful
+Orbital Sciences Corporation,—,Pegasus | Array of Low Energy X-ray Imaging Sensors (ALEXIS),04/25/1993 1:56 p.m.,Edwards Air Force Base | Air launch to orbit,Pegasus,Launch Successful
+Orbital Sciences Corporation,STEP 0 & DARPASAT,Minotaur | STEP 0 & DARPASAT,03/13/1994 10:32 p.m.,"Space Launch Complex 576E | Vandenberg SFB, CA, USA",Minotaur,Launch Successful
+Orbital Sciences Corporation,—,Pegasus HAPS | Space Test Experiments Platform 2 (STEP-2),05/19/1994 5:03 p.m.,Edwards Air Force Base | Air launch to orbit,Pegasus HAPS,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | Space Test Experiments Platform 1 (STEP-1),06/27/1994 9:15 p.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus XL,Launch Failure
+Orbital Sciences Corporation,APEX,Pegasus | APEX,08/03/1994 2:38 p.m.,Edwards Air Force Base | Air launch to orbit,Pegasus,Launch Successful
+Orbital Sciences Corporation,—,Pegasus Hybrid | Orbcomm F1 - F2 & OrbView-1,04/03/1995 1:48 p.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus Hybrid,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | Space Test Experiments Platform-3 (STEP-3),06/22/1995 7:58 p.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus XL,Launch Failure
+Orbital Sciences Corporation,—,Pegasus XL | REX II,03/09/1996 1:53 a.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,—,Pegasus Hybrid | Miniature Sensor Technology Integration 3 (MSTI-3),05/17/1996 2:44 a.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus Hybrid,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | Total Ozone Mapping Spectrometer (TOMS),07/02/1996 7:48 a.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | Fast Auroral Snapshot Explorer (FAST),08/21/1996 9:47 a.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | High Energy Transient Explorer (HETE) & Satelite de Aplicaciones Cientificas-B (SAC-B),11/04/1996 5:08 p.m.,Wallops Flight Facility | Air launch to orbit,Pegasus XL,Launch Failure
+Orbital Sciences Corporation,—,Pegasus XL | Minisat & Celestis Space Burial #1,04/21/1997 11:59 a.m.,Gran Canaria | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | OrbView-2,08/01/1997 8:20 p.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | Fast On-orbit Rapid Recording of Transient Events (FORTE),08/29/1997 3:02 p.m.,"Space Launch Complex 10E | Vandenberg SFB, CA, USA",Pegasus XL,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | Space Test Experiments Platform-4 (STEP-4),10/22/1997 1:13 p.m.,Wallops Flight Facility | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL HAPS | Orbcomm-A1 - A8,12/23/1997 7:11 p.m.,Wallops Flight Facility | Air launch to orbit,Pegasus XL HAPS,Launch Successful
+Orbital Sciences Corporation,GFO,Taurus 2210 | GFO,02/10/1998 1:20 p.m.,"Space Launch Complex 576E | Vandenberg SFB, CA, USA",Minotaur-C 2210,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | Broadband Advanced Technologies Satellite (BATSAT/Teledesic T1) & Student Nitric Oxide Explorer (SNOE),02/26/1998 7:07 a.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | Transition Region and Coronal Explorer (TRACE),04/02/1998 2:42 a.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL HAPS | Orbcomm-B1 - B8,08/02/1998 4:24 p.m.,Wallops Flight Facility | Air launch to orbit,Pegasus XL HAPS,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL HAPS | Orbcomm-C1 - C8,09/23/1998 5:06 a.m.,Wallops Flight Facility | Air launch to orbit,Pegasus XL HAPS,Launch Successful
+Orbital Sciences Corporation,NROL-8 (STEX),Minotaur | NROL-8,10/03/1998 10:04 a.m.,"Space Launch Complex 576E | Vandenberg SFB, CA, USA",Minotaur,Launch Successful
+Orbital Sciences Corporation,—,Pegasus Hybrid | Satélite de Coleta de Dados-2 (SCD-2),10/23/1998 12:02 a.m.,Cape Canaveral | Air launch to orbit,Pegasus Hybrid,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | Submillimeter Wave Astronomy Satellite (SWAS),12/06/1998 12:57 a.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | Wide Field Infrared Explorer (WIRE),03/05/1999 2:56 a.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,—,"Pegasus XL HAPS | Multiple Paths, Beyond-Line-of-Sight Communications (MUBLCOM) & Topographic Experiment using Radiative Recombinative Ionospheric EUV and Radio Sources (TERRIERS)",05/18/1999 5:09 a.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus XL HAPS,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL HAPS | Orbcomm-D2 - D8,12/04/1999 6:53 p.m.,Wallops Flight Facility | Air launch to orbit,Pegasus XL HAPS,Launch Successful
+Orbital Sciences Corporation,Arirang-1 & ACRIMSat,Taurus 2110 | Arirang-1 & ACRIMSat,12/21/1999 7:13 a.m.,"Space Launch Complex 576E | Vandenberg SFB, CA, USA",Minotaur-C 2110,Launch Successful
+Orbital Sciences Corporation,JAWSAT & FalconSat 1,Minotaur I | JAWSAT & FalconSat 1,01/27/2000 3:03 a.m.,"Space Launch Complex 8 | Vandenberg SFB, CA, USA",Minotaur I,Launch Successful
+Orbital Sciences Corporation,MTI,Taurus 1110 | MTI,03/12/2000 9:29 a.m.,"Space Launch Complex 576E | Vandenberg SFB, CA, USA",Minotaur-C 1110,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | Tri-Services Experiments Platform-5 (TSX-5),06/07/2000 1:19 p.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,Sindri,Minotaur I | Sindri,07/19/2000 8:09 p.m.,"Space Launch Complex 8 | Vandenberg SFB, CA, USA",Minotaur I,Launch Successful
+Orbital Sciences Corporation,—,Pegasus Hybrid | High Energy Transient Explorer 2 (HETE-2),10/09/2000 5:38 a.m.,Kwajalein Atoll | Air launch to orbit,Pegasus Hybrid,Launch Successful
+Orbital Sciences Corporation,OrbView-4,Taurus 2110 | OrbView-4,09/21/2001 6:49 p.m.,"Space Launch Complex 576E | Vandenberg SFB, CA, USA",Minotaur-C 2110,Launch Failure
+Orbital Sciences Corporation,—,Pegasus XL | Reuven Ramaty High Energy Solar Spectroscopic Imager (RHESSI),02/05/2002 8:58 p.m.,Cape Canaveral | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | Solar Radiation and Climate Experiment (SORCE),01/25/2003 8:13 p.m.,Cape Canaveral | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | Galaxy Evolution Explorer (GALEX),04/28/2003 noon,Cape Canaveral | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | OrbView-3,06/26/2003 6:55 p.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | SCISAT-1,08/13/2003 2:09 a.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,Formosat-2,Taurus 3210 | Formosat-2,05/20/2004 5:47 p.m.,"Space Launch Complex 576E | Vandenberg SFB, CA, USA",Minotaur-C 3210,Launch Successful
+Orbital Sciences Corporation,XSS-11,Minotaur I | XSS-11,04/11/2005 1:35 p.m.,"Space Launch Complex 8 | Vandenberg SFB, CA, USA",Minotaur I,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | Demonstration for Autonomous Rendezvous Technology (DART),04/15/2005 5:27 p.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,STP-R1,Minotaur I | STP-R1,09/23/2005 2:24 a.m.,"Space Launch Complex 8 | Vandenberg SFB, CA, USA",Minotaur I,Launch Successful
+Orbital Sciences Corporation,ST-5 FWD,Pegasus XL | ST-5 FWD,03/22/2006 2:03 p.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | Space Technology 5 (ST-5) (3x microsats),03/28/2006 8:10 p.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,COSMIC 1-6,Minotaur I | COSMIC 1-6,04/15/2006 1:40 a.m.,"Space Launch Complex 8 | Vandenberg SFB, CA, USA",Minotaur I,Launch Successful
+Orbital Sciences Corporation,Tacsat 2,Minotaur I | Tacsat 2,12/16/2006 noon,"Launch Area 0 B | Wallops Island, Virginia, USA",Minotaur I,Launch Successful
+Orbital Sciences Corporation,NFIRE,Minotaur I | NFIRE,04/24/2007 6:48 a.m.,"Launch Area 0 B | Wallops Island, Virginia, USA",Minotaur I,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | Aeronomy of Ice in the Mesosphere (AIM),04/25/2007 8:26 p.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | Communications/Navigation Outage Forecasting System (C/NOFS),04/16/2008 5:01 p.m.,Kwajalein Atoll | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,—,Pegasus XL | Interstellar Boundary Explorer (IBEX),10/19/2008 5:47 p.m.,Kwajalein Atoll | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,OCO,Taurus 3110 | OCO,02/24/2009 9:55 a.m.,"Space Launch Complex 576E | Vandenberg SFB, CA, USA",Minotaur-C 3110,Launch Failure
+Orbital Sciences Corporation,Tacsat 3,Minotaur I | Tacsat 3,05/19/2009 11:55 p.m.,"Launch Area 0 B | Wallops Island, Virginia, USA",Minotaur I,Launch Successful
+Orbital Sciences Corporation,—,Minotaur IV | SBSS (USA-216),09/26/2010 4:41 a.m.,"Space Launch Complex 8 | Vandenberg SFB, CA, USA",Minotaur IV,Launch Successful
+Orbital Sciences Corporation,STP S-26,Minotaur IV HAPS | STP S-26,11/20/2010 1:25 a.m.,"Launch Pad 1 | Pacific Spaceport Complex, Alaska, USA",Minotaur IV,Launch Successful
+Orbital Sciences Corporation,NROL-66 (RPP) (USA-225),Minotaur I | NROL-66 (RPP) (USA-225),02/06/2011 12:26 p.m.,"Space Launch Complex 8 | Vandenberg SFB, CA, USA",Minotaur I,Launch Successful
+Orbital Sciences Corporation,—,Minotaur-C (Taurus XL) | Glory,03/04/2011 10:09 a.m.,"Space Launch Complex 8 | Vandenberg SFB, CA, USA",Minotaur,Launch Failure
+Orbital Sciences Corporation,ORS-1 (USA-231),Minotaur I | ORS-1 (USA-231),06/30/2011 3:09 a.m.,"Launch Area 0 B | Wallops Island, Virginia, USA",Minotaur I,Launch Successful
+Orbital Sciences Corporation,—,Minotaur IV+ | TacSat-4,09/27/2011 3:49 p.m.,"Launch Pad 1 | Pacific Spaceport Complex, Alaska, USA",Minotaur IV,Launch Successful
+Orbital Sciences Corporation,Nuclear Spectroscopic Telescope Array (NuSTAR),Pegasus XL | Nuclear Spectroscopic Telescope Array (NuSTAR),06/13/2012 4 p.m.,Kwajalein Atoll | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,—,Antares 110 | Cygnus Mass Simulator,04/21/2013 9 p.m.,"Launch Area 0 A | Wallops Island, Virginia, USA",Antares 110,Launch Successful
+Orbital Sciences Corporation,Interface Region Imaging Spectrograph (IRIS),Pegasus XL | Interface Region Imaging Spectrograph (IRIS),06/28/2013 2:27 a.m.,Vandenberg Space Force Base | Air launch to orbit,Pegasus XL,Launch Successful
+Orbital Sciences Corporation,LADEE,Minotaur V | LADEE,09/07/2013 3:27 a.m.,"Launch Area 0 B | Wallops Island, Virginia, USA",Minotaur V,Launch Successful
+Orbital Sciences Corporation,Cygnus Orb-D1 (S.S. G. David Low),Antares 110 | Cygnus Orb-1 (S.S. G. David Low),09/18/2013 2:58 p.m.,"Launch Area 0 A | Wallops Island, Virginia, USA",Antares 110,Launch Successful
+Orbital Sciences Corporation,ORS 3 and STPSat 3,Minotaur I | ORS-3,11/20/2013 1:15 a.m.,"Launch Area 0 B | Wallops Island, Virginia, USA",Minotaur I,Launch Successful
+Orbital Sciences Corporation,ORB-1,Antares 120 | Cygnus CRS Orb-1,01/09/2014 6:07 p.m.,"Launch Area 0 A | Wallops Island, Virginia, USA",Antares 120,Launch Successful
+Orbital Sciences Corporation,Cygnus CRS Orb-2,Antares 120 | Cygnus CRS Orb-2,07/13/2014 4:52 p.m.,"Launch Area 0 A | Wallops Island, Virginia, USA",Antares 120,Launch Successful
+Orbital Sciences Corporation,Cygnus CRS Orb-3,Antares 130 | Cygnus CRS Orb-3,10/28/2014 10:22 p.m.,"Launch Area 0 A | Wallops Island, Virginia, USA",Antares 130,Launch Failure

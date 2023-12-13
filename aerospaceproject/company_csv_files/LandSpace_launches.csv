@@ -1,0 +1,5 @@
+launch_service_provider,mission,name,net,pad,rocket,status
+LandSpace,Weilai-1 (Future-1),Zhuque-1 | Weilai-1 (Future-1),10/27/2018 8 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Zhuque-1,Launch Failure
+LandSpace,Maiden Flight,Zhuque-2 | Maiden Flight,12/14/2022 8:30 a.m.,"Launch Area 96 | Jiuquan Satellite Launch Center, People's Republic of China",Zhuque-2,Launch Failure
+LandSpace,Flight 2,Zhuque-2 | Flight 2,07/12/2023 1 a.m.,"Launch Area 96 | Jiuquan Satellite Launch Center, People's Republic of China",Zhuque-2,Launch Successful
+LandSpace,Flight 3,Zhuque-2 | Flight 3,12/08/2023 11:39 p.m.,"Launch Area 96 | Jiuquan Satellite Launch Center, People's Republic of China",Zhuque-2,Launch Successful

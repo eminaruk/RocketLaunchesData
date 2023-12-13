@@ -1,0 +1,303 @@
+launch_service_provider,mission,name,net,pad,rocket,status
+SpaceX,FalconSAT-2,Falcon 1 | FalconSAT-2,03/24/2006 10:30 p.m.,"Omelek Island | Ronald Reagan Ballistic Missile Defense Test Site, Kwajalein Atoll, Marshall Islands",Falcon 1,Launch Failure
+SpaceX,DemoSat,Falcon 1 | DemoSat,03/21/2007 1:10 a.m.,"Omelek Island | Ronald Reagan Ballistic Missile Defense Test Site, Kwajalein Atoll, Marshall Islands",Falcon 1,Launch Failure
+SpaceX,Flight 3,Falcon 1 | Flight 3,08/03/2008 3:34 a.m.,"Omelek Island | Ronald Reagan Ballistic Missile Defense Test Site, Kwajalein Atoll, Marshall Islands",Falcon 1,Launch Failure
+SpaceX,RatSat,Falcon 1 | RatSat,09/28/2008 11:15 p.m.,"Omelek Island | Ronald Reagan Ballistic Missile Defense Test Site, Kwajalein Atoll, Marshall Islands",Falcon 1,Launch Successful
+SpaceX,RazakSAT,Falcon 1 | RazakSAT,07/14/2009 3:35 a.m.,"Omelek Island | Ronald Reagan Ballistic Missile Defense Test Site, Kwajalein Atoll, Marshall Islands",Falcon 1,Launch Successful
+SpaceX,Dragon Spacecraft Qualification Unit (DSQU),Falcon 9 v1.0 | Dragon Spacecraft Qualification Unit (DSQU),06/04/2010 6:45 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,SpaceX COTS Demo Flight 1,Falcon 9 v1.0 | SpaceX COTS Demo Flight 1,12/08/2010 3:43 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,SpaceX COTS Demo Flight 2,Falcon 9 v1.0 | SpaceX COTS Demo Flight 2,05/22/2012 7:44 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,SpX CRS-2,Falcon 9 v1.0 | SpX CRS-2,03/01/2013 3:10 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,CASSIOPE,Falcon 9 v1.1 | CASSIOPE,09/29/2013 4 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,SES-8,Falcon 9 v1.1 | SES-8,12/03/2013 9:41 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Thaicom-6,Falcon 9 v1.1 | Thaicom-6,01/06/2014 10:06 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,SpX CRS-3,Falcon 9 v1.1 | SpX CRS-3,04/18/2014 7:25 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Orbcomm OG2 Mission 1,Falcon 9 v1.1 | Orbcomm OG2 Mission 1,07/14/2014 3:15 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,AsiaSat 8,Falcon 9 v1.1 | Asiasat 8,08/05/2014 8 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,AsiaSat 6,Falcon 9 v1.1 | AsiaSat 6,09/07/2014 5 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,SpX CRS-4,Falcon 9 v1.1 | SpX CRS-4,09/21/2014 5:52 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,SpX CRS-5,Falcon 9 v1.1 | SpX CRS-5,01/10/2015 9:47 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,DSCOVR,Falcon 9 | DSCOVR,02/11/2015 11:03 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Eutelsat 115 West B & ABS-3A,Falcon 9 v1.1 | Eutelsat 115 West B & ABS-3A,03/02/2015 3:50 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,SpX CRS-6,Falcon 9 v1.1 | SpX CRS-6,04/14/2015 8:10 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,TurkmenÃ„lem52E/MonacoSAT,Falcon 9 v1.1 | TürkmenÄlem 52E/MonacoSAT,04/27/2015 11:03 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,SpX CRS-7,Falcon 9 v1.1 | SpX CRS-7,06/28/2015 2:21 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Failure
+SpaceX,Orbcomm OG2 Mission 2,Falcon 9 Full Thrust | Orbcomm OG2 Mission 2,12/22/2015 1:29 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Jason 3,Falcon 9 v1.1 | Jason-3,01/17/2016 6:42 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,SES-9,Falcon 9 Full Thrust | SES-9,03/04/2016 11:35 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,SpX CRS-8,Falcon 9 Full Thrust | SpX CRS-8,04/08/2016 8:43 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,JCSAT-14,Falcon 9 Full Thrust | JCSAT-14,05/06/2016 5:21 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Thaicom 8,Falcon 9 Full Thrust | Thaicom 8,05/27/2016 9:39 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Eutelsat 117 West B & ABS-2A,Falcon 9 Full Thrust | Eutelsat 117 West B & ABS-2A,06/15/2016 2:29 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,SpX CRS-9,Falcon 9 Full Thrust | SpX CRS-9,07/18/2016 4:45 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,JCSAT-16,Falcon 9 Full Thrust | JCSAT-16,08/14/2016 5:26 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Amos 6 (Failure before launch),Falcon 9 Full Thrust | Amos 6 (Failure before launch),09/03/2016 7 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Failure
+SpaceX,Iridium-1,Falcon 9 Full Thrust | Iridium-1,01/14/2017 5:54 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,SpX CRS-10,Falcon 9 Full Thrust | SpX CRS-10,02/19/2017 2:39 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Echostar 23,Falcon 9 Full Thrust | Echostar 23,03/16/2017 6 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,SES-10,Falcon 9 Full Thrust | SES-10,03/30/2017 10:27 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,NROL-76,Falcon 9 Full Thrust | NROL-76,05/01/2017 11:15 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Inmarsat-5 F4,Falcon 9 Full Thrust | Inmarsat-5 F4,05/15/2017 11:21 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,SpX CRS-11,Falcon 9 Full Thrust | SpX CRS-11,06/03/2017 9:07 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,BulgariaSat-1,Falcon 9 Full Thrust | BulgariaSat-1,06/23/2017 7:10 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Iridium-2,Falcon 9 Full Thrust | Iridium-2,06/25/2017 8:25 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Intelsat 35e,Falcon 9 Full Thrust | Intelsat 35e,07/05/2017 11:38 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,SpX CRS-12,Falcon 9 Block 4 | SpX CRS-12,08/14/2017 4:31 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Formosat 5,Falcon 9 Full Thrust | Formosat 5,08/24/2017 6:51 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,OTV-5 (X-37B),Falcon 9 Block 4 | OTV-5 (X-37B),09/07/2017 2 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Iridium-3,Falcon 9 Block 4 | Iridium-3,10/09/2017 12:37 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Echostar 105/SES-11,Falcon 9 Full Thrust | Echostar 105/SES-11,10/11/2017 10:53 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Koreasat 5A,Falcon 9 Block 4 | Koreasat 5A,10/30/2017 7:34 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,SpX CRS-13,Falcon 9 Full Thrust | SpX CRS-13,12/15/2017 3:36 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Iridium-4,Falcon 9 Full Thrust | Iridium-4,12/23/2017 1:27 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Zuma,Falcon 9 Block 4 | Zuma,01/08/2018 1 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,GovSat (SES-16),Falcon 9 Full Thrust | GovSat (SES-16),01/31/2018 9:25 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Demo Flight 1 (Maiden Flight),Falcon Heavy | Demo (Test Flight),02/06/2018 8:45 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon Heavy,Launch Successful
+SpaceX,"PAZ & Microsat-2a, Microsat-2b","Falcon 9 Full Thrust | PAZ & Microsat-2a, Microsat-2b",02/22/2018 2:17 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Hispasat 30W-6 (Hispasat 1F),Falcon 9 Block 4 | Hispasat 30W-6 (Hispasat 1F),03/06/2018 5:33 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Iridium-5,Falcon 9 Block 4 | Iridium-5,03/30/2018 2:13 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,SpX CRS-14,Falcon 9 Block 4 | SpX CRS-14,04/02/2018 8:30 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,TESS (Transiting Exoplanet Survey Satellite),Falcon 9 Block 4 | TESS (Transiting Exoplanet Survey Satellite),04/18/2018 10:51 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Bangabandhu-1,Falcon 9 Block 5 | Bangabandhu-1,05/11/2018 8:14 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Iridium-6 & GRACE-FO,Falcon 9 Block 4 | Iridium-6 & GRACE-FO,05/22/2018 7:47 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,SES-12,Falcon 9 Block 4 | SES-12,06/04/2018 4:45 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,SpX CRS-15,Falcon 9 Block 4 | SpX CRS-15,06/29/2018 9:42 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Telstar 19 VANTAGE,Falcon 9 Block 5 | Telstar 19 VANTAGE,07/22/2018 5:50 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Iridium-7,Falcon 9 Block 5 | Iridium-7,07/25/2018 11:39 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Merah Putih (Telkom-4),Falcon 9 Block 5 | Merah Putih (Telkom-4),08/07/2018 5:18 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Telstar 18 VANTAGE,Falcon 9 Block 5 | Telstar 18 VANTAGE,09/10/2018 4:45 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,SAOCOM 1A,Falcon 9 Block 5 | SAOCOM 1A,10/08/2018 2:21 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Es'hail 2,Falcon 9 Block 5 | Es'hail 2,11/15/2018 8:46 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Spaceflight SSO-A,Falcon 9 Block 5 | Spaceflight SSO-A,12/03/2018 6:34 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,SpX CRS-16,Falcon 9 Block 5 | SpX CRS-16,12/05/2018 6:16 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,"GPS III SV01 ""Vespucci""",Falcon 9 Block 5 | GPS III SV01,12/23/2018 1:51 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Iridium-8,Falcon 9 Block 5 | Iridium-8,01/11/2019 3:31 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,"GTO-1 (Beresheet, S5)","Falcon 9 Block 5 | Nusantara Satu & GTO-1 (Beresheet, S5)",02/22/2019 1:45 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,SpaceX DM-1 (Demonstration Mission 1),Falcon 9 Block 5 | SpX-DM1 (Demonstration Mission 1),03/02/2019 7:49 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Arabsat-6A,Falcon Heavy | Arabsat-6A,04/11/2019 10:35 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon Heavy,Launch Successful
+SpaceX,SpX CRS-17,Falcon 9 Block 5 | SpX CRS-17,05/04/2019 6:48 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Demo,Falcon 9 Block 5 | Starlink Demo (0.9),05/24/2019 2:30 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,RADARSAT Constellation,Falcon 9 Block 5 | RADARSAT Constellation,06/12/2019 2:17 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,STP-2,Falcon Heavy | STP-2,06/25/2019 6:30 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon Heavy,Launch Successful
+SpaceX,SpX CRS-18,Falcon 9 Block 5 | SpX CRS-18,07/25/2019 10:01 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starhopper 20m Hop,Starship Hopper | 20m Hop,07/26/2019 3:45 a.m.,"Launch Pad A | SpaceX Starbase, TX, USA",Starship Prototype,Launch Successful
+SpaceX,Amos-17,Falcon 9 Block 5 | Amos-17,08/06/2019 11:23 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starhopper 150m Hop,Starship Hopper | 150m Hop,08/27/2019 10:02 p.m.,"Launch Pad A | SpaceX Starbase, TX, USA",Starship Prototype,Launch Successful
+SpaceX,Starlink 1,Falcon 9 Block 5 | Starlink 1,11/11/2019 2:56 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,SpX CRS-19,Falcon 9 Block 5 | SpX CRS-19,12/05/2019 5:29 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,JCSAT-18/KACIFIC-1,Falcon 9 Block 5 | JCSAT-18/KACIFIC-1,12/17/2019 12:10 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 2,Falcon 9 Block 5 | Starlink 2,01/07/2020 2:19 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Crew Dragon In-Flight Abort Test,Falcon 9 Block 5 | Dragon In-Flight Abort Test,01/19/2020 3:30 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 3,Falcon 9 Block 5 | Starlink 3,01/29/2020 2:06 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 4,Falcon 9 Block 5 | Starlink 4,02/17/2020 3:05 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,SpX CRS-20,Falcon 9 Block 5 | SpX CRS-20,03/07/2020 4:50 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 5,Falcon 9 Block 5 | Starlink 5,03/18/2020 12:16 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 6,Falcon 9 Block 5 | Starlink 6,04/22/2020 7:30 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,SpX-DM2 (Demonstration Mission 2),Falcon 9 Block 5 | SpX-DM2 (Demonstration Mission 2),05/30/2020 7:22 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 7,Falcon 9 Block 5 | Starlink 7,06/04/2020 1:25 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 8,Falcon 9 Block 5 | Starlink 8,06/13/2020 9:21 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,"GPS III SV03 ""Columbus""",Falcon 9 Block 5 | GPS III SV03,06/30/2020 8:10 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,ANASIS-II,Falcon 9 Block 5 | ANASIS-II,07/20/2020 9:30 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starship SN5 150m Hop,Starship SN5 | 150m Hop,08/04/2020 11:57 p.m.,"Launch Pad A | SpaceX Starbase, TX, USA",Starship Prototype,Launch Successful
+SpaceX,Starlink 9,Falcon 9 Block 5 | Starlink 9,08/07/2020 5:12 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 10,Falcon 9 Block 5 | Starlink 10,08/18/2020 2:31 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,SAOCOM 1B,Falcon 9 Block 5 | SAOCOM 1B,08/30/2020 11:18 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 11,Falcon 9 Block 5 | Starlink 11,09/03/2020 12:46 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,SN6 150m Hop,Starship SN6 | 150m Hop,09/03/2020 5:48 p.m.,"Launch Pad A | SpaceX Starbase, TX, USA",Starship Prototype,Launch Successful
+SpaceX,Starlink 12,Falcon 9 Block 5 | Starlink 12,10/06/2020 11:29 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 13,Falcon 9 Block 5 | Starlink 13,10/18/2020 12:25 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 14,Falcon 9 Block 5 | Starlink 14,10/24/2020 3:31 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,"GPS III SV04 ""Sacagawea""",Falcon 9 Block 5 | GPS III SV04,11/05/2020 11:24 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Crew-1,Falcon 9 Block 5 | Crew-1,11/16/2020 12:27 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Sentinel-6 Michael Freilich (Sentinel-6A; Jason-CS),Falcon 9 Block 5 | Sentinel-6 Michael Freilich,11/21/2020 5:17 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 15,Falcon 9 Block 5 | Starlink 15,11/25/2020 2:13 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Dragon CRS-2 SpX-21,Falcon 9 Block 5 | Dragon CRS-2 SpX-21,12/06/2020 4:17 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,SXM-7,Falcon 9 Block 5 | Sirius SXM-7,12/13/2020 5:30 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,NROL-108,Falcon 9 Block 5 | NROL-108,12/19/2020 2 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Türksat 5A,Falcon 9 Block 5 | Türksat 5A,01/08/2021 2:15 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 16,Falcon 9 Block 5 | Starlink 16,01/20/2021 1:02 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Transporter 1 (Dedicated SSO Rideshare),Falcon 9 Block 5 | Transporter 1 (Dedicated SSO Rideshare),01/24/2021 3 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 18,Falcon 9 Block 5 | Starlink 18,02/04/2021 6:19 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 19,Falcon 9 Block 5 | Starlink 19,02/16/2021 3:59 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,10 km Flight,Starship SN10 | 10 km Flight,03/03/2021 11:15 p.m.,"Launch Pad A | SpaceX Starbase, TX, USA",Starship Prototype,Launch Successful
+SpaceX,Starlink 17,Falcon 9 Block 5 | Starlink 17,03/04/2021 8:24 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 20,Falcon 9 Block 5 | Starlink 20,03/11/2021 8:13 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 21,Falcon 9 Block 5 | Starlink 21,03/14/2021 10:01 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 22,Falcon 9 Block 5 | Starlink 22,03/24/2021 8:28 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,10 km Flight,Starship SN11 | 10 km Flight,03/30/2021 1 p.m.,"Launch Pad B | SpaceX Starbase, TX, USA",Starship Prototype,Launch Failure
+SpaceX,Starlink 23,Falcon 9 Block 5 | Starlink 23,04/07/2021 4:34 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Crew-2,Falcon 9 Block 5 | Crew-2,04/23/2021 9:49 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 24,Falcon 9 Block 5 | Starlink 24,04/29/2021 3:44 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 25,Falcon 9 Block 5 | Starlink 25,05/04/2021 7:01 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,10 km Flight,Starship SN15 | 10 km Flight,05/05/2021 10:24 p.m.,"Launch Pad A | SpaceX Starbase, TX, USA",Starship Prototype,Launch Successful
+SpaceX,Starlink 27,Falcon 9 Block 5 | Starlink 27,05/09/2021 6:42 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 26 & Rideshare,Falcon 9 Block 5 | Starlink 26,05/15/2021 10:56 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink 28,Falcon 9 Block 5 | Starlink 28,05/26/2021 6:59 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Dragon CRS-2 SpX-22,Falcon 9 Block 5 | Dragon CRS-2 SpX-22,06/03/2021 5:29 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,SXM-8,Falcon 9 Block 5 | Sirius SXM-8,06/06/2021 4:26 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,GPS III SV05,Falcon 9 Block 5 | GPS III SV05,06/17/2021 4:09 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Transporter 2 (Dedicated SSO Rideshare),Falcon 9 Block 5 | Transporter 2 (Dedicated SSO Rideshare),06/30/2021 7:31 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Dragon CRS-2 SpX-23,Falcon 9 Block 5 | Dragon CRS-2 SpX-23,08/29/2021 7:14 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 2-1,Falcon 9 Block 5 | Starlink Group 2-1,09/14/2021 3:55 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Inspiration4,Falcon 9 Block 5 | Inspiration4,09/16/2021 12:02 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Crew-3,Falcon 9 Block 5 | Crew-3,11/11/2021 2:03 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-1,Falcon 9 Block 5 | Starlink Group 4-1,11/13/2021 12:19 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Double Asteroid Redirection Test (DART),Falcon 9 Block 5 | Double Asteroid Redirection Test (DART),11/24/2021 6:21 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-3,Falcon 9 Block 5 | Starlink Group 4-3,12/02/2021 11:12 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,IXPE,Falcon 9 Block 5 | X-Ray Polarimetry Explorer (IXPE),12/09/2021 6 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-4,Falcon 9 Block 5 | Starlink Group 4-4,12/18/2021 12:41 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Türksat 5B,Falcon 9 Block 5 | Türksat 5B,12/19/2021 3:58 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Dragon CRS-2 SpX-24,Falcon 9 Block 5 | Dragon CRS-2 SpX-24,12/21/2021 10:07 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-5,Falcon 9 Block 5 | Starlink Group 4-5,01/06/2022 9:49 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Transporter 3 (Dedicated SSO Rideshare),Falcon 9 Block 5 | Transporter 3 (Dedicated SSO Rideshare),01/13/2022 3:25 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-6,Falcon 9 Block 5 | Starlink Group 4-6,01/19/2022 2:02 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,CSG-2,Falcon 9 Block 5 | CSG-2,01/31/2022 11:11 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,NROL 87,Falcon 9 Block 5 | NROL-87,02/02/2022 8:27 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-7,Falcon 9 Block 5 | Starlink Group 4-7,02/03/2022 6:13 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-8,Falcon 9 Block 5 | Starlink Group 4-8,02/21/2022 2:44 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-11,Falcon 9 Block 5 | Starlink Group 4-11,02/25/2022 5:12 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-9,Falcon 9 Block 5 | Starlink Group 4-9,03/03/2022 2:25 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-10,Falcon 9 Block 5 | Starlink Group 4-10,03/09/2022 1:45 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-12,Falcon 9 Block 5 | Starlink Group 4-12,03/19/2022 4:42 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Transporter 4 (Dedicated SSO Rideshare),Falcon 9 Block 5 | Transporter 4 (Dedicated SSO Rideshare),04/01/2022 4:24 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Axiom Space Mission 1,Falcon 9 Block 5 | Axiom Space Mission 1,04/08/2022 3:17 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,NROL-85,Falcon 9 Block 5 | NROL-85,04/17/2022 1:13 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-14,Falcon 9 Block 5 | Starlink Group 4-14,04/21/2022 5:51 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Crew-4,Falcon 9 Block 5 | Crew-4,04/27/2022 7:52 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-16,Falcon 9 Block 5 | Starlink Group 4-16,04/29/2022 9:27 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-17,Falcon 9 Block 5 | Starlink Group 4-17,05/06/2022 9:42 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-13,Falcon 9 Block 5 | Starlink Group 4-13,05/13/2022 10:07 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-15,Falcon 9 Block 5 | Starlink Group 4-15,05/14/2022 8:40 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-18,Falcon 9 Block 5 | Starlink Group 4-18,05/18/2022 10:59 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Transporter 5 (Dedicated SSO Rideshare),Falcon 9 Block 5 | Transporter 5 (Dedicated SSO Rideshare),05/25/2022 6:35 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Nilesat-301,Falcon 9 Block 5 | Nilesat-301,06/08/2022 9:04 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-19,Falcon 9 Block 5 | Starlink Group 4-19,06/17/2022 4:09 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,SARah 1,Falcon 9 Block 5 | SARah 1,06/18/2022 2:19 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Globalstar-2 FM15 & USA 328-331,Falcon 9 Block 5 | Globalstar-2 FM15 & USA 328-331,06/19/2022 4:27 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,SES-22,Falcon 9 Block 5 | SES-22,06/29/2022 9:04 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-21,Falcon 9 Block 5 | Starlink Group 4-21,07/07/2022 1:11 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 3-1,Falcon 9 Block 5 | Starlink Group 3-1,07/11/2022 1:39 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Dragon CRS-2 SpX-25,Falcon 9 Block 5 | Dragon CRS-2 SpX-25,07/15/2022 12:44 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-22,Falcon 9 Block 5 | Starlink Group 4-22,07/17/2022 2:20 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 3-2,Falcon 9 Block 5 | Starlink Group 3-2,07/22/2022 5:39 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-25,Falcon 9 Block 5 | Starlink Group 4-25,07/24/2022 1:38 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Danuri (KPLO - Korean Pathfinder Lunar Orbiter),Falcon 9 Block 5 | Danuri (KPLO - Korean Pathfinder Lunar Orbiter),08/04/2022 11:08 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-26,Falcon 9 Block 5 | Starlink Group 4-26,08/10/2022 2:14 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 3-3,Falcon 9 Block 5 | Starlink Group 3-3,08/12/2022 9:40 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-27,Falcon 9 Block 5 | Starlink Group 4-27,08/19/2022 7:21 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-23,Falcon 9 Block 5 | Starlink Group 4-23,08/28/2022 3:41 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 3-4,Falcon 9 Block 5 | Starlink Group 3-4,08/31/2022 5:40 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-20 & Varuna-TDM,Falcon 9 Block 5 | Starlink Group 4-20 & Varuna-TDM,09/05/2022 2:09 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-2 & BlueWalker 3,Falcon 9 Block 5 | Starlink Group 4-2 & BlueWalker 3,09/11/2022 1:20 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-34,Falcon 9 Block 5 | Starlink Group 4-34,09/19/2022 12:18 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-35,Falcon 9 Block 5 | Starlink Group 4-35,09/24/2022 11:32 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Crew-5,Falcon 9 Block 5 | Crew-5,10/05/2022 4 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-29,Falcon 9 Block 5 | Starlink Group 4-29,10/05/2022 11:10 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Galaxy 33 & 34,Falcon 9 Block 5 | Galaxy 33 & 34,10/08/2022 11:05 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Hotbird 13F,Falcon 9 Block 5 | Hotbird 13F,10/15/2022 5:22 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-36,Falcon 9 Block 5 | Starlink Group 4-36,10/20/2022 2:50 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-31,Falcon 9 Block 5 | Starlink Group 4-31,10/28/2022 1:14 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,USSF-44,Falcon Heavy | USSF-44,11/01/2022 1:41 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon Heavy,Launch Successful
+SpaceX,Hotbird 13G,Falcon 9 Block 5 | Hotbird 13G,11/03/2022 5:22 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Galaxy 31 & 32,Falcon 9 Block 5 | Galaxy 31 & 32,11/12/2022 4:06 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Eutelsat 10B,Falcon 9 Block 5 | Eutelsat 10B,11/23/2022 2:57 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Dragon CRS-2 SpX-26,Falcon 9 Block 5 | Dragon CRS-2 SpX-26,11/26/2022 7:20 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,OneWeb 15,Falcon 9 Block 5 | OneWeb 15,12/08/2022 10:27 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Hakuto-R M1 & Lunar Flashlight,Falcon 9 Block 5 | Hakuto-R M1 & Lunar Flashlight,12/11/2022 7:38 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,SWOT (Surface Water and Ocean Topography),Falcon 9 Block 5 | SWOT (Surface Water and Ocean Topography),12/16/2022 11:46 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,O3b mPower 1 & 2,Falcon 9 Block 5 | O3b mPower 1 & 2,12/16/2022 10:48 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 4-37,Falcon 9 Block 5 | Starlink Group 4-37,12/17/2022 9:32 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 5-1,Falcon 9 Block 5 | Starlink Group 5-1,12/28/2022 9:34 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,EROS-C3,Falcon 9 Block 5 | EROS-C3,12/30/2022 7:38 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Transporter 6 (Dedicated SSO Rideshare),Falcon 9 Block 5 | Transporter 6 (Dedicated SSO Rideshare),01/03/2023 2:55 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,OneWeb 16,Falcon 9 Block 5 | OneWeb 16,01/10/2023 4:50 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,USSF-67,Falcon Heavy | USSF-67,01/15/2023 10:56 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon Heavy,Launch Successful
+SpaceX,GPS III SV06,Falcon 9 Block 5 | GPS III SV06,01/18/2023 12:24 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 2-4,Falcon 9 Block 5 | Starlink Group 2-4,01/19/2023 3:43 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 5-2,Falcon 9 Block 5 | Starlink Group 5-2,01/26/2023 9:32 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 2-6 & ION SCV009,Falcon 9 Block 5 | Starlink Group 2-6 & ION SCV009,01/31/2023 4:15 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 5-3,Falcon 9 Block 5 | Starlink Group 5-3,02/02/2023 7:58 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Amazonas Nexus,Falcon 9 Block 5 | Amazonas Nexus,02/07/2023 1:32 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 5-4,Falcon 9 Block 5 | Starlink Group 5-4,02/12/2023 5:10 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 2-5,Falcon 9 Block 5 | Starlink Group 2-5,02/17/2023 7:12 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Inmarsat-6 F2,Falcon 9 Block 5 | Inmarsat-6 F2,02/18/2023 3:59 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-1,Falcon 9 Block 5 | Starlink Group 6-1,02/27/2023 11:13 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Crew-6,Falcon 9 Block 5 | Crew-6,03/02/2023 5:34 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 2-7,Falcon 9 Block 5 | Starlink Group 2-7,03/03/2023 6:38 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,OneWeb 17,Falcon 9 Block 5 | OneWeb 17,03/09/2023 7:13 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Dragon CRS-2 SpX-27,Falcon 9 Block 5 | Dragon CRS-2 SpX-27,03/15/2023 12:30 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 2-8,Falcon 9 Block 5 | Starlink Group 2-8,03/17/2023 7:26 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,SES-18 & SES-19,Falcon 9 Block 5 | SES-18 & SES-19,03/17/2023 11:38 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 5-5,Falcon 9 Block 5 | Starlink Group 5-5,03/24/2023 3:43 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 5-10,Falcon 9 Block 5 | Starlink Group 5-10,03/29/2023 8:01 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,SDA Tranche 0A,Falcon 9 Block 5 | SDA Tranche 0A,04/02/2023 2:29 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Intelsat 40e,Falcon 9 Block 5 | Intelsat 40e,04/07/2023 4:30 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Transporter 7 (Dedicated SSO Rideshare),Falcon 9 Block 5 | Transporter 7 (Dedicated SSO Rideshare),04/15/2023 6:48 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-2,Falcon 9 Block 5 | Starlink Group 6-2,04/19/2023 2:31 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Integrated Flight Test,Starship | Integrated Flight Test,04/20/2023 1:33 p.m.,"Orbital Launch Mount A | SpaceX Starbase, TX, USA",Starship,Launch Failure
+SpaceX,Starlink Group 3-5,Falcon 9 Block 5 | Starlink Group 3-5,04/27/2023 1:40 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,O3b mPower 3 & 4,Falcon 9 Block 5 | O3b mPower 3 & 4,04/28/2023 10:12 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,ViaSat-3 Americas & others,Falcon Heavy | ViaSat-3 Americas & others,05/01/2023 12:26 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon Heavy,Launch Successful
+SpaceX,Starlink Group 5-6,Falcon 9 Block 5 | Starlink Group 5-6,05/04/2023 7:31 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 2-9,Falcon 9 Block 5 | Starlink Group 2-9,05/10/2023 8:09 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 5-9,Falcon 9 Block 5 | Starlink Group 5-9,05/14/2023 5:03 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-3,Falcon 9 Block 5 | Starlink Group 6-3,05/19/2023 6:19 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Iridium-9 & OneWeb 19,Falcon 9 Block 5 | Iridium-9 & OneWeb 19,05/20/2023 1:16 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Axiom Space Mission 2,Falcon 9 Block 5 | Axiom Space Mission 2,05/21/2023 9:37 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,BADR-8,Falcon 9 Block 5 | BADR-8,05/27/2023 4:30 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 2-10,Falcon 9 Block 5 | Starlink Group 2-10,05/31/2023 6:02 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-4,Falcon 9 Block 5 | Starlink Group 6-4,06/04/2023 12:20 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Dragon CRS-2 SpX-28,Falcon 9 Block 5 | Dragon CRS-2 SpX-28,06/05/2023 3:47 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 5-11,Falcon 9 Block 5 | Starlink Group 5-11,06/12/2023 7:10 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Transporter 8 (Dedicated SSO Rideshare),Falcon 9 Block 5 | Transporter 8 (Dedicated SSO Rideshare),06/12/2023 9:35 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Satria-1,Falcon 9 Block 5 | Satria-1,06/18/2023 10:21 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 5-7,Falcon 9 Block 5 | Starlink Group 5-7,06/22/2023 7:19 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 5-12,Falcon 9 Block 5 | Starlink Group 5-12,06/23/2023 3:35 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Euclid,Falcon 9 Block 5 | Euclid,07/01/2023 3:12 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 5-13,Falcon 9 Block 5 | Starlink Group 5-13,07/07/2023 7:29 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-5,Falcon 9 Block 5 | Starlink Group 6-5,07/10/2023 3:58 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 5-15,Falcon 9 Block 5 | Starlink Group 5-15,07/16/2023 3:50 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-15,Falcon 9 Block 5 | Starlink Group 6-15,07/20/2023 4:09 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-6,Falcon 9 Block 5 | Starlink Group 6-6,07/24/2023 12:50 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-7,Falcon 9 Block 5 | Starlink Group 6-7,07/28/2023 4:01 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,EchoStar 24/Jupiter-3,Falcon Heavy | EchoStar 24/Jupiter-3,07/29/2023 3:04 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon Heavy,Launch Successful
+SpaceX,Galaxy 37,Falcon 9 Block 5 | Galaxy 37,08/03/2023 5 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-8,Falcon 9 Block 5 | Starlink Group 6-8,08/07/2023 2:41 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-20,Falcon 9 Block 5 | Starlink Group 6-20,08/08/2023 3:57 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-9,Falcon 9 Block 5 | Starlink Group 6-9,08/11/2023 5:17 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-10,Falcon 9 Block 5 | Starlink Group 6-10,08/17/2023 3:36 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 7-1,Falcon 9 Block 5 | Starlink Group 7-1,08/22/2023 9:37 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Crew-7,Falcon 9 Block 5 | Crew-7,08/26/2023 7:27 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-11,Falcon 9 Block 5 | Starlink Group 6-11,08/27/2023 1:05 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-13,Falcon 9 Block 5 | Starlink Group 6-13,09/01/2023 2:21 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,SDA Tranche 0B,Falcon 9 Block 5 | SDA Tranche 0B,09/02/2023 2:25 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-12,Falcon 9 Block 5 | Starlink Group 6-12,09/04/2023 2:47 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-14,Falcon 9 Block 5 | Starlink Group 6-14,09/09/2023 3:12 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 7-2,Falcon 9 Block 5 | Starlink Group 7-2,09/12/2023 6:57 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-16,Falcon 9 Block 5 | Starlink Group 6-16,09/16/2023 3:38 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-17,Falcon 9 Block 5 | Starlink Group 6-17,09/20/2023 3:38 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-18,Falcon 9 Block 5 | Starlink Group 6-18,09/24/2023 3:38 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 7-3,Falcon 9 Block 5 | Starlink Group 7-3,09/25/2023 8:48 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-19,Falcon 9 Block 5 | Starlink Group 6-19,09/30/2023 2 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-21,Falcon 9 Block 5 | Starlink Group 6-21,10/05/2023 5:36 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 7-4,Falcon 9 Block 5 | Starlink Group 7-4,10/09/2023 7:43 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Psyche,Falcon Heavy | Psyche,10/13/2023 2:19 p.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon Heavy,Launch Successful
+SpaceX,Starlink Group 6-22,Falcon 9 Block 5 | Starlink Group 6-22,10/13/2023 11:01 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-23,Falcon 9 Block 5 | Starlink Group 6-23,10/18/2023 12:39 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 7-5,Falcon 9 Block 5 | Starlink Group 7-5,10/21/2023 8:23 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-24,Falcon 9 Block 5 | Starlink Group 6-24,10/22/2023 2:17 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 7-6,Falcon 9 Block 5 | Starlink Group 7-6,10/29/2023 9 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-25,Falcon 9 Block 5 | Starlink Group 6-25,10/30/2023 11:20 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-26,Falcon 9 Block 5 | Starlink Group 6-26,11/04/2023 12:37 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-27,Falcon 9 Block 5 | Starlink Group 6-27,11/08/2023 5:05 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Dragon CRS-2 SpX-29,Falcon 9 Block 5 | Dragon CRS-2 SpX-29,11/10/2023 1:28 a.m.,"Launch Complex 39A | Kennedy Space Center, FL, USA",Falcon 9,Launch Successful
+SpaceX,Transporter 9 (Dedicated SSO Rideshare),Falcon 9 Block 5 | Transporter 9 (Dedicated SSO Rideshare),11/11/2023 6:49 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,O3b mPower 5 & 6,Falcon 9 Block 5 | O3b mPower 5 & 6,11/12/2023 9:08 p.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-28,Falcon 9 Block 5 | Starlink Group 6-28,11/18/2023 5:05 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 7-7,Falcon 9 Block 5 | Starlink Group 7-7,11/20/2023 10:30 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-29,Falcon 9 Block 5 | Starlink Group 6-29,11/22/2023 7:47 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-30,Falcon 9 Block 5 | Starlink Group 6-30,11/28/2023 4:20 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,425 Project Flight 1 & rideshare,Falcon 9 Block 5 | 425 Project Flight 1 & rideshare,12/01/2023 6:19 p.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-31,Falcon 9 Block 5 | Starlink Group 6-31,12/03/2023 4 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 6-33,Falcon 9 Block 5 | Starlink Group 6-33,12/07/2023 5:07 a.m.,"Space Launch Complex 40 | Cape Canaveral, FL, USA",Falcon 9,Launch Successful
+SpaceX,Starlink Group 7-8,Falcon 9 Block 5 | Starlink Group 7-8,12/08/2023 8:03 a.m.,"Space Launch Complex 4E | Vandenberg SFB, CA, USA",Falcon 9,Launch Successful

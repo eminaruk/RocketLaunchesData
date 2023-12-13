@@ -1,0 +1,364 @@
+launch_service_provider,mission,name,net,pad,rocket,status
+Arianespace,Firewheel,Ariane 1 | Firewheel,05/23/1980 2:29 p.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 1,Launch Failure
+Arianespace,Meteosat 2,Ariane 1 | Meteosat 2,06/19/1981 12:32 p.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 1,Launch Successful
+Arianespace,Marecs 1,Ariane 1 | Marecs 1,12/20/1981 1:29 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 1,Launch Successful
+Arianespace,Marecs B & Sirio 2,Ariane 1 | Marecs B & Sirio 2,09/09/1982 2:12 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 1,Launch Failure
+Arianespace,ECS 1,Ariane 1 | ECS 1,06/16/1983 11:59 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 1,Launch Successful
+Arianespace,Intelsat 507,Ariane 1 | Intelsat 507,10/19/1983 12:45 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 1,Launch Successful
+Arianespace,Intelsat 508,Ariane 1 | Intelsat 508,03/05/1984 12:50 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 1,Launch Successful
+Arianespace,Spacenet 1,Ariane 1 | Spacenet 1,05/23/1984 1:33 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 1,Launch Successful
+Arianespace,ECS 2 & Télécom 1A,Ariane 3 | ECS 2 & Télécom 1A,08/04/1984 1:32 p.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 3,Launch Successful
+Arianespace,Spacenet 2 & Marecs 2,Ariane 3 | Spacenet 2 & Marecs 2,11/10/1984 1:14 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 3,Launch Successful
+Arianespace,Arabsat 1A & Brasilsat A1,Ariane 3 | Arabsat 1A & Brasilsat A1,02/08/1985 11:22 p.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 3,Launch Successful
+Arianespace,Gstar 1 & Télécom 1B,Ariane 3 | Gstar 1 & Télécom 1B,05/08/1985 1:15 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 3,Launch Successful
+Arianespace,Giotto,Ariane 1 | Giotto,07/02/1985 11:23 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 1,Launch Successful
+Arianespace,ECS 3 & Spacenet 3,Ariane 3 | ECS 3 & Spacenet 3,09/12/1985 11:26 p.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 3,Launch Failure
+Arianespace,SPOT 1 & Viking,Ariane 1 | SPOT 1 & Viking,02/22/1986 1:44 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 1,Launch Successful
+Arianespace,Gstar 2 & Brasilsat A2,Ariane 3 | Gstar 2 & Brasilsat A2,03/28/1986 11:30 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 3,Launch Successful
+Arianespace,Intelsat 514,Ariane 2 | Intelsat 514,05/31/1986 12:53 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 2,Launch Failure
+Arianespace,Aussat A3 & ECS 4,Ariane 3 | Aussat A3 & ECS 4,09/16/1987 12:45 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 3,Launch Successful
+Arianespace,TV-Sat 1,Ariane 2 | TV-Sat 1,11/21/1987 2:19 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 2,Launch Successful
+Arianespace,Spacenet 3R & Télécom 1C,Ariane 3 | Spacenet 3R & Télécom 1C,03/11/1988 11:28 p.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 3,Launch Successful
+Arianespace,Intelsat 513,Ariane 2 | Intelsat 513,05/17/1988 11:58 p.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 2,Launch Successful
+Arianespace,Meteosat 3,Ariane 44LP | Meteosat 3,06/15/1988 11:19 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,Insat 1C & ECS5,Ariane 3 | Insat 1C & ECS5,07/21/1988 11:12 p.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 3,Launch Successful
+Arianespace,GStar 3 & SBS 5,Ariane 3 | GStar 3 & SBS 5,09/08/1988 11 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 3,Launch Successful
+Arianespace,TDF 1,Ariane 2 | TDF 1,10/28/1988 2:17 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 2,Launch Successful
+Arianespace,Skynet 4B & Astra 1A,Ariane 44LP | Skynet 4B & Astra 1A,12/11/1988 12:33 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,Intelsat 515,Ariane 2 | Intelsat 515,01/27/1989 1:21 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 2,Launch Successful
+Arianespace,JCSAT 1 & Meteosat 4,Ariane 44LP | JCSAT 1 & Meteosat 4,03/06/1989 11:29 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,Tele-X,Ariane 2 | Tele-X,04/02/1989 2:28 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 2,Launch Successful
+Arianespace,Superbird A & DFS-Kopernikus 1,Ariane 44L | Superbird A & DFS-Kopernikus 1,06/05/1989 10:37 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Olympus,Ariane 3 | Olympus,07/12/1989 12:14 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 3,Launch Successful
+Arianespace,TV-Sat 2,Ariane 44LP | TV-Sat 2,08/08/1989 11:25 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,Intelsat 602,Ariane 44L | Intelsat 602,10/27/1989 11:05 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,SPOT 2,Ariane 40 | SPOT 2,01/22/1990 1:35 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 40,Launch Successful
+Arianespace,Superbird B & BS 2x,Ariane 44L | Superbird B & BS 2x,02/22/1990 11:17 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Failure
+Arianespace,TDF 2 & DFS-Kopernikus 2,Ariane 44L | TDF 2 & DFS-Kopernikus 2,07/24/1990 10:25 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Skynet 4C & Eutelsat-2 F1,Ariane 44LP | Skynet 4C & Eutelsat-2 F1,08/30/1990 10:46 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,SBS 6 & Galaxy 6,Ariane 44L | SBS 6 & Galaxy 6,10/12/1990 10:58 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Satcom C1 & GStar 4,Ariane 42P | Satcom C1 & GStar 4,11/20/1990 11:11 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42P,Launch Successful
+Arianespace,Italsat 1,Ariane 44L | Italsat 1,01/15/1991 11:10 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Astra 1B & Meteosat 5,Ariane 44LP | Astra 1B & Meteosat 5,03/02/1991 11:36 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,Anik E2,Ariane 44P | Anik E2,04/04/1991 11:33 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44P,Launch Successful
+Arianespace,ERS-1,Ariane 40 | ERS-1,07/17/1991 1:46 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 40,Launch Successful
+Arianespace,Intelsat 605,Ariane 44L | Intelsat 605,08/14/1991 11:15 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Anik E1,Ariane 44P | Anik E1,09/26/1991 11:43 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44P,Launch Successful
+Arianespace,Intelsat 601,Ariane 44L | Intelsat 601,10/29/1991 11:08 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Telecom 2A,Ariane 44L | Telecom 2A,12/16/1991 11:19 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Superbird B1 & Arabsat 1C,Ariane 44L | Superbird B1 & Arabsat 1C,02/26/1992 11:58 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Télécom 2B & Inmarsat-2 F4,Ariane 44L | Télécom 2B & Inmarsat-2 F4,04/15/1992 11:25 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Insat 2A & Eutelsat-2 F4,Ariane 44L | Insat 2A & Eutelsat-2 F4,07/09/1992 10:42 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,"Topex-Poseidon, Kitsat 1 & S80/T","Ariane 42P | Topex-Poseidon, Kitsat 1 & S80/T",08/10/1992 11:08 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42P,Launch Successful
+Arianespace,Hispasat 1A & Satcom C3,Ariane 44LP | Hispasat 1A & Satcom C3,09/10/1992 11:04 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,Galaxy 7,Ariane 42P | Galaxy 7,10/28/1992 12:15 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42P,Launch Successful
+Arianespace,Superbird A1,Ariane 42P | Superbird A1,12/01/1992 10:48 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42P,Launch Successful
+Arianespace,Astra 1C & Arsene,Ariane 42L | Astra 1C & Arsene,05/12/1993 12:56 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42L,Launch Successful
+Arianespace,Galaxy 4H,Ariane 42P | Galaxy 4H,06/25/1993 12:18 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42P,Launch Successful
+Arianespace,Hispasat 1B & Insat 2B,Ariane 44L | Hispasat 1B & Insat 2B,07/22/1993 10:58 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,SPOT 3,Ariane 40 | SPOT 3,09/26/1993 1:45 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 40,Launch Successful
+Arianespace,INTELSAT 701,Ariane 44LP | INTELSAT 701,10/22/1993 6:46 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,Solidaridad 1 & Meteosat 6,Ariane 44LP | Solidaridad 1 & Meteosat 6,11/20/1993 1:17 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,DirecTV 1 & Thaicom 1,Ariane 44L | DirecTV 1 & Thaicom 1,12/18/1993 1:27 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Eutelsat 2 F5 & Türksat 1A,Ariane 44LP | Eutelsat 2 F5 & Türksat 1A,01/24/1994 9:37 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Failure
+Arianespace,INTELSAT 702,Ariane 44LP | INTELSAT 702,06/17/1994 7:07 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,PAS 2 & BS 3n,Ariane 44L | PAS 2 & BS 3n,07/08/1994 11:05 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Brasilsat B1 & Türksat 1B,Ariane 44LP | Brasilsat B1 & Türksat 1B,08/10/1994 11:05 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,Telstar 402,Ariane 42L | Telstar 402,09/09/1994 12:29 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42L,Launch Successful
+Arianespace,Solidaridad 2 & Thaicom 2,Ariane 44L | Solidaridad 2 & Thaicom 2,10/08/1994 1:07 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Astra 1D,Ariane 42P | Astra 1D,11/01/1994 12:37 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42P,Launch Successful
+Arianespace,PAS 3,Ariane 42P | PAS 3,12/01/1994 10:57 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42P,Launch Failure
+Arianespace,Brasilsat B2 & Hotbird 1,Ariane 44LP | Brasilsat B2 & Hotbird 1,03/28/1995 11:14 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,ERS-2,Ariane 40 | ERS-2,04/21/1995 1:44 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 40,Launch Successful
+Arianespace,INTELSAT 706,Ariane 44LP | INTELSAT 706,05/17/1995 6:34 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,DirecTV 3,Ariane 42P | DirecTV 3,06/10/1995 12:24 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42P,Launch Successful
+Arianespace,Helios 1A,Ariane 40 | Helios 1A,07/07/1995 4:23 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 40,Launch Successful
+Arianespace,PAS 4,Ariane 42L | PAS 4,08/03/1995 10:58 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42L,Launch Successful
+Arianespace,N-STAR a,Ariane 44P | N-STAR a,08/29/1995 6:41 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44P,Launch Successful
+Arianespace,Telstar 402R,Ariane 42L | Telstar 402R,09/24/1995 12:06 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42L,Launch Successful
+Arianespace,Astra 1E,Ariane 42L | Astra 1E,10/19/1995 12:38 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42L,Launch Successful
+Arianespace,ISO,Ariane 44P | ISO,11/17/1995 1:20 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44P,Launch Successful
+Arianespace,Telecom 2C & Insat 2C,Ariane 44L | Telecom 2C & Insat 2C,12/06/1995 11:23 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,PAS 3R & MEASAT 1,Ariane 44L | PAS 3R & MEASAT 1,01/12/1996 11:10 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,N-Star b,Ariane 44P | N-Star b,02/05/1996 7:19 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44P,Launch Successful
+Arianespace,INTELSAT 707,Ariane 44LP | INTELSAT 707,03/14/1996 7:11 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,M-SAT 1,Ariane 42P | M-SAT 1,04/20/1996 10:36 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42P,Launch Successful
+Arianespace,Palapa C2 & AMOS 1,Ariane 44L | Palapa C2 & AMOS 1,05/16/1996 1:56 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Cluster,Ariane 5 G | Cluster,06/04/1996 12:34 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 G,Launch Failure
+Arianespace,INTELSAT 709,Ariane 44P | INTELSAT 709,06/15/1996 6:55 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44P,Launch Successful
+Arianespace,Arabsat IIA & Türksat 1C,Ariane 44L | Arabsat IIA & Türksat 1C,07/09/1996 10:24 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Italsat F2 & Télécom 2D,Ariane 44L | Italsat F2 & Télécom 2D,08/08/1996 10:49 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Echostar II,Ariane 42P | Echostar II,09/11/1996 midnight,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42P,Launch Successful
+Arianespace,Arabsat 2B & MEASAT 2,Ariane 44L | Arabsat 2B & MEASAT 2,11/13/1996 10:40 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,GE 2 & Nahuel 1A,Ariane 44L | GE 2 & Nahuel 1A,01/30/1997 10:04 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,INTELSAT 801,Ariane 44P | INTELSAT 801,03/01/1997 1:07 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44P,Launch Successful
+Arianespace,Thaicom 3 & BSat 1a,Ariane 44LP | Thaicom 3 & BSat 1a,04/16/1997 11:08 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,INMARSAT III F-4 & Insat 2D,Ariane 44L | INMARSAT III F-4 & Insat 2D,06/03/1997 11:20 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,INTELSAT 802,Ariane 44P | INTELSAT 802,06/25/1997 11:44 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44P,Launch Successful
+Arianespace,PAS 6,Ariane 44P | PAS 6,08/08/1997 6:46 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44P,Launch Successful
+Arianespace,Hot Bird 3 & Meteosat 7,Ariane 44LP | Hot Bird 3 & Meteosat 7,09/02/1997 10:21 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,INTELSAT 803,Ariane 42L | INTELSAT 803,09/23/1997 11:58 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42L,Launch Successful
+Arianespace,Sirius 2 & Indostar 1,Ariane 44L | Sirius 2 & Indostar 1,11/12/1997 9:48 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,JCSAT 1B & Equator-S,Ariane 44P | JCSAT 1B & Equator-S,12/02/1997 10:52 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44P,Launch Successful
+Arianespace,INTELSAT 804,Ariane 42L | INTELSAT 804,12/22/1997 12:17 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42L,Launch Successful
+Arianespace,Inmarsat-3 F5 & Brasilsat B3,Ariane 44LP | Inmarsat-3 F5 & Brasilsat B3,02/04/1998 11:29 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,Hot Bird 4,Ariane 42P | Hot Bird 4,02/27/1998 10:38 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42P,Launch Successful
+Arianespace,SPOT-4,Ariane 40 | SPOT-4,03/24/1998 1:46 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 40,Launch Successful
+Arianespace,Nilesat 101 & BSat 1b,Ariane 44P | Nilesat 101 & BSat 1b,04/28/1998 10:53 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44P,Launch Successful
+Arianespace,ST-1,Ariane 44P | ST-1,08/25/1998 11:07 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44P,Launch Successful
+Arianespace,PAS 7,Ariane 44LP | PAS 7,09/16/1998 6:31 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,Eutelsat W2 & Sirius 3,Ariane 44L | Eutelsat W2 & Sirius 3,10/05/1998 10:51 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Afristar & GE 5,Ariane 44L | Afristar & GE 5,10/28/1998 10:15 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Satmex 5,Ariane 42L | Satmex 5,12/06/1998 12:43 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42L,Launch Successful
+Arianespace,PAS 6B,Ariane 42L | PAS 6B,12/22/1998 1:08 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42L,Launch Successful
+Arianespace,Arabsat 3A & Skynet 4E,Ariane 44L | Arabsat 3A & Skynet 4E,02/26/1999 10:44 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Insat 2E,Ariane 42P | Insat 2E,04/02/1999 10:03 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42P,Launch Successful
+Arianespace,Telkom 1,Ariane 42P | Telkom 1,08/12/1999 10:52 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42P,Launch Successful
+Arianespace,Mugunghwa 3,Ariane 42P | Mugunghwa 3,09/04/1999 10:34 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42P,Launch Successful
+Arianespace,Telstar 7,Ariane 44LP | Telstar 7,09/25/1999 6:29 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,Orion 2,Ariane 44LP | Orion 2,10/19/1999 6:22 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,GE 4,Ariane 44LP | GE 4,11/13/1999 10:54 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,Helios 1B,Ariane 40 | Helios 1B,12/03/1999 4:22 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 40,Launch Successful
+Arianespace,Galaxy 11,Ariane 44L | Galaxy 11,12/22/1999 12:50 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Galaxy 10R,Ariane 42L | Galaxy 10R,01/25/2000 1:04 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42L,Launch Successful
+Arianespace,Superbird B2,Ariane 44LP | Superbird B2,02/18/2000 1:04 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,INSAT-3B & AsiaStar,Ariane 5 G | INSAT-3B & AsiaStar,03/21/2000 11:28 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 G,Launch Successful
+Arianespace,Galaxy 4R,Ariane 42L | Galaxy 4R,04/19/2000 12:29 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42L,Launch Successful
+Arianespace,Brasilsat B4 & Nilesat 102,Ariane 44LP | Brasilsat B4 & Nilesat 102,08/17/2000 11:16 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,Eutelsat W1,Ariane 44P | Eutelsat W1,09/06/2000 10:33 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44P,Launch Successful
+Arianespace,Astra 2B & GE-7,Ariane 5 G | Astra 2B & GE-7,09/14/2000 10:54 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 G,Launch Successful
+Arianespace,N-SAT-110,Ariane 42L | N-SAT-110,10/06/2000 11 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42L,Launch Successful
+Arianespace,Europe*Star 1,Ariane 44LP | Europe*Star 1,10/29/2000 5:59 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,"PAS-1R, Amsat P3D, STRV 1C, STRV 1D","Ariane 5 G | PAS-1R, Amsat P3D, STRV 1C, STRV 1D",11/16/2000 1:07 a.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 G,Launch Successful
+Arianespace,Anik F1,Ariane 44L | Anik F1,11/21/2000 11:56 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,"Astra 2D & GE-8, LDREX","Ariane 5 G | Astra 2D & GE-8, LDREX",12/20/2000 12:26 a.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 G,Launch Successful
+Arianespace,Turksat 2A,Ariane 44P | Turksat 2A,01/10/2001 10:09 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44P,Launch Successful
+Arianespace,SICRAL 1,Ariane 44L | SICRAL 1,02/07/2001 11:05 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Eutelsat 28A & BSAT-2a,Ariane 5 G | Eutelsat 28A & BSAT-2a,03/08/2001 10:51 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 G,Launch Successful
+Arianespace,INTELSAT 901,Ariane 44L | INTELSAT 901,06/09/2001 6:45 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Artemis & BSAT-2b,Ariane 5 G | Artemis & BSAT-2b,07/12/2001 9:58 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 G,Launch was a Partial Failure
+Arianespace,INTELSAT 902,Ariane 44L | INTELSAT 902,08/30/2001 6:46 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Atlantic Bird 2,Ariane 44P | Atlantic Bird 2,09/25/2001 11:21 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44P,Launch Successful
+Arianespace,DirecTV-4S,Ariane 44LP | DirecTV-4S,11/27/2001 12:35 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44LP,Launch Successful
+Arianespace,Insat 3C,Ariane 42L | Insat 3C,01/23/2002 11:46 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42L,Launch Successful
+Arianespace,INTELSAT 904,Ariane 44L | INTELSAT 904,02/23/2002 6:59 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Envisat,Ariane 5 G | Envisat,03/01/2002 1:08 a.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 G,Launch Successful
+Arianespace,JCSAT 2A,Ariane 44L | JCSAT 2A,03/29/2002 1:29 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,NSS 7,Ariane 44L | NSS 7,04/16/2002 11:02 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,SPOT 5,Ariane 42P | SPOT 5,05/04/2002 1:31 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 42P,Launch Successful
+Arianespace,INTELSAT 905,Ariane 44L | INTELSAT 905,06/05/2002 6:44 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,Stellat 5 & N-Star C,Ariane 5 G | Stellat 5 & N-Star C,07/05/2002 11:22 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 G,Launch Successful
+Arianespace,Atlantic Bird 1 & Meteosat 8,Ariane 5 G | Atlantic Bird 1 & Meteosat 8,08/28/2002 10:45 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 G,Launch Successful
+Arianespace,Hot Bird 7 & Stentor,Ariane 5 ECA | Hot Bird 7 & Stentor,12/11/2002 10:21 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Failure
+Arianespace,NSS 6,Ariane 44L | NSS 6,12/17/2002 11:04 p.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,INTELSAT 907,Ariane 44L | INTELSAT 907,02/15/2003 7 a.m.,"Ariane Launch Area 2 | Kourou, French Guiana",Ariane 44L,Launch Successful
+Arianespace,INSAT-3A & Galaxy 12,Ariane 5 G | INSAT-3A & Galaxy 12,04/09/2003 10:52 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 G,Launch Successful
+Arianespace,Optus and Defence C1 & BSAT-2c,Ariane 5 G | Optus and Defence C1 & BSAT-2c,06/11/2003 10:38 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 G,Launch Successful
+Arianespace,INSAT-3A,"Ariane 5 G | INSAT-3E, eBird 1, SMART-1",09/27/2003 11:14 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 G,Launch Successful
+Arianespace,Rosetta,Ariane 5 G+ | Rosetta,03/02/2004 7:17 a.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 G+,Launch Successful
+Arianespace,Anik F2,Ariane 5 G+ | Anik F2,07/18/2004 12:44 a.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 G+,Launch Successful
+Arianespace,"Helios 2A, Essaim 1-4, PARASOL, Nanosat 01","Ariane 5 G+ | Helios 2A, Essaim 1, 2, 3, 4, PARASOL, Nanosat 01",12/18/2004 4:26 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 G+,Launch Successful
+Arianespace,"XTAR-EUR, Maqsat-B2, Sloshsat","Ariane 5 ECA | XTAR-EUR, Maqsat-B2, Sloshsat",02/12/2005 9:03 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Thaicom 4,Ariane 5 GS | Thaicom 4,08/11/2005 8:20 a.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 GS,Launch Successful
+Arianespace,Syracuse 3A & Galaxy 15,Ariane 5 GS | Syracuse 3A & Galaxy 15,10/13/2005 10:32 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 GS,Launch Successful
+Arianespace,"Spaceway F2, TELKOM-2","Ariane 5 ECA | Spaceway F2, TELKOM-2",11/16/2005 11:46 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,"INSAT-4A, Meteosat 9","Ariane 5 GS | INSAT-4A, Meteosat 9",12/21/2005 10:33 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 GS,Launch Successful
+Arianespace,Spainsat & Hot Bird 7A,Ariane 5 ECA | Spainsat & Hot Bird 7A,03/11/2006 10:33 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Satmex 6 & Thaicom 5,Ariane 5 ECA | Satmex 6 & Thaicom 5,05/27/2006 midnight,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,JCSAT-10 & Syracuse 3B,Ariane 5 ECA | JCSAT-10 & Syracuse 3B,08/11/2006 10:15 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,"DirecTV-9S, Optus D1, LDREX-2","Ariane 5 ECA | DirecTV-9S, Optus D1, LDREX-2",10/13/2006 8:56 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,WildBlue 1 & AMC-18,Ariane 5 ECA | WildBlue 1 & AMC-18,12/08/2006 10:08 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Skynet 5A & INSAT-4B,Ariane 5 ECA | Skynet 5A & INSAT-4B,03/11/2007 10:03 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Astra 1L & Galaxy 17,Ariane 5 ECA | Astra 1L & Galaxy 17,05/04/2007 10:29 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Singtel Optus & Australian Department of Defence,Ariane 5 ECA | Spaceway-3 & BSAT-3A,08/14/2007 11:44 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Intelsat 11 & Optus D2,Ariane 5 GS | Intelsat 11 & Optus D2,10/05/2007 10:02 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 GS,Launch Successful
+Arianespace,Skynet 5B & Star One C1,Ariane 5 ECA | Skynet 5B & Star One C1,11/14/2007 10:06 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,RASCOM-QAF 1 & Horizons-2,Ariane 5 GS | RASCOM-QAF 1 & Horizons-2,12/21/2007 9:42 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 GS,Launch Successful
+Arianespace,"ATV-1 ""Jules Verne""","Ariane 5 ES | ATV-1 ""Jules Verne""",03/09/2008 4:03 a.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ES,Launch Successful
+Arianespace,Star One C2 & Vinasat-1,Ariane 5 ECA | Star One C2 & Vinasat-1,04/18/2008 10:17 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Turksat 3A & Skynet 5C,Ariane 5 ECA | Türksat 3A & Skynet 5C,06/12/2008 10:05 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Badr-6 & ProtoStar I,Ariane 5 ECA | Badr-6 & ProtoStar I,07/07/2008 9:47 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,AMC-21 & Superbird 7,Ariane 5 ECA | AMC-21 & Superbird 7,08/14/2008 8:44 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Eutelsat W2M & Hot Bird 9,Ariane 5 ECA | Eutelsat W2M & Hot Bird 9,12/20/2008 10:35 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,"Hot Bird 10, NSS-9, Spirale A, Spirale B","Ariane 5 ECA | Hot Bird 10, NSS-9, Spirale A, Spirale B",02/12/2009 10:09 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Herschel & Planck,Ariane 5 ECA | Herschel & Planck,05/14/2009 1:12 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,TerreStar-1,Ariane 5 ECA | TerreStar-1,07/01/2009 5:52 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,JCSAT-12 & Optus D3,Ariane 5 ECA | JCSAT-12 & Optus D3,08/21/2009 10:09 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Amazonas 2 & COMSATBw-1,Ariane 5 ECA | Amazonas 2 & COMSATBw-1,10/01/2009 9:59 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,NSS-12 & Thor 6,Ariane 5 ECA | NSS-12 & Thor 6,10/29/2009 8 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Helios 2B,Ariane 5 GS | Helios 2B,12/18/2009 4:26 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 GS,Launch Successful
+Arianespace,Astra 3B & COMSATBw-2,Ariane 5 ECA | Astra 3B & COMSATBw-2,05/21/2010 10:01 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,ArabSat-5A & COMS-1 (Chollian),Ariane 5 ECA | ArabSat-5A & COMS-1 (Chollian),06/26/2010 9:41 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,RASCOM-QAF1R & NILESAT 201,Ariane 5 ECA | RASCOM-QAF1R & NILESAT 201,08/04/2010 8:59 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Eutelsat W3B & BSAT-3b,Ariane 5 ECA | Eutelsat W3B & BSAT-3b,10/28/2010 9:51 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Intelsat 17 & HYLAS 1,Ariane 5 ECA | Intelsat 17 & HYLAS 1,11/26/2010 6:39 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace, Hispasat-1E & Koreasat 6,Ariane 5 ECA | Hispasat-1E & Koreasat 6,12/29/2010 9:27 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Johannes Kepler ATV (ATV-002),Ariane 5 ES | Johannes Kepler ATV (ATV-002),02/16/2011 9:50 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ES,Launch Successful
+Arianespace,Yahsat 1A & New Dawn,Ariane 5 ECA | Yahsat 1A & New Dawn,04/22/2011 9:37 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,ST-2 & INSAT-4G/GSAT-8,Ariane 5 ECA | ST-2 & INSAT-4G/GSAT-8,05/20/2011 8:38 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Astra 1N & BSAT-3c/JCSAT-110R,Ariane 5 ECA | Astra 1N & BSAT-3c/JCSAT-110R,08/06/2011 10:52 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Arabsat 5C & SES-2,Ariane 5 ECA | Arabsat 5C & SES-2,09/21/2011 9:38 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,—,Soyuz STB/Fregat | Galileo-IOV 1 & Galileo-IOV 2,10/21/2011 10:30 a.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STB,Launch Successful
+Arianespace,—,"Soyuz STA/Fregat | Pléiades-HR 1A, FASat-Charlie (SSOT), 4 x ELISA",12/17/2011 2:03 a.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STA,Launch Successful
+Arianespace,Edoardo Amaldi ATV (ATV-003),Ariane 5 ES | Edoardo Amaldi ATV (ATV-003),03/23/2012 4:34 a.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ES,Launch Successful
+Arianespace,JCSAT-13 & Vinasat-2,Ariane 5 ECA | JCSAT-13 & Vinasat-2,05/15/2012 10:13 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Echostar XVII & MSG-3,Ariane 5 ECA | Echostar XVII & MSG-3,07/05/2012 9:36 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Intelsat 20 & HYLAS 2,Ariane 5 ECA | Intelsat 20 & HYLAS 2,08/02/2012 8:54 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Astra 2F & GSAT-10,Ariane 5 ECA | Astra 2F & GSAT-10,09/28/2012 9:18 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,—,Soyuz STB/Fregat-MT | Galileo-IOV 3 & Galileo-IOV 4,10/12/2012 6:15 p.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STB,Launch Successful
+Arianespace,"218, B-SAT",Ariane 5 ECA | Star One C3 & Eutelsat 21B,11/10/2012 9:05 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,—,Soyuz STA/Fregat | Pléiades-HR 1B,12/02/2012 2:02 a.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STA,Launch Successful
+Arianespace,Skynet 5D & Mexsat-3,Ariane 5 ECA | Skynet 5D & Mexsat-3,12/19/2012 9:49 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Azerspace-1/Africasat-1a & Amazonas 3,Ariane 5 ECA | Azerspace-1/Africasat-1a & Amazonas 3,02/07/2013 9:36 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Proba-V and VNREDSat 1A,"Vega | Proba-V, VNREDSat 1A, ESTCube-1",05/07/2013 2:06 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Successful
+Arianespace,Albert Einstein ATV (ATV-004),Ariane 5 ES | Albert Einstein ATV (ATV-004),06/05/2013 9:52 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ES,Launch Successful
+Arianespace,"O3b FM1, FM2, FM4, FM5","Soyuz STB/Fregat-MT | O3b FM1, FM2, FM4, FM5",06/25/2013 7:27 p.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STB,Launch Successful
+Arianespace,Alphasat I-XL (Inmarsat-XL) & INSAT-3D,Ariane 5 ECA | Alphasat I-XL (Inmarsat-XL) & INSAT-3D,07/25/2013 7:54 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Eutelsat 25B / Es'hail 1 & GSAT-7,Ariane 5 ECA | Eutelsat 25B / Es'hail 1 & GSAT-7,08/29/2013 8:30 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Gaia,Soyuz STB/Fregat-MT | Gaia,12/19/2013 9:12 a.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STB,Launch Successful
+Arianespace,ABS-2 & Athena-Fidus,Ariane 5 ECA | ABS-2 & Athena-Fidus,02/06/2014 9:30 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,ASTRA 5B,Ariane 5 ECA | Astra 5B & Amazonas 4A,03/22/2014 10:04 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Sentinel-1A,Soyuz STA/Fregat | Sentinel-1A,04/03/2014 9:02 p.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STA,Launch Successful
+Arianespace,DZZ-HR,Vega | KazEOSat 1,04/30/2014 1:35 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Successful
+Arianespace,"O3b FM3, FM6-FM8","Soyuz STB/Fregat | O3b FM3, FM6-FM8",07/10/2014 6:55 p.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STB,Launch Successful
+Arianespace,ATV-5 (Georges Lemaitre),Ariane 5 ES | ATV-5 (Georges Lemaitre),07/29/2014 11:47 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ES,Launch Successful
+Arianespace,Galileo FOC-1 & Galileo FOC-2,Soyuz STB/Fregat | Galileo FOC-1 & Galileo FOC-2,08/22/2014 12:27 p.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STB,Launch was a Partial Failure
+Arianespace,MEASAT-3b & Optus 10,Ariane 5 ECA | MEASAT-3b & Optus 10,09/11/2014 10:05 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Intelsat 30/DLA-1 & ARSAT-1,Ariane 5 ECA | Intelsat-30 & ARSAT-1,10/16/2014 9:43 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,DirecTV-14 & GSAT-16,Ariane 5 ECA | DirecTV-14 & GSAT-16,12/06/2014 8:40 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,O3b FM9-FM12,Soyuz STB/Fregat | O3b FM9-FM12,12/18/2014 6:37 p.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STB,Launch Successful
+Arianespace,—,Vega | IXV,02/11/2015 1:40 p.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Successful
+Arianespace,—,Soyuz STB/Fregat | Galileo FOC-3 & Galileo FOC-4,03/27/2015 9:46 p.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STB,Launch Successful
+Arianespace,Thor-7 & SICRAL-2,Ariane 5 ECA | Thor-7 & SICRAL-2,04/26/2015 8 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,DirecTV 15 & Sky Mexico 1,Ariane 5 ECA | DirecTV 15 & Sky Mexico 1,05/27/2015 9:16 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,—,Vega | Sentinel-2A,06/23/2015 1:51 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Successful
+Arianespace,Star One C4 & MSG 4,Ariane 5 ECA | Star One C4 & MSG 4,07/15/2015 9:42 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Eutelsat 8 West B & Intelsat 34,Ariane 5 ECA | Eutelsat 8 West B & Intelsat 34,08/20/2015 8:34 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,—,Soyuz STB/Fregat | Galileo FOC-5 & Galileo FOC-6,09/11/2015 2:08 a.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STB,Launch Successful
+Arianespace,Sky Muster I (NBN-Co 1A) & ARSAT-2,Ariane 5 ECA | Sky Muster I (NBN-Co 1A) & ARSAT-2,09/30/2015 8:30 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Arabsat 6B & GSAT-15,Ariane 5 ECA | Arabsat 6B & GSAT-15,11/10/2015 9:34 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,LISA Pathfinder,Vega | LISA Pathfinder,12/03/2015 4:04 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Successful
+Arianespace,Galileo FOC-7 & Galileo FOC-8,Soyuz STB/Fregat | Galileo FOC-7 & Galileo FOC-8,12/17/2015 11:51 a.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STB,Launch Successful
+Arianespace,Intelsat 29e,Ariane 5 ECA | Intelsat 29e,01/27/2016 11:20 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Eutelsat 65 West A,Ariane 5 ECA | Eutelsat 65 West A,03/09/2016 5:20 a.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Sentinel-1B,Soyuz STA/Fregat | Sentinel-1B,04/25/2016 9:02 p.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STA,Launch Successful
+Arianespace,Galileo FOC-9 & Galileo FOC-10,Soyuz STB/Fregat | Galileo FOC-9 & Galileo FOC-10,05/24/2016 8:48 a.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STB,Launch Successful
+Arianespace,Echostar 18 & BRIsat,Ariane 5 ECA | Echostar 18 & BRIsat,06/18/2016 9:38 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Intelsat 33e & Intelsat 36,Ariane 5 ECA | Intelsat 33e & Intelsat 36,08/24/2016 10:16 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,PerúSAT-1 / SkySat x 4,Vega | PerúSAT-1 / SkySat 4-7,09/16/2016 1:43 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Successful
+Arianespace,Sky Muster II (NBN-Co 1B) & GSAT-18,Ariane 5 ECA | Sky Muster II (NBN-Co 1B) & GSAT-18,10/05/2016 8:30 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,"Galileo FOC-11, FOC-12, FOC-13, FOC-14","Ariane 5 ES | Galileo FOC-11, FOC-12, FOC-13, FOC-14",11/17/2016 1:06 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ES,Launch Successful
+Arianespace,Göktürk-1A,Vega | Göktürk-1A,12/05/2016 1:51 p.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Successful
+Arianespace,Star One D1 & JCSAT-15,Ariane 5 ECA | Star One D1 & JCSAT-15,12/21/2016 8:30 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Hispasat 36W-1 (Hispasat AG1),Soyuz STB/Fregat-MT | Hispasat 36W-1 (Hispasat AG1),01/28/2017 1:03 a.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Soyuz STB,Launch Successful
+Arianespace,SKY Brasil-1 (Intelsat-32e) & Telkom-3S,Ariane 5 ECA | SKY Brasil-1 (Intelsat-32e) & Telkom-3S,02/14/2017 9:39 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Sentinel-2A,Vega | Sentinel-2B,03/07/2017 1:49 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Successful
+Arianespace,SGDC 1 & Koreasat 7,Ariane 5 ECA | SGDC 1 & Koreasat 7,05/04/2017 9:50 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,SES-15,Soyuz STA/Fregat | SES-15,05/18/2017 11:54 a.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STA,Launch Successful
+Arianespace,ViaSat-2 & EUTELSAT 172B,Ariane 5 ECA | ViaSat-2 & EUTELSAT 172B,06/01/2017 11:45 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,HellasSat-3 (Inmarsat S EAN) & GSAT-17,Ariane 5 ECA | Hellas Sat 3 (Inmarsat S EAN) & GSAT-17,06/28/2017 9:15 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,OptSat 3000 & VENÂµS (VENUS),Vega | OptSat 3000 & VENÂµS (VENUS),08/02/2017 1:58 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Successful
+Arianespace,Intelsat 37e & BSAT-4a,Ariane 5 ECA | Intelsat 37e & BSAT-4a,09/29/2017 9:56 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Mohammed VI-A,Vega | Mohammed VI-A,11/08/2017 1:42 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Successful
+Arianespace,"Galileo FOC-15, FOC-16, FOC-17, FOC-18","Ariane 5 ES | Galileo FOC-15, FOC-16, FOC-17, FOC-18",12/12/2017 6:36 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ES,Launch Successful
+Arianespace,Al Yah 3 & SES-14,Ariane 5 ECA | Al Yah 3 & SES-14,01/25/2018 10:20 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch was a Partial Failure
+Arianespace,O3b FM13-16,Soyuz STB/Fregat | O3b FM13-16,03/09/2018 5:10 p.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STB,Launch Successful
+Arianespace,DSN 1 & HYLAS 4,Ariane 5 ECA | DSN 1 & HYLAS 4,04/05/2018 9:34 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,"Galileo FOC-19, FOC-20, FOC-21, FOC-22","Ariane 5 ES | Galileo FOC-19, FOC-20, FOC-21, FOC-22",07/25/2018 11:25 a.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ES,Launch Successful
+Arianespace,ADM-Aeolus,Vega | ADM-Aeolus,08/22/2018 9:20 p.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Successful
+Arianespace,Azerspace-2/Intelsat-38 & Horizons 3e,Ariane 5 ECA | Azerspace-2/Intelsat-38 & Horizons 3e,09/25/2018 10:38 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,BepiColombo,Ariane 5 ECA | BepiColombo,10/20/2018 1:45 a.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,MetOp-C,Soyuz STB/Fregat-MT | MetOp-C,11/07/2018 12:47 a.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STB,Launch Successful
+Arianespace,Mohammed VI-B,Vega | Mohammed VI-B,11/21/2018 1:42 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Successful
+Arianespace,GSAT-11 & GEO-KOMPSAT-2A,Ariane 5 ECA | GSAT-11 & GEO-KOMPSAT-2A,12/04/2018 8:37 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,CSO-1,Soyuz STA/Fregat | CSO-1,12/19/2018 4:37 p.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STA,Launch Successful
+Arianespace,Saudi Geostationary Satellite 1/Hellas Sat 4 & GSAT-31,Ariane 5 ECA | Saudi Geostationary Satellite 1/Hellas Sat 4 & GSAT-31,02/05/2019 9:01 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,OneWeb F6,Soyuz STB/Fregat | OneWeb 1 (F6),02/27/2019 9:37 p.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STB,Launch Successful
+Arianespace,PRISMA,Vega | PRISMA,03/22/2019 1:50 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Successful
+Arianespace,O3b FM17-20,Soyuz STB/Fregat | O3b FM17-20,04/04/2019 5:03 p.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STB,Launch Successful
+Arianespace,Eutelsat 7C & AT&T T-16,Ariane 5 ECA | Eutelsat 7C & AT&T T-16,06/20/2019 9:43 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,Falcon Eye 1,Vega | Falcon Eye 1,07/11/2019 1:53 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Failure
+Arianespace,EDRS-C & HYLAS 3,Ariane 5 ECA+ | Intelsat 39 & EDRS-C/HYLAS 3,08/06/2019 7:30 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA+,Launch Successful
+Arianespace,TIBA-1 & Inmarsat-5 F5 (Global Xpress-5),Ariane 5 ECA | TIBA-1 & Inmarsat-5 F5 (Global Xpress-5),11/26/2019 9:23 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,"CSG-1, CHEOPS, & others","Soyuz STB/Fregat | CSG-1, CHEOPS, & others",12/18/2019 8:54 a.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STB,Launch Successful
+Arianespace,Eutelsat Konnect & GSAT-30,Ariane 5 ECA | Eutelsat Konnect & GSAT-30,01/16/2020 9:05 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA,Launch Successful
+Arianespace,OneWeb 2,Soyuz 2.1b/Fregat-M | OneWeb 2,02/06/2020 9:42 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1b/Fregat-M,Launch Successful
+Arianespace,JCSAT-17 & GEO-KOMPSAT-2B,Ariane 5 ECA+ | JCSAT-17 & GEO-KOMPSAT-2B,02/18/2020 10:18 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA+,Launch Successful
+Arianespace,OneWeb 3,Soyuz 2.1b/Fregat-M | OneWeb 3,03/21/2020 5:06 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1b/Fregat-M,Launch Successful
+Arianespace,"Galaxy 30, MEV-2 & BSAT-4B","Ariane 5 ECA+ | Galaxy 30, MEV-2 & BSAT-4B",08/15/2020 10:04 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA+,Launch Successful
+Arianespace,SSMS POC,Vega | SSMS PoC,09/03/2020 1:51 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Successful
+Arianespace,SEOSAT-Ingenio & Taranis,Vega | SEOSAT-Ingenio & Taranis,11/17/2020 1:52 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Failure
+Arianespace,Falcon Eye 2,Soyuz STA/Fregat | Falcon Eye 2,12/02/2020 1:33 a.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STA,Launch Successful
+Arianespace,OneWeb 4,Soyuz 2.1b/Fregat-M | OneWeb 4,12/18/2020 12:26 p.m.,"Cosmodrome Site 1S | Vostochny Cosmodrome, Siberia, Russian Federation",Soyuz 2.1b/Fregat-M,Launch Successful
+Arianespace,CSO-2,Soyuz STA/Fregat | CSO-2,12/29/2020 4:42 p.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STA,Launch Successful
+Arianespace,OneWeb 5,Soyuz 2.1b/Fregat-M | OneWeb 5,03/25/2021 2:47 a.m.,"Cosmodrome Site 1S | Vostochny Cosmodrome, Siberia, Russian Federation",Soyuz 2.1b/Fregat-M,Launch Successful
+Arianespace,OneWeb 6,Soyuz 2.1b/Fregat-M | OneWeb 6,04/25/2021 10:14 p.m.,"Cosmodrome Site 1S | Vostochny Cosmodrome, Siberia, Russian Federation",Soyuz 2.1b/Fregat-M,Launch Successful
+Arianespace,Pléiades Neo 3,Vega | Pléiades Neo 3,04/29/2021 1:50 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Successful
+Arianespace,OneWeb 7,Soyuz 2.1b/Fregat-M | OneWeb 7,05/28/2021 5:38 p.m.,"Cosmodrome Site 1S | Vostochny Cosmodrome, Siberia, Russian Federation",Soyuz 2.1b/Fregat-M,Launch Successful
+Arianespace,OneWeb 8,Soyuz 2.1b/Fregat-M | OneWeb 8,07/01/2021 12:48 p.m.,"Cosmodrome Site 1S | Vostochny Cosmodrome, Siberia, Russian Federation",Soyuz 2.1b/Fregat-M,Launch Successful
+Arianespace,Star One D2 & Eutelsat Quantum,Ariane 5 ECA+ | Star One D2 & Eutelsat Quantum,07/30/2021 9 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA+,Launch Successful
+Arianespace,Pléiades Neo 4,Vega | Pléiades Neo 4,08/17/2021 1:47 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Successful
+Arianespace,OneWeb 9,Soyuz 2.1b/Fregat-M | OneWeb 9,08/21/2021 10:13 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1b/Fregat-M,Launch Successful
+Arianespace,OneWeb 10,Soyuz 2.1b/Fregat-M | OneWeb 10,09/14/2021 6:07 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1b/Fregat-M,Launch Successful
+Arianespace,OneWeb 11,Soyuz 2.1b/Fregat-M | OneWeb 11,10/14/2021 9:40 a.m.,"Cosmodrome Site 1S | Vostochny Cosmodrome, Siberia, Russian Federation",Soyuz 2.1b,Launch Successful
+Arianespace,SES-17 & Syracuse 4A,Ariane 5 ECA+ | SES-17 & Syracuse 4A,10/24/2021 2:10 a.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA+,Launch Successful
+Arianespace,CERES,Vega | CERES,11/16/2021 9:27 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Successful
+Arianespace,2 x Galileo,Soyuz STB/Fregat | 2 x Galileo,12/05/2021 12:19 a.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STB,Launch Successful
+Arianespace,James Webb Space Telescope (JWST),Ariane 5 ECA+ | James Webb Space Telescope (JWST),12/25/2021 12:20 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA+,Launch Successful
+Arianespace,OneWeb 12,Soyuz 2.1b/Fregat-M | OneWeb 12,12/27/2021 1:10 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1b/Fregat-M,Launch Successful
+Arianespace,OneWeb 13,Soyuz STB/Fregat | OneWeb 13,02/10/2022 6:09 p.m.,"Soyuz Launch Complex | Kourou, French Guiana",Soyuz STB,Launch Successful
+Arianespace,Measat-3d & GSAT 24,Ariane 5 ECA+ | Measat-3d & GSAT 24,06/22/2022 9:50 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA+,Launch Successful
+Arianespace,Eutelsat Konnect VHTS,Ariane 5 ECA+ | Eutelsat Konnect VHTS,09/07/2022 9:45 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA+,Launch Successful
+Arianespace,"Galaxy 35 & 36, MTG-I1","Ariane 5 ECA+ | Galaxy 35 & 36, MTG-I1",12/13/2022 8:30 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA+,Launch Successful
+Arianespace,Pléiades Neo 5 & 6,Vega-C | Pléiades Neo 5 & 6,12/21/2022 1:47 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,Launch Failure
+Arianespace,JUICE (JUpiter ICy moons Explorer),Ariane 5 ECA+ | JUICE (JUpiter ICy moons Explorer),04/14/2023 12:14 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA+,Launch Successful
+Arianespace,Syracuse 4B & Heinrich Hertz (H2Sat),Ariane 5 ECA+ | Syracuse 4B & Heinrich Hertz (H2Sat),07/05/2023 10 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 ECA+,Launch Successful
+Arianespace,"THEOS-2, TRITON & others","Vega | THEOS-2, TRITON & others",10/09/2023 1:36 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Successful
+Arianespace,Sentinel-2C,Vega | Sentinel-2C,06/30/2024 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,To Be Determined
+Arianespace,—,Vega-C | PLATiNO 1,12/31/2024 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,—,Vega-C | NAOS,12/31/2024 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,CSO-3,Ariane 62 | CSO-3,12/31/2024 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 62,To Be Determined
+Arianespace,Sentinel-1D,Vega-C | Sentinel-1D,12/31/2024 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,—,Vega-C | Ital-GovSatCom,12/31/2024 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,Korean Multi-purpose Satellite 6 (KOMPSAT-6),Vega-C | Korean Multi-purpose Satellite 6 (KOMPSAT-6),12/31/2024 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,Sentinel-1C,Vega-C | Sentinel-1C,12/31/2024 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,CSG-3,Vega-C | CSG-3,12/31/2024 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,EAGLE-1,Vega-C | EAGLE-1,12/31/2024 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,—,Vega-C | PLATiNO 2,12/31/2024 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,Sentinel-3C,Vega-C | Sentinel-3C,12/31/2024 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,Biomass,Vega-C | Biomass,12/31/2024 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,Metop-SG A1,Ariane 62 | Metop-SG A1,03/31/2025 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 62,To Be Determined
+Arianespace,Solar wind Magnetosphere Ionosphere Link Explorer (SMILE),Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE),04/30/2025 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,—,Vega-C | Space Rider,09/30/2025 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,—,Vega-C | MAIA,11/30/2025 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,ViaSat-3 Asia-Pacific,Ariane 64 | ViaSat-3 Asia-Pacific,12/31/2025 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 64,To Be Determined
+Arianespace,Sentinel CO2M-A,Vega-C | Sentinel CO2M-A,12/31/2025 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,Project Kuiper (Ariane 6 #1),Ariane 64 | Project Kuiper (Ariane 6 #1),12/31/2025 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 64,To Be Determined
+Arianespace,Altius,Vega-C | Altius,12/31/2025 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,IRIDE 1,Vega-C | IRIDE 1,12/31/2025 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,IS-41 & IS-44,Ariane 64 | IS-41 & IS-44,12/31/2025 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 64,To Be Determined
+Arianespace,IRIDE 2,Vega-C | IRIDE 2,12/31/2025 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,Optus-11,Ariane 64 | Optus-11,12/31/2025 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 64,To Be Determined
+Arianespace,2 x Galileo,Ariane 62 | 2 x Galileo,12/31/2025 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 62,To Be Determined
+Arianespace,FLEX,Vega-C | FLEX,12/31/2025 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,MicroCarb,Vega-C | MicroCarb,12/31/2025 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,MTG-S1,Ariane 64 | MTG-S1,12/31/2025 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 64,To Be Determined
+Arianespace,2 x Galileo,Ariane 62 | 2 x Galileo,12/31/2025 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 62,To Be Determined
+Arianespace,—,Ariane 64 | GO-1,12/31/2025 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 64,To Be Determined
+Arianespace,Metop-SG B1,Ariane 62 | Metop-SG B1,12/31/2025 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 62,To Be Determined
+Arianespace,KOMPSAT-7,Vega-C | KOMPSAT-7,01/31/2026 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,Sentinel CO2M-B,Vega-C | Sentinel CO2M-B,03/31/2026 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,IS-45,Ariane 64 | IS-45,06/30/2026 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 64,To Be Determined
+Arianespace,MTG-I2,Ariane 64 | MTG-I2,06/30/2026 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 64,To Be Determined
+Arianespace,ClearSpace-1,Vega-C | ClearSpace-1,12/31/2026 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,FORUM,Vega-C | FORUM,12/31/2027 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,Sentinel-3D,Vega-C | Sentinel-3D,11/30/2028 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,ARIEL & Comet Interceptor,Ariane 62 | ARIEL & Comet Interceptor,12/31/2029 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 62,To Be Determined
+Arianespace,TRUTHS,Vega-C | TRUTHS,12/31/2030 midnight,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,To Be Determined
+Arianespace,Metop-SG A2,Ariane 62 | Metop-SG A2,12/31/2031 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 62,To Be Determined
+Arianespace,MTG-I3,Ariane 64 | MTG-I3,12/31/2032 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 64,To Be Determined
+Arianespace,Metop-SG B2,Ariane 62 | Metop-SG B2,12/31/2032 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 62,To Be Determined
+Arianespace,MTG-S2,Ariane 64 | MTG-S2,12/31/2034 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 64,To Be Determined
+Arianespace,Metop-SG A3,Ariane 62 | Metop-SG A3,12/31/2038 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 62,To Be Determined
+Arianespace,Metop-SG B3,Ariane 62 | Metop-SG B3,12/31/2039 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 62,To Be Determined
+Arianespace,MTG-I4,Ariane 64 | MTG-I4,12/31/2042 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 64,To Be Determined

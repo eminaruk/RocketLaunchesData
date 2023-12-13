@@ -1,0 +1,44 @@
+launch_service_provider,mission,name,net,pad,rocket,status
+Sea Launch,DemoSat,Zenit | DemoSat,03/28/1999 1:29 a.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,DirecTV-1R,Zenit | DirecTV-1R,10/10/1999 3:28 a.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,ICO F1,Zenit | ICO F1,03/12/2000 2:49 p.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Failure
+Sea Launch,PAS 9,Zenit | PAS 9,07/28/2000 10:42 p.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,Thuraya 1,Zenit | Thuraya 1,10/21/2000 5:52 a.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,XM-2,Zenit | XM-2,03/18/2001 10:33 p.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,XM-1,Zenit | XM-1,05/08/2001 10:10 p.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,Galaxy 3C,Zenit | Galaxy 3C,06/15/2002 10:39 p.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,Thuraya 2,Zenit | Thuraya 2,06/10/2003 1:55 p.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,Echostar IX,Zenit | Echostar IX,08/08/2003 3:30 a.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,Galaxy 13,Zenit | Galaxy 13,10/01/2003 4:02 a.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,Estrela do Sul 1,Zenit | Estrela do Sul 1,01/11/2004 4:12 a.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,DirecTV 7S,Zenit | DirecTV 7S,05/04/2004 12:42 p.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,Telstar 18,Zenit | Telstar 18,06/29/2004 3:58 a.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,XM-3,Zenit | XM-3,03/01/2005 3:50 a.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,Spaceway 1,Zenit | Spaceway 1,04/26/2005 7:31 a.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,Intelsat IA-8,Zenit | Intelsat IA-8,06/23/2005 2:03 p.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,INMARSAT 4 F2,Zenit | INMARSAT 4 F2,11/08/2005 2:06 p.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,Echostar X,Zenit | Echostar X,02/15/2006 11:34 p.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,JCSAT 5A,Zenit | JCSAT 5A,04/12/2006 11:29 p.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,Galaxy 16,Zenit | Galaxy 16,06/18/2006 7:50 a.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,Mugunghwa 5,Zenit | Mugunghwa 5,08/22/2006 3:27 a.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,XM-4,Zenit | XM-4,10/30/2006 11:48 p.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,NSS 8,Zenit | NSS 8,01/30/2007 11:22 p.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Failure
+Sea Launch,Thuraya 3,Zenit | Thuraya 3,01/15/2008 11:48 a.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,DirecTV 11,Zenit | DirecTV 11,03/19/2008 10:47 p.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,Amos 3,Zenit | Amos 3,04/28/2008 5 a.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit,Launch Successful
+Sea Launch,Galaxy 18,Zenit | Galaxy 18,05/21/2008 9:43 a.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,Echostar XI,Zenit | Echostar XI,07/16/2008 5:20 a.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,Galaxy 19,Zenit | Galaxy 19,09/24/2008 9:27 a.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,Telstar 11N,Zenit | Telstar 11N,02/26/2009 6:29 p.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit,Launch Successful
+Sea Launch,SICRAL 1B,Zenit 3SL | SICRAL 1B,04/20/2009 8:16 a.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,Measat 3A,Zenit | Measat 3A,06/21/2009 9:50 p.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit,Launch Successful
+Sea Launch,Intelsat IS-15,Zenit | Intelsat IS-15,11/30/2009 9 p.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit,Launch Successful
+Sea Launch,—,Zenit 3SL | Atlantic Bird 7,09/24/2011 8:18 p.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,—,Zenit-3SLB | Intelsat 18,10/05/2011 9 p.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit,Launch Successful
+Sea Launch,—,Zenit 3SL | Intelsat 19,06/01/2012 5:22 a.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,—,Zenit 3SL | Intelsat 21,08/19/2012 6:54 a.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,—,Zenit 3SL | Eutelsat 70B,12/03/2012 8:43 p.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,—,Zenit 3SL | Intelsat-27,02/01/2013 6:56 a.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Failure
+Sea Launch,—,Zenit-3SLB | Amos-4,08/31/2013 8:05 p.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit,Launch Successful
+Sea Launch,Eutelsat 3B,Zenit 3SL | Eutelsat 3B,05/26/2014 9:09 p.m.,Launch Platform Odyssey | Sea Launch,Zenit,Launch Successful
+Sea Launch,AngoSat-1,Zenit-3F | AngoSat-1,12/26/2017 7 p.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit 3F,Launch Successful

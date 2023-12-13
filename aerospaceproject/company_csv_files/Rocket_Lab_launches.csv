@@ -1,0 +1,42 @@
+launch_service_provider,mission,name,net,pad,rocket,status
+Rocket Lab,It's a Test,Electron | It's a Test,05/25/2017 4:20 a.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Failure
+Rocket Lab,"Still Testing (Dove Pioneer, 2 x Lemur-2)",Electron | Still Testing,01/21/2018 1:43 a.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,It's Business Time,Electron | It's Business Time,11/11/2018 3:50 a.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,VCLS ELaNa XIX,Electron | VCLS ELaNa XIX (This One's For Pickering),12/16/2018 6:33 a.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,DARPA R3D2,Electron | DARPA R3D2 (Two Thumbs Up),03/28/2019 11:27 p.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,STP-27RD,Electron | STP-27RD (That's a Funny Looking Cactus),05/05/2019 6 a.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,Make It Rain,Electron | Make It Rain,06/29/2019 4:30 a.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,"Look Ma, No Hands","Electron | Look Ma, No Hands",08/19/2019 12:12 p.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,As The Crow Flies,Electron | As The Crow Flies,10/17/2019 1:22 a.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,Running Out Of Fingers,Electron | Running Out Of Fingers,12/06/2019 8:18 a.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,NROL-151 (Birds of a Feather),Electron | NROL-151 (Birds of a Feather),01/31/2020 2:56 a.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,Don't Stop Me Now,Electron | Don't Stop Me Now,06/13/2020 5:12 a.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,Pics Or It Didn’t Happen,Electron | Pics Or It Didn’t Happen,07/04/2020 9:19 p.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Failure
+Rocket Lab,I Can’t Believe It’s Not Optical,Electron | I Can’t Believe It’s Not Optical,08/31/2020 3:05 a.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,In Focus,Electron | In Focus,10/28/2020 9:21 p.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,Return to Sender,Electron | Return to Sender,11/20/2020 2:20 a.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,StriX-α (The Owl's Night Begins),Electron | StriX-α (The Owl's Night Begins),12/15/2020 10:09 a.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,Another One Leaves The Crust,Electron | Another One Leaves The Crust,01/20/2021 7:26 a.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,They Go Up So Fast,Electron | They Go Up So Fast,03/22/2021 10:30 p.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,Running Out of Toes,Electron | Running Out Of Toes,05/15/2021 11:11 a.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Failure
+Rocket Lab,STP-27RM (It’s a Little Chile Up Here),Electron | STP-27RM (It’s a Little Chile Up Here),07/29/2021 6 a.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,Love At First Insight,Electron | Love At First Insight,11/18/2021 1:38 a.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,A Data With Destiny,Electron | A Data With Destiny,12/09/2021 12:02 a.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,StriX-β (The Owl’s Night Continues),Electron | The Owl’s Night Continues,02/28/2022 8:37 p.m.,"Rocket Lab Launch Complex 1B | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,Without Mission A Beat,Electron | Without Mission A Beat,04/02/2022 12:41 p.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,There and Back Again,Electron | There and Back Again,05/02/2022 10:49 p.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,CAPSTONE,Electron | CAPSTONE,06/28/2022 9:55 a.m.,"Rocket Lab Launch Complex 1B | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,NROL-162 (RASR-3),Electron | Wise One Looks Ahead (NROL-162),07/13/2022 6:30 a.m.,"Rocket Lab Launch Complex 1A | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,NROL-199 (RASR-4),Electron | Antipodean Adventure (NROL-199),08/04/2022 5 a.m.,"Rocket Lab Launch Complex 1B | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,The Owl Spreads Its Wings,Electron | The Owl Spreads Its Wings,09/15/2022 8:38 p.m.,"Rocket Lab Launch Complex 1B | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,It Argos Up From Here,Electron | It Argos Up From Here,10/07/2022 5:09 p.m.,"Rocket Lab Launch Complex 1B | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,Catch Me If You Can,Electron | Catch Me If You Can,11/04/2022 5:27 p.m.,"Rocket Lab Launch Complex 1B | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,Virginia is for Launch Lovers,Electron | Virginia is for Launch Lovers,01/24/2023 11 p.m.,"Rocket Lab Launch Complex 2 (Launch Area 0 C) | Wallops Island, Virginia, USA",Electron,Launch Successful
+Rocket Lab,Stronger Together,Electron | Stronger Together,03/16/2023 10:38 p.m.,"Rocket Lab Launch Complex 2 (Launch Area 0 C) | Wallops Island, Virginia, USA",Electron,Launch Successful
+Rocket Lab,The Beat Goes On,Electron | The Beat Goes On,03/24/2023 9:14 a.m.,"Rocket Lab Launch Complex 1B | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,TROPICS-2,Electron | Rocket Like A Hurricane (TROPICS-2),05/08/2023 1 a.m.,"Rocket Lab Launch Complex 1B | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,TROPICS-3,Electron | Coming To A Storm Near You (TROPICS-3),05/26/2023 3:46 a.m.,"Rocket Lab Launch Complex 1B | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,Scout's Arrow (DYNAMO-A),HASTE | Scout's Arrow (DYNAMO-A),06/18/2023 1:24 a.m.,"Rocket Lab Launch Complex 2 (Launch Area 0 C) | Wallops Island, Virginia, USA",Electron,Launch Successful
+Rocket Lab,Baby Come Back,Electron | Baby Come Back,07/18/2023 1:27 a.m.,"Rocket Lab Launch Complex 1B | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,We Love the Nightlife (Capella Acadia 1),Electron | We Love the Nightlife (Capella Acadia 1),08/23/2023 11:45 p.m.,"Rocket Lab Launch Complex 1B | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Successful
+Rocket Lab,We Will Never Desert You (Capella Acadia 2),Electron | We Will Never Desert You (Capella Acadia 2),09/19/2023 6:55 a.m.,"Rocket Lab Launch Complex 1B | Onenui Station, Mahia Peninsula, New Zealand",Electron,Launch Failure

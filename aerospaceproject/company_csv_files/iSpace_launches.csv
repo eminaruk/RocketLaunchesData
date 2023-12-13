@@ -1,0 +1,7 @@
+launch_service_provider,mission,name,net,pad,rocket,status
+iSpace,Maiden Flight,Hyperbola-1 | Maiden Flight,07/25/2019 5 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Hyperbola-1,Launch Successful
+iSpace,—,Hyperbola-1 | Unknown,02/01/2021 8:15 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Hyperbola-1,Launch Failure
+iSpace,Jilin-1 Mofang-01A (?),Hyperbola-1 | Jilin-1 Mofang-01A (?),08/03/2021 7:39 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Hyperbola-1,Launch Failure
+TiSPACE,Test Flight,Hapith I | Test Flight,09/16/2021 6:39 a.m.,"Pad 1 | Whalers Way Orbital Launch Complex, South Australia",Hapith I,Launch Failure
+iSpace,Jilin-1 Mofang-01A(R),Hyperbola-1 | Jilin-1 Mofang-01A(R),05/13/2022 7:09 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Hyperbola-1,Launch Failure
+iSpace,Dummy Payload,Hyperbola-1 | Dummy Payload,04/07/2023 4 a.m.,"Launch Area 95A | Jiuquan Satellite Launch Center, People's Republic of China",Hyperbola-1,Launch Successful

@@ -1,0 +1,883 @@
+launch_service_provider,mission,name,net,pad,rocket,status
+Strategic Rocket Forces,—,Kosmos-2I 63S1 | Kosmos-2I | DS-1-1,10/27/1961 4:30 p.m.,"Mayak-2 | Kapustin Yar, Russian Federation",Kosmos-2I 63S1,Launch Failure
+Strategic Rocket Forces,—,Kosmos-2I 63S1 | DS-1 2,12/21/1961 12:30 p.m.,"Mayak-2 | Kapustin Yar, Russian Federation",Kosmos-2I 63S1,Launch Failure
+Seventh Ministry of Machine Building Industry,Dong Fang Hong 1,Long March 1 | Dong Fang Hong 1,04/24/1970 1:35 p.m.,"Launch Area 2A | Jiuquan Satellite Launch Center, People's Republic of China",Long March 1,Launch Successful
+Seventh Ministry of Machine Building Industry,Shijian 1,Long March 1 | Shijian 1,03/03/1971 12:15 p.m.,"Launch Area 2A | Jiuquan Satellite Launch Center, People's Republic of China",Long March 1,Launch Successful
+Seventh Ministry of Machine Building Industry,JSSW 1a,Feng Bao 1 | JSSW 1a,09/18/1973 12:12 p.m.,"Launch Area 2B | Jiuquan Satellite Launch Center, People's Republic of China",Feng Bao 1,Launch Failure
+Seventh Ministry of Machine Building Industry,JSSW 1b,Feng Bao 1 | JSSW 1b,07/12/1974 1:55 p.m.,"Launch Area 2B | Jiuquan Satellite Launch Center, People's Republic of China",Feng Bao 1,Launch Failure
+Seventh Ministry of Machine Building Industry,FSW-0 0,Long March 2 | FSW-0 0,11/05/1974 9:40 a.m.,"Launch Area 2B | Jiuquan Satellite Launch Center, People's Republic of China",Long March 2,Launch Failure
+Seventh Ministry of Machine Building Industry,JSSW 1,Feng Bao 1 | JSSW 1,07/26/1975 1:30 p.m.,"Launch Area 2B | Jiuquan Satellite Launch Center, People's Republic of China",Feng Bao 1,Launch Successful
+Seventh Ministry of Machine Building Industry,FSW-0 1,Long March 2 | FSW-0 1,11/26/1975 3:27 a.m.,"Launch Area 2B | Jiuquan Satellite Launch Center, People's Republic of China",Long March 2,Launch Successful
+Seventh Ministry of Machine Building Industry,JSSW 2,Feng Bao 1 | JSSW 2,12/16/1975 9:21 a.m.,"Launch Area 2B | Jiuquan Satellite Launch Center, People's Republic of China",Feng Bao 1,Launch Successful
+Seventh Ministry of Machine Building Industry,JSSW 3,Feng Bao 1 | JSSW 3,08/30/1976 11:45 a.m.,"Launch Area 2B | Jiuquan Satellite Launch Center, People's Republic of China",Feng Bao 1,Launch Successful
+Seventh Ministry of Machine Building Industry,JSSW 4,Feng Bao 1 | JSSW 4,11/10/1976 9:05 a.m.,"Launch Area 2B | Jiuquan Satellite Launch Center, People's Republic of China",Feng Bao 1,Launch Failure
+Seventh Ministry of Machine Building Industry,FSW-0 2,Long March 2 | FSW-0 2,12/07/1976 4:38 a.m.,"Launch Area 2B | Jiuquan Satellite Launch Center, People's Republic of China",Long March 2,Launch Successful
+Seventh Ministry of Machine Building Industry,FSW-0 3,Long March 2 | FSW-0 3,01/26/1978 5 a.m.,"Launch Area 2B | Jiuquan Satellite Launch Center, People's Republic of China",Long March 2,Launch Successful
+Seventh Ministry of Machine Building Industry,Shi Jian 2,Feng Bao 1 | Shi Jian 2,07/27/1979 9:28 p.m.,"Launch Area 2B | Jiuquan Satellite Launch Center, People's Republic of China",Feng Bao 1,Launch Failure
+Seventh Ministry of Machine Building Industry,"Shi Jian 2, 2A, 2B","Feng Bao 1 | Shi Jian 2, 2A, 2B",09/19/1981 9:28 p.m.,"Launch Area 2B | Jiuquan Satellite Launch Center, People's Republic of China",Feng Bao 1,Launch Successful
+Russian Space Forces,Yantar-4K2 62,Soyuz U | Yantar-4K2 62,01/21/1992 3 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz U,Launch Successful
+Progress Rocket Space Center,US-K 68,Molniya-M | US-K 68,01/24/1992 1:18 a.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U2 | Progress M-11,01/25/1992 7:50 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U,Launch Successful
+Khrunichev State Research and Production Space Center,Uragan 45 to 47,Proton | Uragan 45 to 47,01/29/1992 10:19 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Tselina-2 10,Zenit-2 | Tselina-2 10,02/05/1992 6:14 p.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit-2,Launch Failure
+Production Corporation Polyot,Parus 75,Kosmos-3M | Parus 75,02/17/1992 10:05 p.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Progress Rocket Space Center,Molniya-1T 83,Molniya-M | Molniya-1T 83,03/04/1992 4:27 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Production Corporation Polyot,Tsikada 18,Kosmos-3M | Tsikada 18,03/09/1992 10:35 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-14,Soyuz-U2 | Soyuz TM-14,03/17/1992 10:54 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U,Launch Successful
+Russian Space Forces,Yantar-4K2 63,Soyuz-U-PVB | Yantar-4K2 63,04/01/1992 2:18 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Khrunichev State Research and Production Space Center,Gorizont 25,Proton | Gorizont 25,04/02/1992 1:50 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Yantar-4KS1M 2,Soyuz U | Yantar-4KS1M 2,04/08/1992 12:20 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Production Corporation Polyot,Parus 76,Kosmos-3M | Parus 76,04/15/1992 7:17 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U2 | Progress M-12,04/19/1992 9:29 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U,Launch Successful
+Russian Space Forces,Resurs-F2 8,Soyuz U | Resurs-F2 8,04/29/1992 7 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Yantar-1KFT 15,Soyuz U | Yantar-1KFT 15,04/29/1992 10:10 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Space Forces,Yantar-4K2 64,Soyuz U | Yantar-4K2 64,05/28/1992 7:09 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz U,Launch Successful
+Production Corporation Polyot,Strela-1M 361-368,Kosmos-3M | Strela-1M 361-368,06/03/1992 12:50 a.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Space Forces,Resurs-F 15,Soyuz-U-PVB | Resurs-F 15,06/23/1992 8 a.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U2 | Progress M-13,06/30/1992 4:43 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U,Launch Successful
+Production Corporation Polyot,Parus 77,Kosmos-3M | Parus 77,07/01/1992 8:16 p.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Progress Rocket Space Center,US-K 69,Molniya 8K78M-PVB | US-K 69,07/08/1992 9:53 a.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Molniya 8K78M-PVB,Launch Successful
+Russian Space Forces,Strela-3 79 to 82,Tsiklon-3 | Strela-3 79 to 82,07/13/1992 5:41 p.m.,"32/1 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Khrunichev State Research and Production Space Center,Gorizont 26,Proton | Gorizont 26,07/14/1992 10:02 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Space Forces,Yantar-4K2 65,Soyuz U | Yantar-4K2 65,07/24/1992 7:40 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-15,Soyuz-U2 | Soyuz TM-15,07/27/1992 6:08 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U,Launch Successful
+Khrunichev State Research and Production Space Center,Uragan 48 to 50,Proton | Uragan 48 to 50,07/30/1992 1:59 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Space Forces,Zenit-8 100,Soyuz-U-PVB | Zenit-8 100,07/30/1992 11 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Progress Rocket Space Center,Molniya-1T 84,Molniya-M | Molniya-1T 84,08/06/1992 7:30 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Production Corporation Polyot,Strela-2M 50,Kosmos-3M | Strela-2M 50,08/12/1992 5:44 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U2 | Progress M-14,08/15/1992 10:18 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U,Launch Successful
+Russian Space Forces,Resurs-F 16,Soyuz U | Resurs-F 16,08/19/1992 10:20 a.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,US-KS 6,Proton | US-KS 6,09/10/1992 6:01 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Space Forces,Yantar-4K2 66,Soyuz U | Yantar-4K2 66,09/22/1992 4:10 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz U,Launch Successful
+Russian Space Forces,Foton 8,Soyuz U | Foton 8,10/08/1992 7 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz U,Launch Successful
+Progress Rocket Space Center,Molniya-3 50L,Molniya 8K78M-PVB | Molniya-3 50L,10/14/1992 7:58 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Molniya 8K78M-PVB,Launch Successful
+Russian Space Forces,Strela-3 83 to 88,Tsiklon-3 | Strela-3 83 to 88,10/20/1992 12:58 p.m.,"32/1 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Progress Rocket Space Center,US-K 70,Molniya 8K78M-PVB | US-K 70,10/21/1992 10:21 a.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Molniya 8K78M-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U2 | Progress M-15,10/27/1992 5:19 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U,Launch Successful
+Production Corporation Polyot,Parus 78,Kosmos-3M | Parus 78,10/29/1992 10:40 a.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Khrunichev State Research and Production Space Center,Ekran-M 3,Proton | Ekran-M 3,10/30/1992 2:59 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Space Forces,Resurs-500,Soyuz-U-PVB | Resurs-500,11/15/1992 9:45 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Tselina-2 11,Zenit-2 | Tselina-2 11,11/17/1992 7:47 a.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit-2,Launch Successful
+Russian Space Forces,Yantar-4K2 67,Soyuz U | Yantar-4K2 67,11/20/1992 3:29 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz U,Launch Successful
+Russian Space Forces,Tselina-D 67,Tsiklon-3 | Tselina-D 67,11/24/1992 4:09 a.m.,"32/2 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Progress Rocket Space Center,US-K 71,Molniya 8K78M-PVB | US-K 71,11/25/1992 12:18 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Molniya 8K78M-PVB,Launch Successful
+Khrunichev State Research and Production Space Center,Gorizont 27,Proton | Gorizont 27,11/27/1992 1:10 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Progress Rocket Space Center,Molniya-3 56L,Molniya 8K78M-PVB | Molniya-3 56L,12/02/1992 1:57 a.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Molniya 8K78M-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Yantar-4KS1M 3,Soyuz U | Yantar-4KS1M 3,12/09/1992 11:25 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,US-KMO 2,Proton | US-KMO 2,12/17/1992 12:45 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Orlets-1 4,Soyuz U | Orlets-1 4,12/22/1992 noon,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Space Forces,Geo-IK 13,Tsiklon-3 | Geo-IK 13,12/22/1992 12:36 p.m.,"32/2 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Tselina-2 12,Zenit-2 | Tselina-2 12,12/25/1992 5:56 a.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit-2,Launch Successful
+Russian Space Forces,Tselina-D 68,Tsiklon-3 | Tselina-D 68,12/25/1992 8:07 p.m.,"32/2 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Russian Space Forces,Bion 10,Soyuz-U-PVB | Bion 10,12/29/1992 1:30 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Production Corporation Polyot,Tsikada 19,Kosmos-3M | Tsikada 19,01/12/1993 11:10 a.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Progress Rocket Space Center,Molniya-1T 85,Molniya-M | Molniya-1T 85,01/13/1993 1:49 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Russian Space Forces,Yantar-4K2 68,Soyuz U | Yantar-4K2 68,01/19/1993 2:49 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-16,Soyuz-U2 | Soyuz TM-16,01/24/1993 5:58 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U,Launch Successful
+Progress Rocket Space Center,US-K 72,Molniya-M | US-K 72,01/26/1993 3:55 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Production Corporation Polyot,Parus 79,Kosmos-3M | Parus 79,02/09/1993 2:56 a.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Khrunichev State Research and Production Space Center,Uragan 51 to 53,Proton | Uragan 51 to 53,02/17/1993 8:09 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U2 | Progress M-16,02/21/1993 6:32 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U,Launch Successful
+Khrunichev State Research and Production Space Center,Raduga 29,Proton | Raduga 29,03/25/1993 2:28 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Space Forces,EKA-1,Start-1 | EKA-1,03/25/1993 1:15 p.m.,"158 | Plesetsk Cosmodrome, Russian Federation",Start-1,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Tselina-2 13,Zenit-2 | Tselina-2 13,03/26/1993 2:21 a.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit-2,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),US-PM 1,Tsiklon-2 | US-PM 1,03/30/1993 noon,"90/20 | Baikonur Cosmodrome, Republic of Kazakhstan",Tsiklon-2,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U2 | Progress M-17,03/31/1993 3:34 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U,Launch Successful
+Production Corporation Polyot,Parus 80,Kosmos-3M | Parus 80,04/01/1993 6:57 p.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Space Forces,Yantar-4K2 69,Soyuz U | Yantar-4K2 69,04/02/1993 2:30 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz U,Launch Successful
+Progress Rocket Space Center,US-K 73,Molniya-M | US-K 73,04/06/1993 7:07 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Russian Space Forces,Tselina-R 4,Tsiklon-3 | Tselina-R 4,04/16/1993 7:49 a.m.,"32/1 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Progress Rocket Space Center,Molniya-3 57L,Molniya-M | Molniya-3 57L,04/21/1993 12:23 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Yantar-1KFT 16,Soyuz U | Yantar-1KFT 16,04/27/1993 10:35 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),US-PM 2,Tsiklon-2 | US-PM 2,04/28/1993 3:39 a.m.,"90/20 | Baikonur Cosmodrome, Republic of Kazakhstan",Tsiklon-2,Launch Successful
+Russian Space Forces,Strela-3 89 to 94,Tsiklon-3 | Strela-3 89 to 94,05/11/1993 2:56 p.m.,"32/1 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Russian Space Forces,Resurs-F2 9,Soyuz U | Resurs-F2 9,05/21/1993 9:15 a.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U2 | Progress M-18,05/22/1993 6:41 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U,Launch Successful
+Progress Rocket Space Center,Molniya-1T 86,Molniya-M | Molniya-1T 86,05/26/1993 3:23 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Khrunichev State Research and Production Space Center,Gorizont 39L,Proton | Gorizont 39L,05/27/1993 1:22 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Failure
+Production Corporation Polyot,Strela-2M 51,Kosmos-3M | Strela-2M 51,06/16/1993 4:17 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Space Forces,Strela-3 95 to 100,Tsiklon-3 | Strela-3 95 to 100,06/24/1993 4:12 a.m.,"32/1 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Russian Space Forces,Resurs-F 18,Soyuz-U-PVB | Resurs-F 18,06/25/1993 8:20 a.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-17,Soyuz-U2 | Soyuz TM-17,07/01/1993 2:32 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),US-PM 3,Tsiklon-2 | US-PM 3,07/07/1993 7:15 a.m.,"90/20 | Baikonur Cosmodrome, Republic of Kazakhstan",Tsiklon-2,Launch Successful
+Russian Space Forces,Yantar-4K2 70,Soyuz-U-PVB | Yantar-4K2 70,07/14/1993 2:40 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Russian Space Forces,Zenit-8 101,Soyuz-U-PVB | Zenit-8 101,07/22/1993 8:45 a.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Progress Rocket Space Center,Molniya-3 58L,Molniya-M | Molniya-3 58L,08/04/1993 12:52 a.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Progress Rocket Space Center,US-K 74,Molniya-M | US-K 74,08/10/1993 2:53 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-19,08/10/1993 10:23 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Space Forces,Resurs-F 19,Soyuz-U-PVB | Resurs-F 19,08/24/1993 10:45 a.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Russian Space Forces,Meteor-2 21,Tsiklon-3 | Meteor-2 21,08/31/1993 4:40 a.m.,"32/1 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Orlets-1 5,Soyuz-U | Orlets-1 5,09/07/1993 1:25 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Tselina-2 14,Zenit-2 | Tselina-2 14,09/16/1993 7:36 a.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit-2,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),US-PM 4,Tsiklon-2 | US-PM 4,09/17/1993 12:43 a.m.,"90/20 | Baikonur Cosmodrome, Republic of Kazakhstan",Tsiklon-2,Launch Successful
+Khrunichev State Research and Production Space Center,Raduga 30,Proton | Raduga 30,09/30/1993 5:05 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-20,10/11/1993 9:33 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Production Corporation Polyot,Taifun-1B 13,Kosmos-3M | Taifun-1B 13,10/26/1993 1 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Khrunichev State Research and Production Space Center,Gorizont 28,Proton | Gorizont 28,10/28/1993 3:17 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Production Corporation Polyot,Parus 81,Kosmos-3M | Parus 81,11/02/1993 12:10 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Yantar-4KS1M 4,Soyuz U | Yantar-4KS1M 4,11/05/1993 8:25 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Rimsat G1,Proton | Rimsat G1,11/18/1993 1:54 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Progress Rocket Space Center,Molniya-1T 87,Molniya-M | Molniya-1T 87,12/22/1993 8:37 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-18,Soyuz-U2 | Soyuz TM-18,01/08/1994 10:05 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U,Launch Successful
+Khrunichev State Research and Production Space Center,Gals 1,Proton-K/DM-2M | Gals 1,01/20/1994 9:49 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Russian Space Forces,Meteor-3 6,Tsiklon-3 | Meteor-3 6,01/25/1994 12:25 a.m.,"32/1 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-21,01/28/1994 2:12 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Raduga-1 3,Proton | Raduga-1 3,02/05/1994 8:46 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Space Forces,Strela-3 101 to 106,Tsiklon-3 | Strela-3 101 to 106,02/12/1994 8:54 a.m.,"32/1 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Khrunichev State Research and Production Space Center,Raduga 31,Proton | Raduga 31,02/18/1994 7:56 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Space Forces,Koronas-I,Tsiklon-3 | Koronas-I,03/02/1994 3:25 a.m.,"32/1 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Russian Space Forces,Yantar-4K2 71,Soyuz-U-PVB | Yantar-4K2 71,03/17/1994 4:30 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-22,03/22/1994 4:54 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Uragan 54 to 56,Proton | Uragan 54 to 56,04/11/1994 7:49 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Tselina-2 15,Zenit-2 | Tselina-2 15,04/23/1994 8:01 a.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit-2,Launch Successful
+Production Corporation Polyot,Parus 82,Kosmos-3M | Parus 82,04/26/1994 2:14 a.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Yantar-4KS1M 5,Soyuz U | Yantar-4KS1M 5,04/28/1994 5:14 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Rimsat G2,Proton | Rimsat G2,05/20/1994 2:01 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-23,05/22/1994 4:30 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Space Forces,Tselina-D 69,Tsiklon-3 | Tselina-D 69,05/25/1994 10:15 a.m.,"32/2 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Failure
+Russian Space Forces,Zenit-8 102,Soyuz-U-PVB | Zenit-8 102,06/07/1994 7:20 a.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Russian Space Forces,Foton 9,Soyuz-U-PVB | Foton 9,06/14/1994 4:05 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-19,Soyuz-U2 | Soyuz TM-19,07/01/1994 12:24 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U,Launch Successful
+Khrunichev State Research and Production Space Center,US-KMO 3,Proton | US-KMO 3,07/06/1994 11:58 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Production Corporation Polyot,Nadezhda 7,Kosmos-3M | Nadezhda 7,07/14/1994 5:13 a.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Space Forces,Yantar-4K2 72,Soyuz-U-PVB | Yantar-4K2 72,07/20/1994 5:35 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Yantar-1KFT 17,Soyuz U | Yantar-1KFT 17,07/29/1994 9:30 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Production Corporation Polyot,Obzor Test,Kosmos-3M | Obzor Test,08/02/1994 8 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Progress Rocket Space Center,US-K 75,Molniya-M | US-K 75,08/05/1994 1:12 a.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Khrunichev State Research and Production Space Center,Uragan 57 to 59,Proton | Uragan 57 to 59,08/11/1994 3:27 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Progress Rocket Space Center,Molniya-3 60L,Molniya-M | Molniya-3 60L,08/23/1994 2:30 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-24,08/25/1994 2:25 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Orlets-2 1,Zenit-2 | Orlets-2 1,08/26/1994 noon,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit-2,Launch Successful
+Khrunichev State Research and Production Space Center,Potok 8,Proton | Potok 8,09/21/1994 5:53 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Production Corporation Polyot,Taifun-1 24,Kosmos-3M | Taifun-1 24,09/27/1994 2 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-20,Soyuz-U2 | Soyuz TM-20,10/03/1994 10:42 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U,Launch Successful
+Russian Space Forces,Okean-O1 7,Tsiklon-3 | Okean-O1 7,10/11/1994 2:30 p.m.,"32/2 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Khrunichev State Research and Production Space Center,Ekspress-2,Proton-K/DM-2M | Ekspress-2,10/13/1994 4:19 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Khrunichev State Research and Production Space Center,Elektro,Proton | Elektro,10/31/1994 2:30 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),US-PM 5,Tsiklon-2 | US-PM 5,11/02/1994 1:04 a.m.,"90/20 | Baikonur Cosmodrome, Republic of Kazakhstan",Tsiklon-2,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Resurs-O1,Zenit-2 | Resurs-O1,11/04/1994 5:47 a.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit-2,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-25,11/11/1994 7:21 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Uragan 60 to 62,Proton | Uragan 60 to 62,11/20/1994 12:39 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Tselina-2 16,Zenit-2 | Tselina-2 16,11/24/1994 9:15 a.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit-2,Launch Successful
+Russian Space Forces,Geo-IK 14,Tsiklon-3 | Geo-IK 14,11/29/1994 2:54 a.m.,"32/2 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Progress Rocket Space Center,Molniya-1T 88,Molniya-M | Molniya-1T 88,12/14/1994 2:21 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Khrunichev State Research and Production Space Center,Altair 13L (Luch 1),Proton | Altair 13L (Luch 1),12/16/1994 noon,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Production Corporation Polyot,Strela-2M 52,Kosmos-3M | Strela-2M 52,12/20/1994 5:11 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Space Forces,RS-15 Radio-ROSTO,Rokot / Briz-K | RS-15 Radio-ROSTO,12/26/1994 3:01 a.m.,"175/58 | Baikonur Cosmodrome, Republic of Kazakhstan",Rokot/Briz-K,Launch Successful
+Russian Space Forces,Strela-3 107 to 112,Tsiklon-3 | Strela-3 107 to 112,12/26/1994 10:26 p.m.,"32/2 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Khrunichev State Research and Production Space Center,Raduga 32,Proton | Raduga 32,12/28/1994 11:31 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Yantar-4KS1M 6,Soyuz U | Yantar-4KS1M 6,12/29/1994 11:30 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Production Corporation Polyot,Tsikada 20,Kosmos-3M | Tsikada 20,01/24/1995 3:54 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-26,02/15/1995 4:42 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Space Forces,Foton 10,Soyuz U | Foton 10,02/16/1995 5:39 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz U,Launch Successful
+Production Corporation Polyot,Taifun-2 27,Kosmos-3M | Taifun-2 27,03/02/1995 1 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Khrunichev State Research and Production Space Center,Uragan 63 to 65,Proton | Uragan 63 to 65,03/07/1995 9:23 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-21,Soyuz-U2 | Soyuz TM-21,03/14/1995 6:11 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U,Launch Successful
+Production Corporation Polyot,Parus 83,Kosmos-3M | Parus 83,03/22/1995 4:09 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Space Forces,Yantar-4K2 73,Soyuz-U-PVB | Yantar-4K2 73,03/22/1995 4:44 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Russian Space Forces,Gurwin-1,Start | Gurwin-1,03/28/1995 10 a.m.,"158 | Plesetsk Cosmodrome, Russian Federation",Start,Launch Failure
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-27,04/09/1995 7:34 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Spektr,Proton | Spektr,05/20/1995 3:33 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Progress Rocket Space Center,US-K 76,Molniya-M | US-K 76,05/24/1995 8:10 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),US-PM 6,Tsiklon-2 | US-PM 6,06/08/1995 4:43 a.m.,"90/20 | Baikonur Cosmodrome, Republic of Kazakhstan",Tsiklon-2,Launch Successful
+Russian Space Forces,Yantar-4K2 74,Soyuz-U-PVB | Yantar-4K2 74,06/28/1995 6:25 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Production Corporation Polyot,Tsikada 21,Kosmos-3M | Tsikada 21,07/05/1995 3:09 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-28,07/20/1995 3:04 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Uragan 66 to 68,Proton | Uragan 66 to 68,07/24/1995 3:52 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Progress Rocket Space Center,Interbol-1,Molniya-M | Interbol-1,08/02/1995 11:59 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Progress Rocket Space Center,Molniya-3 59L,Molniya-M | Molniya-3 59L,08/09/1995 2:21 a.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Khrunichev State Research and Production Space Center,Potok 9,Proton | Potok 9,08/30/1995 7:33 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Space Forces,Okean-O1 8,Tsiklon-3 | Okean-O1 8,08/31/1995 6:49 a.m.,"32/2 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-22,Soyuz-U2 | Soyuz TM-22,09/03/1995 9 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U,Launch Successful
+Russian Space Forces,Resurs-F2 10,Soyuz U | Resurs-F2 10,09/26/1995 11:20 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Yantar-4KS1M 7,Soyuz U | Yantar-4KS1M 7,09/29/1995 4:25 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Production Corporation Polyot,Parus 84,Kosmos-3M | Parus 84,10/06/1995 3:23 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Failure
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-29,10/08/1995 6:50 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Luch 2,Proton | Luch 2,10/11/1995 4:26 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Tselina-2 17,Zenit-2 | Tselina-2 17,10/31/1995 8:19 p.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit-2,Launch Successful
+Khrunichev State Research and Production Space Center,Gals 2,Proton | Gals 2,11/17/1995 2:25 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Khrunichev State Research and Production Space Center,Uragan 69 to 71,Proton | Uragan 69 to 71,12/14/1995 6:10 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-30,12/18/1995 2:31 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),US-PM 7,Tsiklon-2 | US-PM 7,12/20/1995 12:52 a.m.,"90/20 | Baikonur Cosmodrome, Republic of Kazakhstan",Tsiklon-2,Launch Successful
+Progress Rocket Space Center,IRS-1C & Skipper,Molniya-M | IRS-1C & Skipper,12/28/1995 6:45 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Molniya-M,Launch Successful
+Production Corporation Polyot,Parus 85,Kosmos-3M | Parus 85,01/16/1996 3:33 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Khrunichev State Research and Production Space Center,Gorizont 31,Proton | Gorizont 31,01/25/1996 9:56 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Space Forces,Gonets-D 319 to 321 & Strela-3 113 to 115,Tsiklon-3 | Gonets-D 319 to 321 & Strela-3 113 to 115,02/19/1996 12:58 a.m.,"32/1 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Khrunichev State Research and Production Space Center,Raduga 33,Proton | Raduga 33,02/19/1996 8:19 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-23,Soyuz-U | Soyuz TM-23,02/21/1996 12:34 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Space Forces,Yantar-4K2 75,Soyuz-U-PVB | Yantar-4K2 75,03/14/1996 5:40 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Khrunichev State Research and Production Space Center,Astra 1F,Proton-K/DM-2M | Astra 1F,04/08/1996 11:09 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Khrunichev State Research and Production Space Center,Priroda,Proton | Priroda,04/23/1996 11:48 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Production Corporation Polyot,Taifun-1B 14,Kosmos-3M | Taifun-1B 14,04/24/1996 1 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-31,05/05/1996 7:04 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Yantar-1KFT 18,Soyuz U | Yantar-1KFT 18,05/14/1996 8:55 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Failure
+Khrunichev State Research and Production Space Center,Gorizont 32,Proton | Gorizont 32,05/25/1996 2:05 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Space Forces,Yantar-4K2 76,Soyuz-U-PVB | Yantar-4K2 76,06/20/1996 6:44 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Failure
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-32,07/31/1996 8 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Progress Rocket Space Center,Molniya-1T 89,Molniya-M | Molniya-1T 89,08/14/1996 10:20 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-24,Soyuz-U | Soyuz TM-24,08/17/1996 1:18 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Progress Rocket Space Center,"Interbol 2, Magin 5 & MuSat 1","Molniya-M | Interbol 2, Magin 5 & MuSat 1",08/29/1996 5:22 a.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Tselina-2 18,Zenit-2 | Tselina-2 18,09/04/1996 9:01 a.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit-2,Launch Successful
+Production Corporation Polyot,Parus 86,Kosmos-3M | Parus 86,09/05/1996 12:47 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Khrunichev State Research and Production Space Center,INMARSAT III F-2,Proton | INMARSAT III F-2,09/06/1996 5:37 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Khrunichev State Research and Production Space Center,Ekspress 2,Proton-K/DM-2M | Ekspress 2,09/26/1996 5:50 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Progress Rocket Space Center,Molniya-3 62L,Molniya-M | Molniya-3 62L,10/24/1996 11:37 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Khrunichev State Research and Production Space Center,Mars-96,Proton-K/D-2 | Mars-96,11/16/1996 8:48 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/D-2,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-33,11/19/1996 11:20 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),US-PM 8,Tsiklon-2 | US-PM 8,12/11/1996 noon,"90/19 | Baikonur Cosmodrome, Republic of Kazakhstan",Tsiklon-2,Launch Successful
+Production Corporation Polyot,Parus 87,Kosmos-3M | Parus 87,12/20/1996 6:43 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Space Forces,Bion 11,Soyuz U | Bion 11,12/24/1996 1:50 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-25,Soyuz-U | Soyuz TM-25,02/10/1997 2:09 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Space Forces,Strela-3 116 to 118 & Gonets 4 to 6,Tsiklon-3 | Strela-3 116 to 118 & Gonets 4 to 6,02/14/1997 3:47 a.m.,"32/1 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Strategic Rocket Forces,Zeya,Start-1.2 | Zeya,03/04/1997 2 a.m.,"5 | Svobodny Cosmodrome, Russian Federation",Start-1.2,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-34,04/06/1997 4:04 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Progress Rocket Space Center,US-K 77,Molniya-M | US-K 77,04/09/1997 8:58 a.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Production Corporation Polyot,Parus 88,Kosmos-3M | Parus 88,04/17/1997 1:03 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Progress Rocket Space Center,US-K 78,Molniya-M | US-K 78,05/14/1997 12:33 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Orlets-1 6,Soyuz U | Orlets-1 6,05/15/1997 12:10 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Tselina-2 19,Zenit-2 | Tselina-2 19,05/20/1997 7:07 a.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit-2,Launch Failure
+Khrunichev State Research and Production Space Center,Telstar 5,Proton-K/DM-2M | Telstar 5,05/24/1997 5 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Khrunichev State Research and Production Space Center,Araks-N 1,Proton-K/17S40 | Araks-N 1,06/06/1997 4:56 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/17S40,Launch Successful
+Khrunichev State Research and Production Space Center,Iridium 09 to 14 & Iridium 16,Proton-K/17S40 | Iridium 09 to 14 & Iridium 16,06/18/1997 2:02 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/17S40,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-35,07/05/1997 4:11 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-26,Soyuz-U | Soyuz TM-26,08/05/1997 3:35 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,US-KS 7,Proton | US-KS 7,08/14/1997 8:49 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Khrunichev State Research and Production Space Center,PAS 5,Proton-K/DM-2M | PAS 5,08/28/1997 12:33 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Khrunichev State Research and Production Space Center,Iridium 27 to 33,Proton-K/17S40 | Iridium 27 to 33,09/14/1997 1:36 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/17S40,Launch Successful
+Production Corporation Polyot,Parus 89,Kosmos-3M | Parus 89,09/23/1997 4:44 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Progress Rocket Space Center,Molniya-1T 90,Molniya-M | Molniya-1T 90,09/24/1997 9:30 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-36,10/05/1997 3:08 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Strategic Rocket Forces,Foton 11 & Mirka,Soyuz U | Foton 11 & Mirka,10/09/1997 5:59 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Kupon,Proton-K/DM-2M | Kupon,11/12/1997 5 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Strategic Rocket Forces,Resurs F-1M,Soyuz U | Resurs F-1M,11/18/1997 11:14 a.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Astra 1G,Proton-K/DM-2M | Astra 1G,12/02/1997 11:10 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),US-PM 9,Tsiklon-2 | US-PM 9,12/09/1997 7:17 a.m.,"90/19 | Baikonur Cosmodrome, Republic of Kazakhstan",Tsiklon-2,Launch Successful
+Strategic Rocket Forces,Yantar-4K2 77,Soyuz-U-PVB | Yantar-4K2 77,12/15/1997 3:40 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-37,12/20/1997 8:45 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Strategic Rocket Forces,EarlyBird,Start-1 | EarlyBird,12/24/1997 1:32 p.m.,"5 | Svobodny Cosmodrome, Russian Federation",Start-1,Launch Successful
+Khrunichev State Research and Production Space Center,Asiasat 3,Proton-K/DM-2M | Asiasat 3,12/24/1997 11:19 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Failure
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-27,Soyuz U | Soyuz TM-27,01/29/1998 4:33 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Yantar-1KFT 19,Soyuz-U-PVB | Yantar-1KFT 19,02/17/1998 10:35 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-38,03/14/1998 10:45 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Iridium 62 to 68,Proton-K/17S40 | Iridium 62 to 68,04/07/1998 2:13 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/17S40,Launch Successful
+Khrunichev State Research and Production Space Center,US-KMO 4,Proton | US-KMO 4,04/29/1998 4:36 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Progress Rocket Space Center,US-K 79,Molniya-M | US-K 79,05/07/1998 8:53 a.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Khrunichev State Research and Production Space Center,Echostar IV,Proton-K/DM-2M | Echostar IV,05/07/1998 11:45 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-39,05/14/1998 10:12 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Strategic Rocket Forces,Strela-3 119 to 124,Tsiklon-3 | Strela-3 119 to 124,06/15/1998 10:58 p.m.,"32/1 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Strategic Rocket Forces,Yantar-4K2 78,Soyuz-U-PVB | Yantar-4K2 78,06/24/1998 6:29 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Yantar-4KS1M 8,Soyuz-U-PVB | Yantar-4KS1M 8,06/25/1998 2 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U-PVB,Launch Successful
+Progress Rocket Space Center,Molniya-3 61L,Molniya-M | Molniya-3 61L,07/01/1998 12:48 a.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Makeyev Rocket Design Bureau,Tubsat-N & N1,Shtil'-1 | Tubsat-N & N1,07/07/1998 3:15 a.m.,Novomoskovsk (K-407) | Sea Launch,Shtil'-1,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Resurs-O1,Zenit-2 | Resurs-O1,07/10/1998 6:30 a.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit-2,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Tselina-2 20,Zenit-2 | Tselina-2 20,07/28/1998 9:15 a.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit-2,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-28,Soyuz-U | Soyuz TM-28,08/13/1998 9:43 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Astra 2A,Proton-K/DM-2M | Astra 2A,08/30/1998 12:31 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),"Globalstar 5, 7, 9 to 13, 16 to 18, 20, 21","Zenit-2 11K77.05 | Globalstar 5, 7, 9 to 13, 16 to 18, 20, 21",09/09/1998 8:29 p.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit-2 11K77.05,Launch Failure
+Progress Rocket Space Center,Molniya-1T 91,Molniya-M | Molniya-1T 91,09/28/1998 11:41 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-40,10/25/1998 4:14 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,PAS 8,Proton-K/DM-2M | PAS 8,11/04/1998 5:12 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Khrunichev State Research and Production Space Center,Zarya,Proton | Zarya,11/20/1998 6:40 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Production Corporation Polyot,Nadezhda 8,Kosmos-3M | Nadezhda 8,12/10/1998 11:57 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Production Corporation Polyot,Parus 90,Kosmos-3M | Parus 90,12/24/1998 8:02 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Khrunichev State Research and Production Space Center,Uragan 72 to 74,Proton | Uragan 72 to 74,12/30/1998 6:35 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),"Globalstar 23,36,38,40","Soyuz-U-PVB | Globalstar 23,36,38,40",02/09/1999 3:53 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U-PVB,Launch Successful
+Khrunichev State Research and Production Space Center,Telstar 6,Proton-K/DM-2M | Telstar 6,02/15/1999 5:12 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-29,Soyuz-U | Soyuz TM-29,02/20/1999 4:18 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Raduga-1 4,Proton | Raduga-1 4,02/28/1999 4 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),"Globalstar 22,37,41,46","Soyuz-U-PVB | Globalstar 22,37,41,46",03/15/1999 3:06 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U-PVB,Launch Successful
+Khrunichev State Research and Production Space Center,Asiasat 3S,Proton-K/DM-2M | Asiasat 3S,03/21/1999 12:09 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-41,04/02/1999 11:28 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),"Globalstar 19,42,44,45","Soyuz-U-PVB | Globalstar 19,42,44,45",04/15/1999 12:46 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U-PVB,Launch Successful
+ISC Kosmotras,UOSAT-OSCAR-36,Dnepr | UOSAT-OSCAR-36,04/21/1999 4:59 a.m.,"109/95 | Baikonur Cosmodrome, Republic of Kazakhstan",Dnepr,Launch Successful
+Production Corporation Polyot,ABRIXAS & MegSat 0,Kosmos-3M | ABRIXAS & MegSat 0,04/28/1999 8:30 p.m.,"107 | Kapustin Yar, Russian Federation",Kosmos-3M,Launch Successful
+Khrunichev State Research and Production Space Center,Nimiq 1,Proton-K/DM-2M | Nimiq 1,05/20/1999 10:30 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Khrunichev State Research and Production Space Center,Astra 1H,Proton-K/DM-2M | Astra 1H,06/18/1999 1:49 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Khrunichev State Research and Production Space Center,Raduga 34,Proton-K/Briz-M | Raduga 34,07/05/1999 1:32 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/Briz-M,Launch Failure
+Progress Rocket Space Center,Molniya-3 63L,Molniya-M | Molniya-3 63L,07/08/1999 8:45 a.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-42,07/16/1999 4:37 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Okean-O,Zenit-2 | Okean-O,07/17/1999 5:38 a.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit-2,Launch Successful
+Strategic Rocket Forces,Yantar-4K2 79,Soyuz-U-PVB | Yantar-4K2 79,08/18/1999 6 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Production Corporation Polyot,Parus 91,Kosmos-3M | Parus 91,08/26/1999 12:02 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Khrunichev State Research and Production Space Center,Yamal-101 & 102,Proton-K/DM-2M | Yamal-101 & 102,09/06/1999 4:36 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Strategic Rocket Forces,Foton 12,Soyuz-U-PVB | Foton 12,09/09/1999 6 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),"Globalstar 33,50,55,58","Soyuz-U-PVB | Globalstar 33,50,55,58",09/22/1999 2:33 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U-PVB,Launch Successful
+Khrunichev State Research and Production Space Center,LMI 1,Proton-K/DM-2M | LMI 1,09/26/1999 10:30 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Strategic Rocket Forces,Resurs F-1M,Soyuz-U-PVB | Resurs F-1M,09/28/1999 11 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),"Globalstar 31,56,57,59","Soyuz-U-PVB | Globalstar 31,56,57,59",10/18/1999 1:32 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U-PVB,Launch Successful
+Khrunichev State Research and Production Space Center,Ekspress-A No. 1,Proton | Ekspress-A No. 1,10/27/1999 4:16 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Failure
+Russian Federal Space Agency (ROSCOSMOS),"Globalstar 29,34,39,61","Soyuz-U-PVB | Globalstar 29,34,39,61",11/22/1999 4:20 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),US-PM 10,Tsiklon-2 | US-PM 10,12/26/1999 8 a.m.,"90/20 | Baikonur Cosmodrome, Republic of Kazakhstan",Tsiklon-2,Launch Successful
+Progress Rocket Space Center,US-K 80,Molniya-M | US-K 80,12/27/1999 7:12 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M1-1,02/01/2000 6:47 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Tselina-2 21,Zenit-2 | Tselina-2 21,02/03/2000 9:26 a.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit-2,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),IRDT 1,Soyuz-U-PVB | IRDT 1,02/08/2000 11:20 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U-PVB,Launch Successful
+Khrunichev State Research and Production Space Center,Garuda 1,Proton-K/DM-2M | Garuda 1,02/12/2000 9:10 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Khrunichev State Research and Production Space Center,Ekspress 6A,Proton-K/DM-2M | Ekspress 6A,03/12/2000 4:07 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Dumsat,Soyuz-U-PVB | Dumsat,03/20/2000 6:28 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-30,Soyuz-U | Soyuz TM-30,04/04/2000 5:01 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Sesat,Proton-K/DM-2M | Sesat,04/17/2000 9:06 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M1-2,04/25/2000 8:08 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Yantar-4KS1M 9,Soyuz-U-PVB | Yantar-4KS1M 9,05/03/2000 1:25 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U-PVB,Launch Successful
+Khrunichev State Research and Production Space Center,Gorizont 33,Proton-K/Briz-M | Gorizont 33,06/06/2000 2:59 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/Briz-M,Launch Successful
+Khrunichev State Research and Production Space Center,Ekspress 3A,Proton-K/DM-2M | Ekspress 3A,06/24/2000 12:28 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Production Corporation Polyot,Nadezhda 9,Kosmos-3M | Nadezhda 9,06/28/2000 10:37 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Khrunichev State Research and Production Space Center,Sirius FM-1,Proton-K/DM-2M | Sirius FM-1,06/30/2000 10:08 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Khrunichev State Research and Production Space Center,Potok 10,Proton | Potok 10,07/04/2000 11:44 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Khrunichev State Research and Production Space Center,Zvezda,Proton | Zvezda,07/12/2000 4:56 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Production Corporation Polyot,CHAMP & MITA,Kosmos-3M | CHAMP & MITA,07/15/2000 noon,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Cluster Salsa & Samba,Soyuz-U-PVB | Cluster Salsa & Samba,07/16/2000 12:39 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M1-3,08/06/2000 6:26 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Cluster SambaRumba & Tango,Soyuz-U-PVB | Cluster SambaRumba & Tango,08/09/2000 11:13 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U-PVB,Launch Successful
+Khrunichev State Research and Production Space Center,Raduga-1 5,Proton | Raduga-1 5,08/28/2000 8:08 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Khrunichev State Research and Production Space Center,Sirius FM-2,Proton-K/DM-2M | Sirius FM-2,09/05/2000 9:43 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Orlets-2 2,Zenit-2 | Orlets-2 2,09/25/2000 10:10 a.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit-2,Launch Successful
+ISC Kosmotras,SmallSat Rideshare,Dnepr | SmallSat Rideshare,09/26/2000 10:05 a.m.,"109/95 | Baikonur Cosmodrome, Republic of Kazakhstan",Dnepr,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Yantar-1KFT 20,Soyuz-U-PVB | Yantar-1KFT 20,09/29/2000 9:30 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U-PVB,Launch Successful
+Khrunichev State Research and Production Space Center,GE-1A,Proton-K/DM-2M | GE-1A,10/01/2000 10 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Khrunichev State Research and Production Space Center,Uragan 75 to 77,Proton | Uragan 75 to 77,10/13/2000 2:12 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-43,10/16/2000 9:27 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,GE 6,Proton-K/DM-2M | GE 6,10/21/2000 10 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-31,Soyuz-U | Soyuz TM-31,10/31/2000 7:52 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M1-4,11/16/2000 1:32 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Production Corporation Polyot,QuickBird 1,Kosmos-3M | QuickBird 1,11/20/2000 11 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Failure
+Khrunichev State Research and Production Space Center,Sirius FM-3,Proton-K/DM-2M | Sirius FM-3,11/30/2000 7:59 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Strategic Rocket Forces,EROS A1,Start-1 | EROS A1,12/05/2000 12:32 p.m.,"5 | Svobodny Cosmodrome, Russian Federation",Start-1,Launch Successful
+Strategic Rocket Forces,Strela-3 125 to 127 & Gonets 7 to 9,Tsiklon-3 | Strela-3 125 to 127 & Gonets 7 to 9,12/27/2000 9:56 a.m.,"32/1 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Failure
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M1-5,01/24/2001 4:28 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Space Forces,Odin,Start-1 | Odin,02/20/2001 8:48 a.m.,"5 | Svobodny Cosmodrome, Russian Federation",Start-1,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-44,02/26/2001 8:09 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Ekran-M 4,Proton-M Briz-M | Ekran-M 4,04/07/2001 3:47 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-32,Soyuz-U | Soyuz TM-32,04/28/2001 7:37 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,PAS 10,Proton-K/DM-2M | PAS 10,05/15/2001 1:11 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-FG | Progress M1-6,05/20/2001 10:32 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Strategic Rocket Forces,Yantar-4K2 80,Soyuz-U-PVB | Yantar-4K2 80,05/29/2001 5:55 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Production Corporation Polyot,Parus 92,Kosmos-3M | Parus 92,06/08/2001 3:08 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Khrunichev State Research and Production Space Center,Astra 2C,Proton-K/DM-2M | Astra 2C,06/16/2001 1:49 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Progress Rocket Space Center,Molniya-3,Molniya-M | Molniya-3,07/20/2001 12:17 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Russian Space Forces,Koronas F,Tsiklon-3 | Koronas F,07/31/2001 8 a.m.,"32/2 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-45,08/21/2001 9:23 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,US-KMO 5,Proton | US-KMO 5,08/24/2001 8:34 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-SO1,09/14/2001 11:34 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Raduga-1 6,Proton | Raduga-1 6,10/06/2001 4:45 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-33,Soyuz U | Soyuz TM-33,10/21/2001 8:59 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Progress Rocket Space Center,Molniya-3 64L,Molniya-M | Molniya-3 64L,10/25/2001 11:34 a.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-FG | Progress M1-7,11/26/2001 6:24 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Khrunichev State Research and Production Space Center,"Uragan 78, 79 & Uragan-M 1","Proton | Uragan 78, 79 & Uragan-M 1",12/01/2001 6:04 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Meteor-3M No. 1,Zenit-2 | Meteor-3M No. 1,12/10/2001 5:18 p.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit-2,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),US-PM 11,Tsiklon-2 | US-PM 11,12/21/2001 4 a.m.,"90/20 | Baikonur Cosmodrome, Republic of Kazakhstan",Tsiklon-2,Launch Successful
+Russian Space Forces,Strela-3 128 to 130 & Gonets 10 to 12,Tsiklon-3 | Strela-3 128 to 130 & Gonets 10 to 12,12/28/2001 3:24 a.m.,"32/1 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Russian Space Forces,Yantar-4K2 81,Soyuz-U-PVB | Yantar-4K2 81,02/25/2002 5:26 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M1-8,03/21/2002 8:13 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,INTELSAT 903,Proton-K/DM-2M | INTELSAT 903,03/30/2002 5:25 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Progress Rocket Space Center,US-K 81,Molniya-M | US-K 81,04/01/2002 10:06 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TM-34,Soyuz-U | Soyuz TM-34,04/25/2002 6:26 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,DirecTV-5,Proton-K/DM-2M | DirecTV-5,05/07/2002 5 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Production Corporation Polyot,Parus 93,Kosmos-3M | Parus 93,05/28/2002 6:14 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Khrunichev State Research and Production Space Center,Ekspress A1R,Proton-K/DM-2M | Ekspress A1R,06/10/2002 1:14 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-46,06/26/2002 5:36 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Production Corporation Polyot,Strela-3 131 & 132,Kosmos-3M | Strela-3 131 & 132,07/08/2002 6:35 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Khrunichev State Research and Production Space Center,Araks-N 2,Proton-K/17S40 | Araks-N 2,07/25/2002 3:13 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/17S40,Launch Successful
+Khrunichev State Research and Production Space Center,Echostar VIII,Proton-K/DM-2M | Echostar VIII,08/22/2002 5:15 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-FG | Progress M1-9,09/25/2002 4:58 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Production Corporation Polyot,Nadezhda-M,Kosmos-3M | Nadezhda-M,09/26/2002 2:27 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Space Forces,Foton-M No. 1,Soyuz-U-PVB | Foton-M No. 1,10/15/2002 6:20 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Failure
+Khrunichev State Research and Production Space Center,Integral,Proton-K/17S40 | Integral,10/17/2002 4:41 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/17S40,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-1,Soyuz-FG | Soyuz TMA-1,10/30/2002 3:11 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Khrunichev State Research and Production Space Center,Astra 1K,Proton-K/DM-2M | Astra 1K,11/25/2002 11:04 p.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Failure
+Production Corporation Polyot,AlSat-1,Kosmos-3M | AlSat-1,11/28/2002 6:07 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+ISC Kosmotras,AATiS-OSCAR-49,Dnepr | AATiS-OSCAR-49,12/20/2002 5 p.m.,"109/95 | Baikonur Cosmodrome, Republic of Kazakhstan",Dnepr,Launch Successful
+Progress Rocket Space Center,US-K 82,Molniya-M | US-K 82,12/24/2002 12:20 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Khrunichev State Research and Production Space Center,Uragan 80 to 82,Proton-K/DM-2M | Uragan 80 to 82,12/25/2002 7:37 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Khrunichev State Research and Production Space Center,Nimiq 2,Proton-M Briz-M | Nimiq 2,12/29/2002 11:16 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-47,02/02/2003 12:59 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Progress Rocket Space Center,Molniya-1T 92,Molniya-M | Molniya-1T 92,04/02/2003 1:53 a.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Khrunichev State Research and Production Space Center,US-KMO 6,Proton | US-KMO 6,04/24/2003 4:23 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-2,Soyuz-FG | Soyuz TMA-2,04/26/2003 3:53 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Mars Express,Soyuz-FG | Mars Express,06/02/2003 5:45 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-FG,Launch Successful
+Production Corporation Polyot,Parus 94,Kosmos-3M | Parus 94,06/04/2003 7:23 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Khrunichev State Research and Production Space Center,AMC 9,Proton-K/Briz-M | AMC 9,06/06/2003 10:15 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M1-10,06/08/2003 10:34 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Progress Rocket Space Center,Molniya-3 65L,Molniya-M | Molniya-3 65L,06/19/2003 8 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Orlets-1 7,Soyuz-U-PVB | Orlets-1 7,08/12/2003 2:20 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U-PVB,Launch Successful
+Production Corporation Polyot,Strela-3 133 & 134,Kosmos-3M | Strela-3 133 & 134,08/19/2003 10:50 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-48,08/29/2003 1:47 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Production Corporation Polyot,Mozhaets-4,Kosmos-3M | Mozhaets-4,09/27/2003 6:11 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-3,Soyuz-FG | Soyuz TMA-3,10/18/2003 5:38 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Khrunichev State Research and Production Space Center,Yamal-202,Proton-K/DM-2M | Yamal-202,11/24/2003 6:22 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Khrunichev State Research and Production Space Center,Gruzomaket,Strela | Gruzomaket,12/05/2003 6 a.m.,"175/59 | Baikonur Cosmodrome, Republic of Kazakhstan",Strela,Launch Successful
+Khrunichev State Research and Production Space Center,"Uragan 83, 84 & Uragan-M 2","Proton-K/Briz-M | Uragan 83, 84 & Uragan-M 2",12/10/2003 5:42 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Amos 2,Soyuz-FG | Amos 2,12/27/2003 9:30 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-FG,Launch Successful
+Khrunichev State Research and Production Space Center,Ekspress AM-22,Proton-K/DM-2M | Ekspress AM-22,12/28/2003 11 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M1-11,01/29/2004 11:58 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Progress Rocket Space Center,Molniya-1T 93,Molniya-M | Molniya-1T 93,02/18/2004 7:05 a.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Khrunichev State Research and Production Space Center,Eutelsat W3A,Proton-M | Eutelsat W3A,03/15/2004 11:06 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Khrunichev State Research and Production Space Center,Raduga-1 7,Proton | Raduga-1 7,03/27/2004 3:30 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-4,Soyuz-FG | Soyuz TMA-4,04/19/2004 3:19 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Khrunichev State Research and Production Space Center,Ekspress AM-11,Proton-K/DM-2M | Ekspress AM-11,04/26/2004 8:37 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-49,05/25/2004 12:34 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),US-PM 12,Tsiklon-2 | US-PM 12,05/28/2004 6 a.m.,"90/20 | Baikonur Cosmodrome, Republic of Kazakhstan",Tsiklon-2,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Tselina-2 22,Zenit-2 | Tselina-2 22,06/10/2004 1:28 a.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit-2,Launch Successful
+Khrunichev State Research and Production Space Center,INTELSAT 10-02,Proton-M Briz-M | INTELSAT 10-02,06/16/2004 10:27 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+ISC Kosmotras,Aprizesat-2,Dnepr | Aprizesat-2,06/29/2004 6:30 a.m.,"109/95 | Baikonur Cosmodrome, Republic of Kazakhstan",Dnepr,Launch Successful
+Production Corporation Polyot,Parus 95,Kosmos-3M | Parus 95,07/22/2004 5:46 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Khrunichev State Research and Production Space Center,Amazonas-1,Proton-M Briz-M | Amazonas-1,08/04/2004 10:32 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-50,08/11/2004 5:03 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Production Corporation Polyot,Strela-3 135 to 136,Kosmos-3M | Strela-3 135 to 136,09/23/2004 3:07 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Space Forces,Yantar-4K2M 1,Soyuz-U-PVB | Yantar-4K2M 1,09/24/2004 4:50 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-5,Soyuz-FG | Soyuz TMA-5,10/14/2004 3:06 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Khrunichev State Research and Production Space Center,AMC 15,Proton-M Briz-M | AMC 15,10/14/2004 9:23 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Khrunichev State Research and Production Space Center,Ekspress AM-1,Proton-K/DM-2M | Ekspress AM-1,10/29/2004 10:11 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Russian Space Forces,GVM Oblik,Soyuz 2.1a | GVM Oblik,11/08/2004 5:29 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1a,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-51,12/23/2004 10:19 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Space Forces,Sich-1M,Tsiklon-3 | Sich-1M,12/24/2004 11:20 a.m.,"32/2 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Failure
+Khrunichev State Research and Production Space Center,"Uragan 85, 86 & Uragan-M 3","Proton | Uragan 85, 86 & Uragan-M 3",12/26/2004 1:53 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Production Corporation Polyot,Parus 96,Kosmos-3M | Parus 96,01/20/2005 3 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Khrunichev State Research and Production Space Center,AMC 12,Proton-M Briz-M | AMC 12,02/03/2005 2:27 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-52,02/28/2005 7:09 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Ekspress AM-2,Proton-K/DM-2M | Ekspress AM-2,03/29/2005 9:31 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-6,Soyuz-FG | Soyuz TMA-6,04/15/2005 12:46 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Khrunichev State Research and Production Space Center,DirecTV-8,Proton-M Briz-M | DirecTV-8,05/22/2005 5:59 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Foton-M No. 2,Soyuz-U-PVB | Foton-M No. 2,05/31/2005 noon,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-53,06/16/2005 11:09 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Progress Rocket Space Center,Molniya-3K,Molniya-M | Molniya-3K,06/21/2005 12:48 a.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Failure
+Makeyev Rocket Design Bureau,Cosmos-1,Volna | Cosmos-1,06/21/2005 7:46 p.m.,Borisoglebsk (K-496) | Sea Launch,Volna,Launch Failure
+Khrunichev State Research and Production Space Center,Ekspress AM-3,Proton | Ekspress AM-3,06/24/2005 7:41 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Galaxy 14,Soyuz-FG | Galaxy 14,08/13/2005 11:28 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-FG,Launch Successful
+ISC Kosmotras,Kirari,Dnepr | Kirari,08/23/2005 9:09 p.m.,"109/95 | Baikonur Cosmodrome, Republic of Kazakhstan",Dnepr,Launch Successful
+Russian Space Forces,Monitor-E No. 1,Rokot / Briz-KM | Monitor-E No. 1,08/26/2005 6:34 p.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Rokot/Briz-KM,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Yantar-1KFT 21,Soyuz-U-PVB | Yantar-1KFT 21,09/02/2005 9:50 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-54,09/08/2005 1:07 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Anik F1R,Proton-M Briz-M | Anik F1R,09/08/2005 9:53 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-7,Soyuz-FG | Soyuz TMA-7,10/01/2005 3:55 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Production Corporation Polyot,Beijing-1,Kosmos-3M | Beijing-1,10/27/2005 6:52 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Venus Express,Soyuz-FG | Venus Express,11/09/2005 3:33 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-FG,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-55,12/21/2005 6:38 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Production Corporation Polyot,Strela-3M 1,Kosmos-3M | Strela-3M 1,12/21/2005 7:34 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Khrunichev State Research and Production Space Center,"Uragan 87, Uragan-M 4 & 5","Proton | Uragan 87, Uragan-M 4 & 5",12/25/2005 5:07 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Giove A,Soyuz-FG | Giove A,12/28/2005 5:19 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-FG,Launch Successful
+Khrunichev State Research and Production Space Center,AMC 23,Proton-M Briz-M | AMC 23,12/29/2005 2:28 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Khrunichev State Research and Production Space Center,Arabsat 4A,Proton-M Briz-M | Arabsat 4A,02/28/2006 8:10 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Failure
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-8,Soyuz-FG | Soyuz TMA-8,03/30/2006 2:30 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-56,04/24/2006 4:03 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Space Forces,EROS B,Start-1 | EROS B,04/25/2006 4:47 p.m.,"5 | Svobodny Cosmodrome, Russian Federation",Start-1,Launch Successful
+Russian Space Forces,Yantar-4K2M 2,Soyuz-U-PVB | Yantar-4K2M 2,05/03/2006 3:38 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Makeyev Rocket Design Bureau,COMPASS-2,Shtil'-1 | COMPASS-2,05/26/2006 6:50 p.m.,Ekaterinburg (K-84) | Sea Launch,Shtil'-1,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Resurs-DK,Soyuz-U-PVB | Resurs-DK,06/15/2006 8 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U-PVB,Launch Successful
+Khrunichev State Research and Production Space Center,Kazsat,Proton-K/DM-2M | Kazsat,06/17/2006 10:44 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-K/DM-2M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-57,06/24/2006 3:08 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),US-PM 13,Tsiklon-2 | US-PM 13,06/25/2006 4 a.m.,"90/20 | Baikonur Cosmodrome, Republic of Kazakhstan",Tsiklon-2,Launch Successful
+ISC Kosmotras,Genesis-1,Dnepr | Genesis-1,07/12/2006 2:53 p.m.,"370/11 | Dombarovskiy, Russian Federation",Dnepr,Launch Successful
+Progress Rocket Space Center,US-K 83,Molniya-M | US-K 83,07/21/2006 4:20 a.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+ISC Kosmotras,BelKA,Dnepr | BelKA,07/26/2006 7:43 p.m.,"109/95 | Baikonur Cosmodrome, Republic of Kazakhstan",Dnepr,Launch Failure
+Khrunichev State Research and Production Space Center,Hot Bird 8,Proton-M Briz-M | Hot Bird 8,08/04/2006 9:48 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Orlets-1 8,Soyuz-U-PVB | Orlets-1 8,09/14/2006 1:41 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-9,Soyuz-FG | Soyuz TMA-9,09/18/2006 4:08 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),METOP A,Soyuz 2.1a/Fregat | METOP A,10/19/2006 4:28 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a/Fregat,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-58,10/23/2006 1:40 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Badr 4,Proton-M Briz-M | Badr 4,11/08/2006 8:01 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Khrunichev State Research and Production Space Center,Measat 3,Proton-M Briz-M | Measat 3,12/11/2006 11:28 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Production Corporation Polyot,SAR-Lupe 1,Kosmos-3M | SAR-Lupe 1,12/19/2006 2 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Space Forces,Meridian No. 11L,Soyuz 2.1a/Fregat | Meridian No. 11L,12/24/2006 8:34 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1a/Fregat,Launch Successful
+Khrunichev State Research and Production Space Center,Uragan-M 6 to 8,Proton | Uragan-M 6 to 8,12/25/2006 8:18 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),COROT,Soyuz 2.1b/Fregat | COROT,12/27/2006 2:23 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1b/Fregat,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-59,01/18/2007 2:12 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-10,Soyuz-FG | Soyuz TMA-10,04/07/2007 5:31 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Khrunichev State Research and Production Space Center,Anik F3,Proton-M Briz-M | Anik F3,04/09/2007 10:54 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+ISC Kosmotras,EgyptSat 1 & Saudisat 3,Dnepr | EgyptSat 1 & Saudisat 3,04/17/2007 6:46 a.m.,"109/95 | Baikonur Cosmodrome, Republic of Kazakhstan",Dnepr,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-60,05/12/2007 3:25 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),"Globalstar 65,69,71,72","Soyuz-FG | Globalstar 65,69,71,72",05/29/2007 8:31 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-FG,Launch Successful
+Russian Space Forces,Yantar-4K2M 3,Soyuz-U-PVB | Yantar-4K2M 3,06/07/2007 4 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+ISC Kosmotras,TerraSAR-X,Dnepr | TerraSAR-X,06/15/2007 2:14 a.m.,"109/95 | Baikonur Cosmodrome, Republic of Kazakhstan",Dnepr,Launch Successful
+ISC Kosmotras,Genesis-2,Dnepr | Genesis-2,06/28/2007 3:02 p.m.,"370/11 | Dombarovskiy, Russian Federation",Dnepr,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Tselina-2 23,Zenit 2M | Tselina-2 23,06/29/2007 10 a.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit 2M,Launch Successful
+Production Corporation Polyot,SAR-Lupe 2,Kosmos-3M | SAR-Lupe 2,07/02/2007 7:38 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Khrunichev State Research and Production Space Center,DirecTV 10,Proton-M | DirecTV 10,07/07/2007 1:16 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-61,08/02/2007 5:33 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,JCSAT 11,Proton-M Briz-M | JCSAT 11,09/05/2007 10:43 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Failure
+Production Corporation Polyot,Parus 97,Kosmos-3M | Parus 97,09/11/2007 1:05 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Foton-M No. 3,Soyuz-U-PVB | Foton-M No. 3,09/14/2007 11 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-11,Soyuz-FG | Soyuz TMA-11,10/10/2007 1:22 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),"Globalstar 66,67,68,70","Soyuz-FG | Globalstar 66,67,68,70",10/20/2007 8:12 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-FG,Launch Successful
+Progress Rocket Space Center,US-K 84,Molniya-M | US-K 84,10/23/2007 4:39 a.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Khrunichev State Research and Production Space Center,Uragan-M 9 to 11,Proton | Uragan-M 9 to 11,10/26/2007 7:35 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Production Corporation Polyot,SAR-Lupe 3,Kosmos-3M | SAR-Lupe 3,11/01/2007 12:51 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Khrunichev State Research and Production Space Center,Sirius 4,Proton-M Briz-M | Sirius 4,11/17/2007 10:39 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Khrunichev State Research and Production Space Center,Raduga-1M,Proton-M Briz-M | Raduga-1M,12/09/2007 12:16 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Radarsat-2,Soyuz-FG | Radarsat-2,12/14/2007 1:17 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-FG,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-62,12/23/2007 7:12 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Uragan-M 12 to 14,Proton-M | Uragan-M 12 to 14,12/25/2007 7:32 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Khrunichev State Research and Production Space Center,Ekspress AM-33,Proton-M Briz-M | Ekspress AM-33,01/28/2008 12:18 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-63,02/05/2008 1:02 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Thor 5,Proton-M Briz-M | Thor 5,02/11/2008 11:34 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Khrunichev State Research and Production Space Center,AMC 14,Proton-M Briz-M | AMC 14,03/14/2008 11:18 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Failure
+Production Corporation Polyot,SAR-Lupe 4,Kosmos-3M | SAR-Lupe 4,03/27/2008 5:16 p.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-12,Soyuz-FG | Soyuz TMA-12,04/08/2008 11:16 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Giove-B,Soyuz-FG | Giove-B,04/26/2008 10:16 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-FG,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-64,05/14/2008 8:22 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Space Forces,Strela-3 137 to 139,Rokot / Briz-KM | Strela-3 137 to 139,05/23/2008 3:20 p.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Rokot/Briz-KM,Launch Successful
+Production Corporation Polyot,Orbcomm FM 37 to 41 & CDS 3,Kosmos-3M | Orbcomm FM 37 to 41 & CDS 3,06/19/2008 6:36 a.m.,"107 | Kapustin Yar, Russian Federation",Kosmos-3M,Launch Successful
+Khrunichev State Research and Production Space Center,US-KMO 7,Proton | US-KMO 7,06/26/2008 11:59 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Production Corporation Polyot,SAR-Lupe 5,Kosmos-3M | SAR-Lupe 5,07/22/2008 2:40 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Space Forces,Persona 1,Soyuz 2.1b | Persona 1,07/26/2008 6:31 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b,Launch Successful
+Khrunichev State Research and Production Space Center,Inmarsat 4 F3,Proton-M Briz-M | Inmarsat 4 F3,08/18/2008 10:43 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+ISC Kosmotras,RapidEye 1 to 5,Dnepr | RapidEye 1 to 5,08/29/2008 7:15 a.m.,"109/95 | Baikonur Cosmodrome, Republic of Kazakhstan",Dnepr,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-65,09/10/2008 7:50 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Nimiq 4,Proton-M Briz-M | Nimiq 4,09/19/2008 9:48 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Khrunichev State Research and Production Space Center,Uragan-M 15 to 17,Proton-M | Uragan-M 15 to 17,09/25/2008 8:49 a.m.,"81/23 (81L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+ISC Kosmotras,Thaichote,Dnepr | Thaichote,10/01/2008 6:37 a.m.,"370/13 | Dombarovskiy, Russian Federation",Dnepr,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-13,Soyuz-FG | Soyuz TMA-13,10/12/2008 7:01 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Khrunichev State Research and Production Space Center,Astra 1M,Delta II | Astra 1M,11/05/2008 8:44 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Delta II,Launch Successful
+Russian Space Forces,Yantar-4K2M 4,Soyuz-U-PVB | Yantar-4K2M 4,11/14/2008 2:50 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress M-01M,Soyuz U | Progress M-01M,11/26/2008 12:38 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Progress Rocket Space Center,US-K 85,Molniya-M | US-K 85,12/02/2008 4:59 a.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Khrunichev State Research and Production Space Center,Ciel 2,Proton-M | Ciel 2,12/10/2008 1:43 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Khrunichev State Research and Production Space Center,Uragan-M 18 to 20,Proton-M | Uragan-M 18 to 20,12/25/2008 10:43 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Space Forces,Koronas-Foton,Tsiklon-3 | Koronas-Foton,01/30/2009 12:30 p.m.,"32/2 | Plesetsk Cosmodrome, Russian Federation",Tsiklon-3,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-66,02/10/2009 5:49 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Ekspress AM-44 & MD-1,Proton-M | Ekspress AM-44 & MD-1,02/11/2009 12:03 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Khrunichev State Research and Production Space Center,Raduga-1 8,Proton | Raduga-1 8,02/28/2009 4:10 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-14,Soyuz-FG | Soyuz TMA-14,03/26/2009 11:49 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Khrunichev State Research and Production Space Center,Eutelsat W2A,Proton-M | Eutelsat W2A,04/03/2009 4:24 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Space Forces,Yantar-4K2M 5,Soyuz-U-PVB | Yantar-4K2M 5,04/29/2009 4:58 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress M-02M,Soyuz U | Progress M-02M,05/07/2009 6:37 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+International Launch Services,SES-7,Proton-M Briz-M | SES-7 (Indostar 2/ProtoStar 2),05/16/2009 12:57 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Space Forces,Meridian No. 12L,Soyuz 2.1a/Fregat | Meridian No. 12L,05/21/2009 9:53 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1a/Fregat,Launch Failure
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-15,Soyuz-FG | Soyuz TMA-15,05/27/2009 10:34 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Khrunichev State Research and Production Space Center,Sirius FM-5,Proton-M | Sirius FM-5,06/30/2009 7:10 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Space Forces,Strela-3 140 & 141,Rokot / Briz-KM | Strela-3 140 & 141,07/06/2009 1:26 a.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Rokot/Briz-KM,Launch Successful
+Production Corporation Polyot,Parus 98,Kosmos-3M | Parus 98,07/21/2009 3:57 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-67,07/24/2009 10:56 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+ISC Kosmotras,DubaiSat 1,Dnepr | DubaiSat 1,07/29/2009 6:46 p.m.,"109/95 | Baikonur Cosmodrome, Republic of Kazakhstan",Dnepr,Launch Successful
+Khrunichev State Research and Production Space Center,Asiasat 5,Proton-M | Asiasat 5,08/11/2009 7:47 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Meteor-M 1,Soyuz 2.1b/Fregat | Meteor-M 1,09/17/2009 3:55 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1b/Fregat,Launch Successful
+Khrunichev State Research and Production Space Center,Nimiq 5,Proton-M | Nimiq 5,09/17/2009 7:19 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-16,Soyuz-FG | Soyuz TMA-16,09/30/2009 7:14 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-03M,10/15/2009 1:14 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz U | Progress M-MIM2,11/10/2009 2:22 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Space Forces,Lotos-S 1,Soyuz-U-PVB | Lotos-S 1,11/20/2009 9:44 a.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz-U-PVB,Launch Successful
+Khrunichev State Research and Production Space Center,Eutelsat W7,Proton-M | Eutelsat W7,11/24/2009 2:19 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Khrunichev State Research and Production Space Center,Uragan-M 21 to 23,Proton-M | Uragan-M 21 to 23,12/14/2009 10:38 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-17,Soyuz-FG | Soyuz TMA-17,12/20/2009 9:52 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Khrunichev State Research and Production Space Center,DirecTV 12,Proton-M | DirecTV 12,12/29/2009 12:22 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Khrunichev State Research and Production Space Center,—,Proton-M / Briz-M Enhanced | Globus-1M #12L (Raduga-1M 2),01/28/2010 12:18 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U | Progress M-04M (36P),02/03/2010 3:45 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+International Launch Services,—,Proton-M / Briz-M Enhanced | Intelsat 16,02/12/2010 12:39 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Khrunichev State Research and Production Space Center,"3 x Glonass-M (Kosmos 2459, Kosmos 2460, Kosmos 2461)","Proton-M/DM-2 Enhanced | 3 x Glonass-M (Kosmos 2459, Kosmos 2460, Kosmos 2461)",03/01/2010 9:19 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+International Launch Services,—,Proton-M / Briz-M Enhanced | Echostar XIV,03/20/2010 6:26 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-18,Soyuz FG | Soyuz TMA-18,04/02/2010 4:04 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+ISC Kosmotras,—,Dnepr 1 | Cryosat-2,04/08/2010 1:57 p.m.,"109/95 | Baikonur Cosmodrome, Republic of Kazakhstan",Dnepr,Launch Successful
+Russian Space Forces,—,Soyuz-U | Kobalt-M (Kosmos 2462),04/16/2010 3 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz U,Launch Successful
+International Launch Services,SES-1,Proton-M / Briz-M Enhanced | SES-1,04/24/2010 11:19 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Space Forces,Parus 99,Kosmos-3M | Parus 99,04/27/2010 1:05 a.m.,"132/1 (132L) | Plesetsk Cosmodrome, Russian Federation",Kosmos-3M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U | Progress M-05M (37P),04/28/2010 5:15 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+International Launch Services,—,Proton-M / Briz-M Enhanced | Badr-5 (Arabsat 5B),06/03/2010 10 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+ISC Kosmotras,—,"Dnepr 1 | Prisma-Mango, Prisma-Tango, Picard, BPA-1",06/15/2010 2:42 p.m.,"370/13 | Dombarovskiy, Russian Federation",Dnepr,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-19,Soyuz FG | Soyuz TMA-19,06/15/2010 9:35 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+ISC Kosmotras,—,Dnepr 1 | TanDEM-X,06/21/2010 2:14 a.m.,"109/95 | Baikonur Cosmodrome, Republic of Kazakhstan",Dnepr,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U | Progress M-06M (38P),06/30/2010 3:35 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+International Launch Services,—,Proton-M / Briz-M Enhanced | EchoStar XV,07/10/2010 6:40 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Khrunichev State Research and Production Space Center,"3 x Glonass-M (Kosmos 2464, Kosmos 2465, Kosmos 2466)","Proton-M/DM-2 Enhanced | 3 x Glonass-M (Kosmos 2464, Kosmos 2465, Kosmos 2466)",09/02/2010 12:53 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Space Forces,"Gonets-M12 & 2 x Strela-3 (Kosmos 2467, Kosmos 2468)","Rokot / Briz-KM | Gonets-M12 & 2 x Strela-3 (Kosmos 2467, Kosmos 2468)",09/08/2010 3:30 a.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Rokot/Briz-KM,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U | Progress M-07M (39P),09/10/2010 10:22 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Space Forces,US-K 86,Molniya-M/2BL | US-K 86,09/30/2010 5:01 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Molniya-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-01M,Soyuz-FG | Soyuz TMA-01M,10/07/2010 11:10 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+International Launch Services,—,Proton-M Briz-M | Sirius XM-5,10/14/2010 6:53 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U | Progress M-08M (40P),10/27/2010 3:11 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Space Forces,—,Soyuz-2.1a/Fregat | Meridian 3,11/02/2010 12:59 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1a/Fregat-M,Launch Successful
+International Launch Services,—,Proton-M / Briz-M Enhanced | SkyTerra-1,11/14/2010 5:29 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Khrunichev State Research and Production Space Center,"3 x Glonass-M (Kosmos 2470, Kosmos 2471, Kosmos 2472)","Proton-M Blok-DM-03 | 3 x Glonass-M (Kosmos 2470, Kosmos 2471, Kosmos 2472)",12/05/2010 10:25 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Failure
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-20,Soyuz FG | Soyuz TMA-20,12/15/2010 7:09 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+International Launch Services,—,Proton-M / Briz-M Enhanced | KA-SAT,12/26/2010 10:51 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Elektro-L No.1,Zenit-3F | Elektro-L No.1,01/20/2011 12:29 p.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit 3F,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U | Progress M-09M (41P),01/28/2011 1:31 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Space Forces,Geo-IK-2 No.11L (Kosmos 2470),Rokot/Briz-KM | Geo-IK-2 No.11L (Kosmos 2470),02/01/2011 2 p.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Rokot/Briz-KM,Launch Failure
+Russian Space Forces,Glonass-K1 (Kosmos 2471),Soyuz-2.1b/Fregat | Glonass-K1 (Kosmos 2471),02/26/2011 3:07 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-21,Soyuz FG | Soyuz TMA-21,04/04/2011 10:18 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U | Progress M-10M (42P),04/27/2011 1:05 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Space Forces,—,Soyuz-2.1a/Fregat | Meridian 4,05/04/2011 5:41 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1a/Fregat-M,Launch Successful
+International Launch Services,—,Proton-M / Briz-M Enhanced | Telstar 14R,05/20/2011 7:15 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-02M,Soyuz FG | Soyuz TMA-02M,06/07/2011 2:12 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U | Progress M-11M (43P),06/21/2011 2:38 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Space Forces,—,Soyuz-U | Kobalt-M No.7 (Kosmos 2472),06/27/2011 4 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz U,Launch Successful
+International Launch Services,SES-3 & KazSat-2,Proton-M / Briz-M Enhanced | SES-3 & KazSat-2,07/15/2011 11:16 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Spektr-R (RadioAstron),Zenit-3F | Spektr-R (RadioAstron),07/18/2011 2:31 a.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit 3F,Launch Successful
+ISC Kosmotras,—,Dnepr 1 | Sich-2,08/17/2011 7:12 a.m.,"370/13 | Dombarovskiy, Russian Federation",Dnepr,Launch Successful
+Khrunichev State Research and Production Space Center,—,Proton-M / Briz-M Enhanced | Ekspress AM-4,08/17/2011 9:25 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Failure
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U | Progress M-12M (44P),08/24/2011 midnight,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Failure
+Khrunichev State Research and Production Space Center,—,Proton-M Briz-M | Garpun #1 (Kosmos 2473),09/20/2011 10:47 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+International Launch Services,—,Proton-M / Briz-M Enhanced | QuetzSat 1,09/29/2011 6:32 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Space Forces,Glonass-M (Kosmos 2474),Soyuz-2.1b/Fregat | Glonass-M (Kosmos 2474),10/02/2011 8:15 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat,Launch Successful
+International Launch Services,—,Proton-M / Briz-M Enhanced | ViaSat-1,10/19/2011 6:48 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U | Progress M-13M (45P),10/30/2011 10:11 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,"3 x Glonass-M (Kosmos 2475, Kosmos 2476, Kosmos 2477)","Proton-M Briz-M | 3 x Glonass-M (Kosmos 2475, Kosmos 2476, Kosmos 2477)",11/04/2011 12:51 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Zenit 2M | Fobos-Grunt & Yinghuo-1,11/08/2011 8:16 p.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit 2M,Launch Failure
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-22,Soyuz-FG | Soyuz TMA-22,11/14/2011 4:14 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+International Launch Services,—,Proton-M/Briz-M Enhanced | Asiasat 7,11/25/2011 7:10 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Space Forces,Glonass-M (Kosmos 2478),Soyuz 2.1b/Fregat | Glonass-M (Kosmos 2478),11/28/2011 8:25 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat,Launch Successful
+Khrunichev State Research and Production Space Center,—,Proton-M / Briz-M Enhanced | Luch 5A & Amos-5,12/11/2011 11:17 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-03M,Soyuz FG | Soyuz TMA-03M,12/21/2011 1:16 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Aerospace Defence Forces,—,Soyuz-2.1b/Fregat | Meridian 5,12/23/2011 12:08 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat,Launch Failure
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U | Progress M-14M (46P),01/25/2012 11:06 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+International Launch Services,SES-4,Proton-M Briz-M | SES-4,02/14/2012 7:36 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+International Launch Services,—,Proton-M / Briz-M Enhanced | Intelsat 22,03/25/2012 12:10 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Khrunichev State Research and Production Space Center,—,Proton-K/DM-2 | US-KMO (Kosmos-2479),03/30/2012 5:49 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U | Progress M-15M (47P),04/20/2012 12:50 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+International Launch Services,—,Proton-M / Briz-M Enhanced | Yahsat 1B,04/23/2012 10:18 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-04M,Soyuz FG | Soyuz TMA-04M,05/15/2012 3:01 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Aerospace Defence Forces,—,Soyuz-U | Kobalt-M No.8 (Kosmos-2480),05/17/2012 2:05 p.m.,"16/2 | Plesetsk Cosmodrome, Russian Federation",Soyuz U,Launch Successful
+International Launch Services,—,Proton-M Briz-M | Nimiq 6,05/17/2012 7:12 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+International Launch Services,SES-5,Proton-M / Briz-M Enhanced | SES-5,07/09/2012 6:38 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-05M,Soyuz FG | Soyuz TMA-05M,07/15/2012 2:40 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-FG/Fregat | Kanopus-V No.1 & BelKA-2,07/22/2012 6:41 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz-FG,Launch Successful
+Russian Aerospace Defence Forces,"Gonets M-13, Gonets M-15, Strela-3M (Kosmos-2481) & Yubileyniy 2 (MiR)","Rokot / Briz-KM | Gonets M-13, Gonets M-15, Strela-3M (Kosmos-2481) & Yubileyniy 2 (MiR)",07/28/2012 1:35 a.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Rokot/Briz-KM,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U | Progress M-16M (48P),08/01/2012 7:35 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,—,Proton-M / Briz-M Enhanced | Telkom-3 & Ekspress MD2,08/06/2012 7:31 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Failure
+International Launch Services,—,Proton-M / Briz-M Enhanced | Intelsat 23,10/14/2012 8:37 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-06M,Soyuz FG | Soyuz TMA-06M,10/23/2012 10:51 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U | Progress M-17M (49P),10/31/2012 7:41 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,—,Proton-M / Briz-M Enhanced | Luch 5B & Yamal-300K,11/02/2012 5:55 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Aerospace Defence Forces,—,Soyuz-2.1a/Fregat | Meridian 6,11/14/2012 11:42 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1a/Fregat-M,Launch Successful
+International Launch Services,—,Proton-M / Briz-M Enhanced | EchoStar XVI,11/20/2012 6:31 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+International Launch Services,—,Proton-M / Briz-M Enhanced | Yamal-402,12/08/2012 1:13 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch was a Partial Failure
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-07M,Soyuz FG | Soyuz TMA-07M,12/19/2012 12:12 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Aerospace Defence Forces,—,"Rokot / Briz-KM | 3 x Strela-3M (Kosmos-2482, Kosmos-2483, Kosmos-2484)",01/15/2013 4:24 p.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Rokot/Briz-KM,Launch Failure
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U | Progress M-18M (50P),02/11/2013 2:41 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+International Launch Services,—,Proton-M Briz-M | Satmex-8,03/26/2013 7:06 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-08M,Soyuz FG | Soyuz TMA-08M,03/28/2013 8:43 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+International Launch Services,Anik-G1,Proton-M Briz-M | Anik-G1,04/15/2013 6:36 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz 2.1a | Bion-M No. 1,04/19/2013 10 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress M-19M (51P),Soyuz-U | Progress M-19M (51P),04/24/2013 10:12 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Aerospace Defence Forces,Glonass-M (Kosmos 2485),Soyuz-2.1b/Fregat | Glonass-M (Kosmos 2485),04/26/2013 5:23 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat,Launch Successful
+International Launch Services,Eutelsat 3D,Proton-M Briz-M | Eutelsat 3D (W3D),05/14/2013 4:02 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-09M,Soyuz FG | Soyuz TMA-09M,05/28/2013 8:31 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+International Launch Services,SES-6,Proton-M Briz-M | SES-6,06/03/2013 9:18 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Aerospace Defence Forces,—,Soyuz 2.1b | Persona (Kosmos-2486),06/07/2013 6:37 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Resurs-P No.1,Soyuz 2.1b | Resurs-P No.1,06/25/2013 5:28 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1b,Launch Successful
+Khrunichev State Research and Production Space Center,—,Strela | Kondor No.202 (Kosmos-2487),06/27/2013 4:53 p.m.,"175/59 | Baikonur Cosmodrome, Republic of Kazakhstan",Strela,Launch Successful
+Khrunichev State Research and Production Space Center,—,"Proton-M/Blok DM-03 | Uragan-M No.48, 49 & 50",07/02/2013 2:38 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Failure
+Russian Federal Space Agency (ROSCOSMOS),Progress M-20M (52P),Soyuz-U | Progress M-20M (52P),07/27/2013 8:45 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+ISC Kosmotras,—,Dnepr 1 | KOMPSat-5 (Arirang-5),08/22/2013 2:39 p.m.,"370/13 | Dombarovskiy, Russian Federation",Dnepr,Launch Successful
+Russian Aerospace Defence Forces,"Gonets M-14, Gonets M-16, Gonets M-17","Rokot / Briz-KM | Gonets M-14, Gonets M-16, Gonets M-17",09/11/2013 11:23 p.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Rokot/Briz-KM,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-10M,Soyuz FG | Soyuz TMA-10M,09/25/2013 8:58 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+International Launch Services,—,Proton-M Briz-M | Astra 2E,09/29/2013 9:38 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+International Launch Services,—,Proton-M Briz-M | Sirius FM-6,10/25/2013 6:08 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-11M,Soyuz FG | Soyuz TMA-11M,11/07/2013 4:14 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Khrunichev State Research and Production Space Center,—,Proton-M Briz-M | Raduga-1M 3,11/11/2013 11:46 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+ISC Kosmotras,—,"Dnepr 1 | Multipayload mission, 33 satellites",11/21/2013 7:10 a.m.,"370/13 | Dombarovskiy, Russian Federation",Dnepr,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress M-21M (53P),Soyuz-U | Progress M-21M (53P),11/25/2013 8:53 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+International Launch Services,—,Proton-M Briz-M | Inmarsat-5 F1,12/08/2013 12:12 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Aerospace Defence Forces,—,"Rokot / Briz-KM | 3 x Strela-3M (Kosmos-2488, Kosmos-2489, Kosmos-2490) & Kosmos-2491",12/25/2013 12:31 a.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Rokot/Briz-KM,Launch Successful
+Khrunichev State Research and Production Space Center,—,Proton-M Briz-M | Ekspress AM-5,12/26/2013 10:49 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Aerospace Defence Forces,—,Soyuz 2.1v/Volga | Aist-1,12/28/2013 12:30 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2-1v,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U | Progress M-22M (54P),02/05/2014 4:23 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+International Launch Services,Türksat 4A,Proton-M/Briz-M | Türksat-4A,02/14/2014 9:09 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Khrunichev State Research and Production Space Center,Express AT1 & AT2,Proton-M Briz-M | Ekspress-AT1 & Ekspress-AT2,03/15/2014 11:08 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Aerospace Defence Forces,Glonass-M (Kosmos 2494),Soyuz-2.1b/Fregat | Glonass-M (Kosmos 2494),03/23/2014 10:54 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-12M,Soyuz FG | Soyuz TMA-12M,03/25/2014 9:17 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress M-23M (55P),Soyuz-U | Progress M-23M (55P),04/09/2014 3:26 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),EgyptSat 2,Soyuz-U | EgyptSat 2 / Ø§ÙŠØ¬ÙŠØ¨Øª Ø³Ø§Øª,04/16/2014 4:20 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Khrunichev State Research and Production Space Center,Luch 5V,Proton-M Briz-M | Luch 5V & KazSat-3,04/28/2014 4:25 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Aerospace Defence Forces,—,Soyuz 2.1a | Kobalt-M (Kosmos 2495),05/06/2014 1:49 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1a,Launch Successful
+Khrunichev State Research and Production Space Center,—,Proton-M Briz-M | Ekspress-AM4R,05/15/2014 9:42 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Failure
+Russian Aerospace Defence Forces,Rodnik,"Rokot / Briz-KM | 3x Strela-3M (Kosmos 2496, Kosmos 2497, Kosmos 2498) & Kosmos 2499",05/23/2014 5:27 a.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Rokot/Briz-KM,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-13M,Soyuz FG | Soyuz TMA-13M,05/28/2014 7:57 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Aerospace Defence Forces,Glonass-M (Kosmos 2500),Soyuz-2.1b/Fregat | Glonass-M (Kosmos 2500),06/14/2014 5:16 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat,Launch Successful
+ISC Kosmotras,—,"Dnepr 1 | Multipayload, 37 satellites.",06/19/2014 7:11 p.m.,"370/13 | Dombarovskiy, Russian Federation",Dnepr,Launch Successful
+Russian Aerospace Defence Forces,"Gonets-M18, Gonets-M19, Gonets-M20","Rokot / Briz-KM | Gonets-M18, Gonets-M19, Gonets-M20",07/03/2014 12:43 p.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Rokot/Briz-KM,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,"Soyuz-2.1b/Fregat | Meteor-M No.2, MKA-PN2, DX-1, UKube-1, TechDemoSat-1, SkySat-2, AISSat-2",07/08/2014 3:58 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1b/Fregat,Launch Successful
+Khrunichev State Research and Production Space Center,—,Angara-1.2pp | Maiden flight (Suborbital),07/09/2014 noon,"35/1 | Plesetsk Cosmodrome, Russian Federation",Angara-1.2pp,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz 2.1a | Foton-M No. 4,07/18/2014 8:50 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U | Progress M-24M (56P),07/23/2014 9:44 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-14M,Soyuz FG | Soyuz TMA-14M,09/25/2014 8:25 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Khrunichev State Research and Production Space Center,Olymp-K,Proton-M Briz-M | Olymp-K (Luch),09/27/2014 8:23 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Khrunichev State Research and Production Space Center,Ekspress AM6,Proton-M Briz-M | Ekspress AM6,10/21/2014 3:09 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch was a Partial Failure
+Russian Federal Space Agency (ROSCOSMOS),Progress M-25M (57P),Soyuz 2.1a | Progress M-25M (57P),10/29/2014 7:09 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Aerospace Defence Forces,—,Soyuz-2.1a/Fregat | Meridian 7,10/30/2014 1:42 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1a/Fregat-M,Launch Successful
+ISC Kosmotras,—,Dnepr 1 | ASNARO,11/06/2014 7:35 a.m.,"370/13 | Dombarovskiy, Russian Federation",Dnepr,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-15M,Soyuz FG | Soyuz TMA-15M,11/23/2014 9:01 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Aerospace Defence Forces,Glonass-K1 (Kosmos 2501),Soyuz-2.1b/Fregat | Glonass-K1 (Kosmos 2501),11/30/2014 9:52 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat,Launch Successful
+International Launch Services,—,Proton-M Briz-M | Yamal-401,12/15/2014 12:16 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Khrunichev State Research and Production Space Center,—,Strela | Kondor-E,12/19/2014 4:43 a.m.,"175/59 | Baikonur Cosmodrome, Republic of Kazakhstan",Strela,Launch Successful
+Khrunichev State Research and Production Space Center,—,Angara A5/Briz-M | IPM,12/23/2014 5:57 a.m.,"35/1 | Plesetsk Cosmodrome, Russian Federation",Angara A5,Launch Successful
+Russian Aerospace Defence Forces,—,Soyuz 2-1B | Lotos-S (Kosmos 2502),12/25/2014 3:01 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz 2.1b | Resurs-P No.2,12/26/2014 6:55 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1b,Launch Successful
+International Launch Services,—,Proton-M Briz-M | Astra 2G,12/27/2014 9:37 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+International Launch Services,—,Proton-M Briz-M | Inmarsat-5 F2,02/01/2015 12:31 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U | Progress M-26M,02/17/2015 11 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Aerospace Defence Forces,—,Soyuz 2.1a | Bars-M (Kosmos 2503),02/27/2015 11:01 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1a,Launch Successful
+Khrunichev State Research and Production Space Center,—,Proton-M Briz-M | Ekspress AM7,03/18/2015 10:05 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+ISC Kosmotras,—,Dnepr 1 | KOMPSat-3A,03/25/2015 10:08 p.m.,"370/13 | Dombarovskiy, Russian Federation",Dnepr,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-16M,Soyuz FG | Soyuz TMA-16M,03/27/2015 7:42 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Aerospace Defence Forces,"Gonets M-21, Gonets M-22, Gonets M-23, Kosmos 2504","Rokot / Briz-KM | Gonets M-21, Gonets M-22, Gonets M-23, Kosmos 2504",03/31/2015 1:47 p.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Rokot/Briz-KM,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz 2.1a | Progress M-27M,04/28/2015 7:09 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Failure
+International Launch Services,—,Proton-M Briz-M | Mexsat-1,05/16/2015 5:47 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Failure
+Russian Aerospace Defence Forces,—,Soyuz 2.1a | Kobalt-M (Kosmos 2505),06/05/2015 3:23 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1a,Launch Successful
+Russian Aerospace Defence Forces,Persona,Soyuz | Persona (Kosmos 2506),06/23/2015 4:44 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress M-28M (60P),Soyuz U | Progress M-28M (60P),07/03/2015 4:55 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),ISS 44,Soyuz-FG | Soyuz TMA-17M,07/22/2015 9:02 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+International Launch Services,Inmarsat-5 F3,Proton-M Briz-M | Inmarsat-5 F3,08/28/2015 11:44 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-18M,Soyuz FG | Soyuz TMA-18M,09/02/2015 4:37 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Khrunichev State Research and Production Space Center,—,Proton-M/Blok DM-03 | Ekspress AM8,09/14/2015 7 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Space Forces,—,"Rokot / Briz-KM | 3 x Strela-3M (Kosmos 2507, Kosmos 2508, Kosmos 2509)",09/23/2015 9:59 p.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Rokot/Briz-KM,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz-U | Progress M-29M (61P),10/01/2015 4:49 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+International Launch Services,Türksat 4B,Proton-M/Briz-M | Türksat 4B,10/16/2015 8:40 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Space Forces,EKS (Tundra) (Kosmos 2510),Soyuz-2.1b/Fregat | EKS (Tundra) (Kosmos 2510),11/17/2015 6:33 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat,Launch Successful
+Russian Space Forces,—,Soyuz 2.1v/Volga | Kanopus-ST (Kosmos 2511) & KYuA-1 (Kosmos 2512),12/05/2015 2:09 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2-1v,Launch Failure
+Russian Federal Space Agency (ROSCOSMOS),Electro-L No.2,Zenit-3F | Elektro-L No.2,12/11/2015 1:45 p.m.,"45/1 | Baikonur Cosmodrome, Republic of Kazakhstan",Zenit 3F,Launch Successful
+Khrunichev State Research and Production Space Center,Garpun,Proton-M Briz-M | Garpun No. 12L (Kosmos-2513),12/13/2015 12:19 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-19M,Soyuz FG | Soyuz TMA-19M,12/15/2015 11:03 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS (62P),Soyuz 2.1a | Progress MS (62P),12/21/2015 8:44 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Khrunichev State Research and Production Space Center,Ekspress AMU1,Proton-M Briz-M | Ekspress AMU1 / (EUTELSAT 36C),12/24/2015 9:31 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+International Launch Services,Eutelsat 9B,Proton-M Briz-M | Eutelsat 9B,01/29/2016 10:20 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Space Forces,Glonass-M (Kosmos 2514),Soyuz-2.1b/Fregat | Glonass-M (Kosmos 2514),02/07/2016 12:21 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Resurs-P No.3,Soyuz 2.1b | Resurs-P No.3,03/13/2016 6:56 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1b,Launch Successful
+Khrunichev State Research and Production Space Center,ExoMars Trace Gas Orbiter & EDM Schiaparelli lander,Proton-M Briz-M | ExoMars Trace Gas Orbiter & EDM Schiaparelli lander,03/14/2016 9:31 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz TMA-20M,Soyuz FG | Soyuz TMA-20M,03/18/2016 9:26 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Space Forces,—,Soyuz 2.1a | Bars-M No. 2 (Kosmos 2515),03/24/2016 9:42 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1a,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-02 (63P),Soyuz 2.1a | Progress MS-02 (63P),03/31/2016 4:23 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),"Mikhailo Lomonosov, Aist-2D & SamSat 218","Soyuz-2.1a/Volga | Mikhailo Lomonosov, Aist-2D & SamSat 218",04/28/2016 2:01 a.m.,"Cosmodrome Site 1S | Vostochny Cosmodrome, Siberia, Russian Federation",Soyuz 2.1a/Volga,Launch Successful
+Russian Space Forces,Glonass-M No. 53 (Kosmos 2516),Soyuz-2.1b/Fregat | Glonass-M No. 53 (Kosmos 2516),05/29/2016 8:44 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat,Launch Successful
+Russian Space Forces,Geo-IK-2 No.12L (Kosmos 2517),Rokot/Briz-KM | Geo-IK-2 No.12L (Kosmos 2517),06/04/2016 2 p.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Rokot/Briz-KM,Launch Successful
+International Launch Services,Intelsat 31/DLA-2,Proton-M Briz-M | Intelsat 31/DLA-2,06/09/2016 7:10 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS (MS-01),Soyuz-FG | Soyuz MS (MS-01),07/07/2016 1:36 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-03 (64P),Soyuz-U | Progress MS-03 (64P),07/16/2016 9:41 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-02,Soyuz-FG | Soyuz MS-02,10/19/2016 8:05 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-03,Soyuz-FG | Soyuz MS-03,11/17/2016 8:20 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-04 (65P),Soyuz-U | Progress MS-04 (65P),12/01/2016 2:51 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Failure
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-05 (66P),Soyuz-U | Progress MS-05 (66P),02/22/2017 5:58 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz U,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-04,Soyuz-FG | Soyuz MS-04,04/20/2017 7:13 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Space Forces,EKS-2 (Tundra 2) (Kosmos 2518),Soyuz-2.1b/Fregat | EKS-2 (Tundra 2) (Kosmos 2518),05/25/2017 6:34 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat,Launch Successful
+International Launch Services,Echostar 21,Proton-M Briz-M | Echostar 21,06/08/2017 3:45 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-06 (67P),Soyuz 2.1a | Progress MS-06 (67P),06/14/2017 9:20 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Space Forces,Kosmos-2519,Soyuz 2.1v/Volga | Kosmos-2519,06/23/2017 6:04 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2-1v,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Kanopus-V-IK,Soyuz-2.1a/Fregat | Kanopus-V-IK,07/14/2017 6:36 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a/Fregat-M,Launch was a Partial Failure
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-05,Soyuz-FG | Soyuz MS-05,07/28/2017 3:41 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Khrunichev State Research and Production Space Center,Blagovest No.11L (Kosmos 2520),Proton-M/Briz-M | Blagovest No.11L (Kosmos 2520),08/16/2017 10:06 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+International Launch Services,Amazonas 5,Proton-M Briz-M | Amazonas 5,09/11/2017 7:23 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-06,Soyuz-FG | Soyuz MS-06,09/12/2017 9:17 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Space Forces,Glonass-M (Kosmos 2522),Soyuz-2.1b/Fregat-M | Glonass-M (Kosmos 2522),09/22/2017 12:02 a.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat-M,Launch Successful
+International Launch Services,AsiaSat 9,Proton-M Briz-M | AsiaSat 9,09/28/2017 6:52 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-07 (68P),Soyuz 2.1a | Progress MS-07 (68P),10/14/2017 8:46 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Meteor-M No.2-1 & rideshare payloads,Soyuz 2.1b/Fregat | Meteor-M No.2-1 & rideshare payloads,11/28/2017 5:41 a.m.,"Cosmodrome Site 1S | Vostochny Cosmodrome, Siberia, Russian Federation",Soyuz 2.1b/Fregat,Launch Failure
+Russian Space Forces,Lotos-S1,Soyuz-2.1b | Lotos-S1 (Kosmos-2524),12/02/2017 10:43 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-07,Soyuz-FG | Soyuz MS-07,12/17/2017 7:21 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Kanopus-V No.3 & Kanopus-V No.4,Soyuz 2.1a/Fregat-M | Kanopus-V No.3 & Kanopus-V No.4,02/01/2018 2:07 a.m.,"Cosmodrome Site 1S | Vostochny Cosmodrome, Siberia, Russian Federation",Soyuz 2.1a/Fregat-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-08 (69P),Soyuz 2.1a | Progress MS-08 (69P),02/13/2018 8:13 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-08,Soyuz-FG | Soyuz MS-08,03/21/2018 5:44 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Space Forces,VNIIEM EMKA (Kosmos-2525),Soyuz 2.1v | VNIIEM EMKA (Kosmos 2525),03/29/2018 5:38 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz,Launch Successful
+Khrunichev State Research and Production Space Center,Blagovest No.12L (Kosmos 2526),Proton-M/Briz-M | Blagovest No.12L (Kosmos 2526),04/18/2018 10:11 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-09,Soyuz-FG | Soyuz MS-09,06/06/2018 11:12 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Space Forces,Glonass-M No. 56 (Kosmos 2527),Soyuz 2.1b/Fregat-M | Glonass-M No. 56 (Kosmos 2527),06/16/2018 9:46 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-09 (70P),Soyuz 2.1A | Progress MS-09 (70P),07/09/2018 9:51 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-10,Soyuz-FG | Soyuz MS-10,10/11/2018 8:40 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Failure
+Russian Space Forces,Lotos-S1 (Kosmos 2528),Soyuz 2.1B | Lotos-S1 (Kosmos 2528),10/25/2018 12:15 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b,Launch Successful
+Russian Space Forces,Glonass-M No. 57 (Kosmos 2529),Soyuz 2.1b/Fregat-M | Glonass-M No. 57 (Kosmos 2529),11/03/2018 8:17 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-10 (71P),Soyuz-FG | Progress MS-10 (71P),11/16/2018 6:14 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Space Forces,"3 x Rodnik (Kosmos 2530, 2531, 2532)","Rokot / Briz-KM | 3 x Rodnik (Kosmos 2530, 2531, 2532)",11/30/2018 2:27 a.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Rokot/Briz-KM,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-11,Soyuz-FG | Soyuz MS-11,12/03/2018 11:31 a.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Khrunichev State Research and Production Space Center,Blagovest N13L (Kosmos 2533),Proton-M/Briz-M | Blagovest N13L (Kosmos 2533),12/21/2018 12:20 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Kanopus-V No.5 & Kanopus-V No.6,Soyuz 2.1a/Fregat-M | Kanopus-V No.5 & Kanopus-V No.6,12/27/2018 2:07 a.m.,"Cosmodrome Site 1S | Vostochny Cosmodrome, Siberia, Russian Federation",Soyuz 2.1a/Fregat-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),EgyptSat-A,Soyuz 2.1b/Fregat-M | EgyptSat-A,02/21/2019 4:47 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1b/Fregat-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-12,Soyuz-FG | Soyuz MS-12,03/14/2019 7:14 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-11 (72P),Soyuz 2.1a | Progress MS-11 (72P),04/04/2019 11:01 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Space Forces,Glonass-M No. 58 (Kosmos 2534),Soyuz 2.1b/Fregat-M | Glonass-M No. 58 (Kosmos 2534),05/27/2019 6:23 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat-M,Launch Successful
+Khrunichev State Research and Production Space Center,Yamal-601,Proton-M/Briz-M | Yamal-601,05/30/2019 5:41 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Meteor-M No.2-2 & rideshare payloads,Soyuz 2.1b/Fregat | Meteor-M No.2-2 & rideshare payloads,07/05/2019 5:41 a.m.,"Cosmodrome Site 1S | Vostochny Cosmodrome, Siberia, Russian Federation",Soyuz 2.1b/Fregat,Launch Successful
+Russian Space Forces,"Kosmos 2535, Kosmos 2536, Kosmos 2537, Kosmos 2538","Soyuz 2.1v/Volga | Kosmos 2535, Kosmos 2536, Kosmos 2537, Kosmos 2538",07/10/2019 5:14 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2-1v,Launch Successful
+Khrunichev State Research and Production Space Center,Spektr-RG,Proton-M/Blok DM-03 | Spektr-RG,07/13/2019 12:30 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-13,Soyuz-FG | Soyuz MS-13,07/20/2019 4:28 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Space Forces,Meridian-M No.18,Soyuz 2.1a/Fregat-M | Meridian-M No.18,07/30/2019 5:56 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1a/Fregat-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-12 (73P),Soyuz 2.1a | Progress MS-12 (73P),07/31/2019 12:10 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Khrunichev State Research and Production Space Center,Blagovest No.14L (Kosmos 2539),Proton-M/Briz-M | Blagovest No.14L (Kosmos 2539),08/05/2019 9:56 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-14 Uncrewed,Soyuz 2.1a | Soyuz MS-14 Uncrewed,08/22/2019 3:38 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Space Forces,Geo-IK-2 N13L (Kosmos 2540),Rokot / Briz-KM | Geo-IK-2 N13L (Kosmos 2540),08/30/2019 2 p.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Rokot/Briz-KM,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-15,Soyuz-FG | Soyuz MS-15,09/25/2019 1:57 p.m.,"1/5 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz,Launch Successful
+Russian Space Forces,EKS 3 (Tundra 3) (Kosmos 2541),Soyuz 2.1b/Fregat | EKS 3 (Tundra 3) (Kosmos 2541),09/26/2019 7:46 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat,Launch Successful
+International Launch Services,Eutelsat 5 West B & MEV-1,Proton-M/Briz-M | Eutelsat 5 West B & MEV-1,10/09/2019 10:17 a.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Space Forces,Kosmos 2542,Soyuz 2.1v/Volga | Kosmos 2542,11/25/2019 5:52 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2-1v,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-13 (74P),Soyuz 2.1a | Progress MS-13 (74P),12/06/2019 9:34 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Space Forces,Glonass-M No. 59 (Kosmos 2544),Soyuz 2.1b/Fregat-M | Glonass-M No. 59 (Kosmos 2544),12/11/2019 8:54 a.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat-M,Launch Successful
+Khrunichev State Research and Production Space Center,Elektro-L No.3,Proton-M/Blok DM-03 | Elektro-L No.3,12/24/2019 12:03 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Space Forces,"Gonets-M24, Gonets-M25, Gonets-M26 & Blits-M","Rokot/Briz-KM | Gonets-M24, Gonets-M25, Gonets-M26 & Blits-M",12/26/2019 11:11 p.m.,"133/3 (133L) | Plesetsk Cosmodrome, Russian Federation",Rokot/Briz-KM,Launch Successful
+Russian Space Forces,Meridian-M No.19L,Soyuz 2.1a/Fregat-M | Meridian-M No.19L,02/20/2020 8:24 a.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1a/Fregat-M,Launch Successful
+Russian Space Forces,Glonass-M No. 60 (Kosmos 2545),Soyuz 2.1b/Fregat-M | Glonass-M No. 60 (Kosmos 2545),03/16/2020 6:28 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-16,Soyuz 2.1a | Soyuz MS-16,04/09/2020 8:05 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-14 (75P),Soyuz 2.1a | Progress MS-14 (75P),04/25/2020 1:51 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Space Forces,EKS 4 (Tundra 4) (Kosmos 2546),Soyuz 2.1b/Fregat | EKS 4 (Tundra 4) (Kosmos 2546),05/22/2020 7:31 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-15 (76P),Soyuz 2.1a | Progress MS-15 (76P),07/23/2020 2:26 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Khrunichev State Research and Production Space Center,Ekspress-80 & Ekspress-103,Proton-M/Briz-M | Ekspress-80 & Ekspress-103,07/30/2020 9:25 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Space Forces,"Gonets-M27, Gonets-M28, Gonets-M29 & others","Soyuz 2.1b/Fregat-M | Gonets-M27, Gonets-M28, Gonets-M29 & others",09/28/2020 11:20 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-17,Soyuz 2.1a | Soyuz MS-17,10/14/2020 5:45 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Space Forces,Glonass-K1 No. 15 (Kosmos 2547),Soyuz 2.1b/Fregat | Glonass-K1 No. 15 (Kosmos 2547),10/25/2020 7:08 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat,Launch Successful
+Russian Space Forces,"Gonets-M30, Gonets-M31, Gonets-M32","Soyuz 2.1b/Fregat-M | Gonets-M30, Gonets-M31, Gonets-M32",12/03/2020 1:14 a.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat-M,Launch Successful
+Khrunichev State Research and Production Space Center,Dummy payload,Angara A5/Briz-M | Dummy payload,12/14/2020 5:50 a.m.,"35/1 | Plesetsk Cosmodrome, Russian Federation",Angara A5,Launch Successful
+Russian Space Forces,Lotos-S1,Soyuz 2.1b | Lotos-S1,02/02/2021 8:45 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-16,Soyuz 2.1a | Progress MS-16 (77P),02/15/2021 4:45 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Arktika-M No.1,Soyuz 2.1b/Fregat-M | Arktika-M No.1,02/28/2021 6:55 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1b/Fregat-M,Launch Successful
+GK Launch Services,CAS500-1 & rideshare,Soyuz 2.1a/Fregat-M | CAS500-1 & rideshare,03/22/2021 6:07 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a/Fregat-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-18,Soyuz 2.1a | Soyuz MS-18,04/09/2021 7:42 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Space Forces,Pion-NKS No. 1 (Kosmos 2550),Soyuz 2.1b | Pion-NKS No. 1 (Kosmos 2550),06/25/2021 7:50 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-17 (78P),Soyuz 2.1a | Progress MS-17 (78P),06/29/2021 11:27 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Khrunichev State Research and Production Space Center,MLM Nauka,Proton-M | MLM Nauka,07/21/2021 2:58 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Space Forces,Razbeg 1 (Kosmos 2551),Soyuz 2.1v | Razbeg 1 (Kosmos 2551),09/09/2021 7:59 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-19,Soyuz 2.1a | Soyuz MS-19,10/05/2021 8:55 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-18 (79P),Soyuz 2.1a | Progress MS-18 (79P),10/28/2021 midnight,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),"Uzlovoy Module (UM) ""Prichal""","Soyuz 2.1b | Uzlovoy Module (UM) ""Prichal""",11/24/2021 1:06 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1b,Launch Successful
+Russian Space Forces,Kosmos 2552 (EKS 5/Tundra 5),Soyuz 2.1b/Fregat | EKS 5 (Tundra 5) (Kosmos 2552),11/25/2021 1:09 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-20,Soyuz 2.1a | Soyuz MS-20,12/08/2021 7:38 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Khrunichev State Research and Production Space Center,Ekspress-AMU3 & AMU7,Proton-M/Briz-M | Ekspress-AMU3 & AMU7,12/13/2021 12:07 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Khrunichev State Research and Production Space Center,Dummy payload,Angara A5/Persey | Dummy payload,12/27/2021 7 p.m.,"35/1 | Plesetsk Cosmodrome, Russian Federation",Angara A5/Persey,Launch Failure
+Russian Space Forces,Neitron (Kosmos 2553),Soyuz 2.1a/Fregat-M | Neitron (Kosmos 2553),02/05/2022 7 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1a/Fregat-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-19 (80P),Soyuz 2.1a | Progress MS-19 (80P),02/15/2022 4:25 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-21,Soyuz 2.1a | Soyuz MS-21,03/18/2022 3:55 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Space Forces,Meridian-M No.20L,Soyuz 2.1a/Fregat-M | Meridian-M No.20L,03/22/2022 12:48 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1a/Fregat-M,Launch Successful
+Russian Space Forces,Kosmos 2554 (Lotos-S1),Soyuz 2.1b | Kosmos 2554 (Lotos-S1 #6),04/07/2022 11:20 a.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b,Launch Successful
+Khrunichev State Research and Production Space Center,Kosmos 2555 (MKA-R),Angara 1.2 | Kosmos 2555 (MKA-R),04/29/2022 7:55 p.m.,"35/1 | Plesetsk Cosmodrome, Russian Federation",Angara 1.2,Launch Successful
+Russian Space Forces,Kosmos 2556 (Bars-M No. 3),Soyuz 2.1a | Kosmos 2556 (Bars-M No. 3),05/19/2022 8:03 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1a,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-20 (81P),Soyuz 2.1a | Progress MS-20 (81P),06/03/2022 9:32 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Space Forces,Glonass-K1 No. 16 (Kosmos 2557),Soyuz 2.1b/Fregat | Glonass-K1 No. 16 (Kosmos 2557),07/07/2022 9:18 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat,Launch Successful
+Russian Space Forces,Kosmos 2558,Soyuz 2.1v/Volga | Kosmos 2558,08/01/2022 8:25 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2-1v,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Khayyam & rideshare,Soyuz 2.1b/Fregat-M | Khayyam & rideshare,08/09/2022 5:52 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1b/Fregat-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-22,Soyuz 2.1a | Soyuz MS-22,09/21/2022 1:54 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Space Forces,Glonass-K1 No. 17 (Kosmos 2559),Soyuz 2.1b/Fregat | Glonass-K1 No. 17 (Kosmos 2559),10/10/2022 2:52 a.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),AngoSat-2,Proton-M/Blok DM-03 | AngoSat-2,10/12/2022 3 p.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Khrunichev State Research and Production Space Center,EMKA-3 (Kosmos 2560),Angara 1.2 | EMKA-3 (Kosmos 2560),10/15/2022 7:55 p.m.,"35/1 | Plesetsk Cosmodrome, Russian Federation",Angara 1.2,Launch Successful
+Russian Space Forces,Kosmos 2561 & Kosmos 2562,Soyuz 2.1v/Volga | Kosmos 2561 & Kosmos 2562,10/21/2022 7:20 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2-1v,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),"Gonets-M33, Gonets-M34, Gonets-M35 & Skif-D","Soyuz 2.1b/Fregat-M | Gonets-M33, Gonets-M34, Gonets-M35 & Skif-D",10/22/2022 7:57 p.m.,"Cosmodrome Site 1S | Vostochny Cosmodrome, Siberia, Russian Federation",Soyuz 2.1b/Fregat-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-21 (82P),Soyuz 2.1a | Progress MS-21 (82P),10/26/2022 12:20 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Space Forces,Kosmos 2563 (EKS 6/Tundra 6),Soyuz 2.1b/Fregat | EKS 6 (Tundra 6) (Kosmos 2563),11/02/2022 6:48 a.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat,Launch Successful
+Russian Space Forces,Glonass-M No. 61 (Kosmos 2564),Soyuz 2.1b/Fregat-M | Glonass-M No. 61 (Kosmos 2564),11/28/2022 3:17 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat-M,Launch Successful
+Russian Space Forces,Kosmos 2565 (Lotos-S1 #7),Soyuz 2.1b | Kosmos 2565 (Lotos-S1 #7),11/30/2022 9:10 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b,Launch Successful
+Khrunichev State Research and Production Space Center,Elektro-L No.4,Proton-M/Blok DM-03 | Elektro-L No.4,02/05/2023 9:12 a.m.,"81/24 (81P) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-22 (83P),Soyuz 2.1a | Progress MS-22 (83P),02/09/2023 6:15 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-23,Soyuz 2.1a | Soyuz MS-23,02/24/2023 12:24 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Khrunichev State Research and Production Space Center,Olymp-K #2 (Luch 5X),Proton-M Briz-M | Olymp-K #2 (Luch 5X),03/12/2023 11:13 p.m.,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,Launch Successful
+Russian Space Forces,Kosmos 2567 (Bars-M No. 4),Soyuz 2.1a | Kosmos 2567 (Bars-M No. 4),03/23/2023 6:40 a.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1a,Launch Successful
+Russian Space Forces,Kosmos 2568 (EO MKA-4),Soyuz 2.1v | Kosmos 2568 (EO MKA-4),03/29/2023 7:57 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2-1v,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-23 (84P),Soyuz 2.1a | Progress MS-23 (84P),05/24/2023 12:56 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Kondor-FKA No.1,Soyuz 2.1a/Fregat-M | Kondor-FKA No.1,05/26/2023 9:14 p.m.,"Cosmodrome Site 1S | Vostochny Cosmodrome, Siberia, Russian Federation",Soyuz 2.1a/Fregat-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Meteor-M No.2-3 & others,Soyuz 2.1b/Fregat-M | Meteor-M No.2-3 & others,06/27/2023 11:34 a.m.,"Cosmodrome Site 1S | Vostochny Cosmodrome, Siberia, Russian Federation",Soyuz 2.1b/Fregat-M,Launch Successful
+Russian Space Forces,Glonass-K2 No. 13 (Kosmos 2569),Soyuz 2.1b/Fregat-M | Glonass-K2 No. 13 (Kosmos 2569),08/07/2023 1:20 p.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b/Fregat-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Luna 25,Soyuz 2.1b/Fregat-M | Luna 25,08/10/2023 11:10 p.m.,"Cosmodrome Site 1S | Vostochny Cosmodrome, Siberia, Russian Federation",Soyuz 2.1b/Fregat-M,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-24 (85P),Soyuz 2.1a | Progress MS-24 (85P),08/23/2023 1:08 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-24,Soyuz 2.1a | Soyuz MS-24,09/15/2023 3:44 p.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Space Forces,Kosmos 2570 (Lotos-S1 #8),Soyuz 2.1b | Kosmos 2570 (Lotos-S1 #8),10/27/2023 6:04 a.m.,"43/3 (43L) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b,Launch Successful
+Russian Space Forces,Razdan No. 1?,Soyuz 2.1b | Kosmos 2572 (Razdan No. 1?),11/25/2023 8:58 p.m.,"43/4 (43R) | Plesetsk Cosmodrome, Russian Federation",Soyuz 2.1b,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-25 (86P),Soyuz 2.1a | Progress MS-25 (86P),12/01/2023 9:25 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,Launch Successful
+Russian Federal Space Agency (ROSCOSMOS),Arktika-M No.2,Soyuz 2.1b/Fregat-M | Arktika-M No.2,12/16/2023 9:17 a.m.,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1b/Fregat-M,Go for Launch
+Khrunichev State Research and Production Space Center,—,Proton-M/Blok DM-03 | Elektro-L No.5,01/31/2024 midnight,"Unknown Pad | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M,To Be Determined
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-26 (87P),Soyuz 2.1a | Progress MS-26 (87P),02/15/2024 midnight,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,To Be Determined
+Russian Federal Space Agency (ROSCOSMOS),Meteor-M No.2-4,Soyuz 2.1a/Fregat-M | Meteor-M No.2-4,02/29/2024 midnight,"Cosmodrome Site 1S | Vostochny Cosmodrome, Siberia, Russian Federation",Soyuz 2.1a/Fregat-M,To Be Determined
+Khrunichev State Research and Production Space Center,Vostochny Angara Test Flight,Angara A5 | Vostochny Angara Test Flight,03/21/2024 midnight,"Cosmodrome Site 1A | Vostochny Cosmodrome, Siberia, Russian Federation",Angara A5,To Be Determined
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-25,Soyuz 2.1a | Soyuz MS-25,03/21/2024 midnight,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,To Be Determined
+Russian Federal Space Agency (ROSCOSMOS),Obzor-R No.1,Soyuz 2.1a | Obzor-R No.1,03/31/2024 midnight,"Cosmodrome Site 1S | Vostochny Cosmodrome, Siberia, Russian Federation",Soyuz 2.1a,To Be Determined
+Russian Federal Space Agency (ROSCOSMOS),Resurs-P No.4,Soyuz 2.1b | Resurs-P No.4,03/31/2024 midnight,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1b,To Be Determined
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-27 (88P),Soyuz 2.1a | Progress MS-27 (88P),05/30/2024 midnight,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,To Be Determined
+Russian Federal Space Agency (ROSCOSMOS),Ionosfera-M 1 & 2,Soyuz 2.1b/Fregat-M | Ionosfera-M 1 & 2,05/31/2024 midnight,"Cosmodrome Site 1S | Vostochny Cosmodrome, Siberia, Russian Federation",Soyuz 2.1b/Fregat-M,To Be Determined
+Russian Federal Space Agency (ROSCOSMOS),Progress MS-28 (89P),Soyuz 2.1a | Progress MS-28 (89P),08/15/2024 midnight,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,To Be Determined
+Russian Federal Space Agency (ROSCOSMOS),Bion-M No. 2,Soyuz 2.1a | Bion-M No. 2,08/31/2024 midnight,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,To Be Determined
+Russian Federal Space Agency (ROSCOSMOS),Soyuz MS-26,Soyuz 2.1a | Soyuz MS-26,09/11/2024 midnight,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1a,To Be Determined
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz 2.1b/Fregat-M | Luna 26,11/13/2024 midnight,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1b/Fregat-M,To Be Determined
+Russian Federal Space Agency (ROSCOSMOS),—,Soyuz 2.1b/Fregat-M | Luna 27,01/01/2025 midnight,"31/6 | Baikonur Cosmodrome, Republic of Kazakhstan",Soyuz 2.1b/Fregat-M,To Be Determined
+Khrunichev State Research and Production Space Center,ExoMars 2022 Surface Platform & Rosalind Franklin Rover,Proton-M/Briz-M | ExoMars 2022 Kazachok surface platform & Rosalind Franklin rover,12/31/2028 midnight,"200/39 (200L) | Baikonur Cosmodrome, Republic of Kazakhstan",Proton-M Briz-M,To Be Determined

@@ -1,0 +1,325 @@
+1worldspace: Unknown
+ABL Space Systems: United States
+Ad Astra Rocket Company: United States
+Aerojet: United States
+Aeronautics and Space Research and Diffusion Center: Brazil
+Aérospatiale: France
+Aevum: United States
+Agency for Defense Development: South Korea
+Airbus Defence and Space: France
+Algerian Space Agency: Algeria
+Alliant Techsystems: United States
+AlYahSat: United Arab Emirates
+American Rocket Company: United States
+A.M. Makarov Yuzhny Machine-Building Plant: Russia
+Amsat: United States
+Andrews Space: United States
+Antrix Corporation Limited: India
+Arab Satellite Communications Organization: Saudi Arabia
+ArianeGroup: France
+Arianespace: France
+Armadillo Aerospace: United States
+Army Ballistic Missile Agency: United States
+Asia Pacific Multilateral Cooperation in Space Technology and Applications: Unknown
+Asia-Pacific Regional Space Agency Forum: Australia, Japan, South Korea
+Asia-Pacific Space Cooperation Organization: Unknown
+Astranis Space Technologies Corp.: United States
+Astra Space: United States
+Astrium Satellites: France
+Astrobotic Technology: United States
+Astronautic Technology Sdn Bhd: Malaysia
+Astroscale: Japan
+Austrian Space Agency: Austria
+Avanti Communications: United Kingdom
+Avio S.p.A: Italy
+Axiom Space: United States
+Azerbaijan National Aerospace Agency: Azerbaijan
+Ball Aerospace & Technologies Corp.: United States
+Belarus Space Agency: Belarus
+Belgian Institute for Space Aeronomy: Belgium
+Bigelow Aerospace: United States
+BlackSky: United States
+Blue Origin: United States
+Boeing: United States
+Bolivarian Agency for Space Activities: Venezuela
+Bolivian Space Agency: Bolivia
+Brazilian Space Agency: Brazil
+Bristol Aerospace Company: Canada
+British Aerospace: United Kingdom
+British Satellite Broadcasting: United Kingdom
+Broadcasting Satellite System Corporation: Japan
+Bulgarian Space Agency: Bulgaria
+Bundeswehr: Germany
+Cabinet Intelligence and Research Office: Japan
+Canadian Arrow: Canada
+Canadian Space Agency: Canada
+Capella Space: United States
+CAS Space: China
+Centre for Remote Imaging, Sensing and Processing: Singapore
+China Aerospace Corporation: China
+China Aerospace Science and Industry Corporation: China
+China Aerospace Science and Technology Corporation: China
+China Great Wall Industry Corporation: China
+China National Space Administration: China
+China Rocket Co. Ltd.: China
+Chrysler: United States
+Colombian Space Commission: Colombia
+Comisión Nacional de Actividades Espaciales: Argentina
+Committee on Space Research: International organization
+Commonwealth Scientific and Industrial Research Organisation: Australia
+Consultative Committee for Space Data Systems: International organization
+Convair: United States
+Copenhagen Suborbitals: Denmark
+Croatian Space Agency: Croatia
+Danish National Space Center: Denmark
+Deep Space Industries: United States
+Defense Advanced Research Projects Agency: United States
+Department of Aerospace Science and Technology: Brazil
+Digital Globe: United States
+Direction générale de l'armement: France
+DirecTV: United States
+DSN Corporation: United States
+EADS Astrium Space Transportation: France
+Echostar: United States
+Energia: Russia
+Equatorial Launch Australia: Australia
+Eurockot Launch Services: Germany
+European Launcher Development Organisation: International organization
+European Organisation for the Exploitation of Meteorological Satellites: International organization
+European Space Agency: International organization
+European Space Research Organisation: International organization
+European Union Agency for the Space Programme: International organization
+Eutelsat: France
+EXOS Aerospace: United States
+ExPace: China
+Fairchild Space and Electronics Division: United States
+FCT Space Office: Portugal
+Firefly Aerospace: United States
+Fokker Space & Systems: Netherlands
+French Armed Forces: France
+Galactic Energy: China
+General Dynamics: United States
+General Electric: United States
+Geo-Informatics and Space Technology Development Agency: Thailand
+GeoOptics: United States
+German Aerospace Center: Germany
+Gilmour Space Technologies: Australia
+GK Launch Services: Russia
+Globalstar: United States
+Hawker Siddeley Dynamics: United Kingdom
+HawkEye 360: United States
+Hindustan Aeronautics Limited: India
+Hisdesat: Spain
+HispaSat: Spain
+Hughes: United States
+Hughes Aircraft: United States
+Hungarian Space Office: Hungary
+HyImpulse: Germany
+IHI Corporation: Japan
+Indian Space Research Organization: India
+Inmarsat: United Kingdom
+Institute for Space Applications and Remote Sensing: Greece
+Institute of Space and Astronautical Science: Japan
+Instituto Nacional de Técnica Aeroespacial: Spain
+Intelsat: International organization
+International Institute for Aeronautical Sciences: International organization
+International Launch Services: Russia
+Interorbital Systems: United States
+Interstellar Technologies: Japan
+Intuitive Machines: United States
+INVAP: Argentina
+Iranian Space Agency: Iran
+Iridium Communications: United States
+Isar Aerospace: Germany
+ISC Kosmotras: Russia
+Islamic Revolutionary Guard Corps Aerospace Force: Iran
+iSpace: China
+Israel Aerospace Industries: Israel
+Israeli Space Agency: Israel
+Italian Air Force: Italy
+Italian Space Agency: Italy
+Japan Aerospace Exploration Agency: Japan
+JSC Information Satellite Systems: Russia
+Kazakh Space Research Institute: Kazakhstan
+KB Mashinostroyeniya: Russia
+Khrunichev State Research and Production Space Center: Russia
+Kongsberg Defence & Aerospace: Norway
+Korea Aerospace Research Institute: South Korea
+Korean Astronaut Program: South Korea
+Korean Committee of Space Technology: North Korea
+Kuiper Systems LLC: United States
+Land Launch: International organization
+LandSpace: China
+Leidos: United States
+Lithuanian Space Association: Lithuania
+Lockheed Martin: United States
+Lockheed Martin Space Operations: United States
+Lockheed Space Operations Company: United States
+Magellan Aerospace Corporation: Canada
+Makeyev Rocket Design Bureau: Russia
+Malaysian National Space Agency: Malaysia
+Martin Marietta: United States
+Masten Space Systems: United States
+Maxar Technologies: United States
+McDonnell Douglas: United States
+MEASAT Satellite Systems: Malaysia
+Mexican Satellite System: Mexico
+Mexican Space Agency: Mexico
+Ministry of Aerospace Industry: North Korea
+Ministry of Defense of the Russian Federation: Russia
+Ministry of Space Industry: North Korea
+Ministry of Transport of the Czech Republic - Space Technologies and Satellite Systems Department: Czech Republic
+Missile Defense Agency: United States
+Mitsubishi Heavy Industries: Japan
+Mohammed bin Rashid Space Centre: United Arab Emirates
+Moscow Institute of Thermal Technology: Russia
+National Aeronautics and Space Administration: United States
+National Aerospace Development Administration: North Korea
+National Authority for Remote Sensing and Space Sciences: Egypt
+National Center of Space Research: Sudan
+National Commission for Aerospace Research and Development: Indonesia
+National Commission for Space Research: Nigeria
+National Institute of Aeronautics and Space: Indonesia
+National Oceanic and Atmospheric Administration: United States
+National Reconnaissance Office: United States
+National Remote Sensing Center of Mongolia: Mongolia
+National Remote Sensing Center of Tunisia: Tunisia
+National Research Council: Canada
+National Research Council: South Africa
+National Security Agency: United States
+National Space Activities Commission: Australia
+National Space Agency (KazCosmos): Kazakhstan
+National Space Agency of the Republic of Kazakhstan: Kazakhstan
+National Space Agency of Ukraine: Ukraine
+National Space Development Agency of Japan: Japan
+National Space Organization: Taiwan
+National Space Research and Development Agency: Nigeria
+Netherlands Institute for Space Research: Netherlands
+No. 5 Research Academy: China
+North American Aviation: United States
+Northrop Grumman Space Systems: United States
+Northrop Grumman Space Technology: United States
+Northstar Earth & Space: Canada
+Norwegian Space Centre: Norway
+NPO Lavochkin: Russia
+OHB System: Germany
+OneSpace: China
+Optus: Australia
+Orbex: United Kingdom
+Orbital ATK: United States
+Orbital Sciences Corporation: United States
+Ovzon: Sweden
+Pakistan Space and Upper Atmosphere Research Commission: Pakistan
+PanAmSat: United States
+Paradigm Secure Communications: United Kingdom
+Payload Aerospace S.L.: Spain
+People's Liberation Army: China
+Philco Ford: United States
+Planetary Resources: United States
+Planet Labs: United States
+PlanetSpace: United States
+Polish Space Agency: Poland
+Production Corporation Polyot: Russia
+Progress Rocket Space Center: Russia
+ProtoStar: United States
+PT Pasifik Satelit Nusantara: Indonesia
+PT Telkom: Indonesia
+QPS Research Institute: Japan
+Reaction Engines Ltd.: United Kingdom
+Regional African Satellite Communication Organization: International organization
+Relativity Space: United States
+Rivada Space Networks: United States
+RKK Energiya: Russia
+Robotics Institute: Russia
+Rocketdyne: United States
+Rocket Factory Augsburg: Germany
+Rocket Lab: United States (headquarters in the United States and New Zealand)
+Rockwell International: United States
+Romanian Space Agency: Romania
+Royal Aircraft Establishment: United Kingdom
+Royal Australian Air Force: Australia
+Royal Centre for Remote Sensing: Morocco
+RUAG Space: Switzerland
+Russian Aerospace Defence Forces: Russia
+Russian Federal Space Agency (ROSCOSMOS): Russia
+Russian Space Forces: Russia
+Sandia National Laboratories: United States
+Satmex: Mexico
+Saudi Space Commission: Saudi Arabia
+Scaled Composites: United States
+Science and Engineering Research Council: United Kingdom
+Scorpius Space Launch Company: United States
+Sea Launch: International organization (Russia, Ukraine, United States, Norway)
+SES: Luxembourg
+Seventh Ministry of Machine Building Industry: Russia
+Sierra Nevada Corporation: United States
+SKY Perfect JSAT Group: Japan
+Skyrora: United Kingdom
+Snecma: France
+Société d'étude et de réalisation d'engins balistiques: France
+South African National Space Agency: South Africa
+Southern Launch: Australia
+Soviet Space Program: Soviet Union (no longer exists)
+Space Adventures: United States
+SpaceDev: United States
+Space Development Agency: United States
+Spaceflight Launch Services: United States
+Space Florida: United States
+Space Pioneer: United States
+SpaceQuest, Ltd.: United States
+Space Research and Remote Sensing Organization: Sri Lanka
+Space Research Centre: Poland
+Space Research Institute of Saudi Arabia: Saudi Arabia
+Space Services Inc.: United States
+Space Systems/Loral: United States
+SpaceX: United States
+SPAR Aerospace: Canada
+Spire Global: United States
+Sri Lanka Space Agency: Sri Lanka
+Star One: Brazil
+Starsem SA: International organization (Russia, Europe)
+Stoke Space: United States
+Strategic Rocket Forces: Russia
+Surrey Satellite Technology Ltd: United Kingdom
+Swales Aerospace: United States
+Swedish National Space Board: Sweden
+Swedish Space Corp: Sweden
+Swiss Space Office: Switzerland
+Synspective: Japan
+Technical University of Denmark - National Space Institute: Denmark
+Telesat: Canada
+Tethers Unlimited, Inc.: United States
+Thaicom: Thailand
+Thales Alenia Space: France
+TiSPACE: South Korea
+TRW: United States
+TUBITAK Space Technologies Research Institute: Turkey
+Turkish Aerospace Industries: Turkey
+Turkish Air Force: Turkey
+Turkmenistan National Space Agency: Turkmenistan
+Türksat: Turkey
+UK Ministry Of Defence: United Kingdom
+UK Space Agency: United Kingdom
+United Launch Alliance: United States
+United Nations Committee on the Peaceful Uses of Outer Space: International organization
+United Nations Office for Outer Space Affairs: International organization
+United Space Alliance: United States
+United States Air Force: United States
+United States Department of Defense: United States
+United States Space Force: United States
+Unknown: Unknown
+UP Aerospace: United States
+US Army: United States
+US Navy: United States
+Uzbek State Space Research Agency (UzbekCosmos): Uzbekistan
+Vector: United States
+Viasat: United States
+Vietnam Posts and Telecommunications Group: Vietnam
+Virgin Galactic: United States
+Virgin Orbit: United States
+Vought: United States
+Weapons Research Establishment: Australia
+WildBlue: United States
+XCOR Aerospace: United States
+XTAR LLC: United States
+Yuzhnoye Design Bureau: Ukraine

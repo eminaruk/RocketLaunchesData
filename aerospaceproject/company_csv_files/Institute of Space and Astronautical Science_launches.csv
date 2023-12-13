@@ -1,0 +1,33 @@
+launch_service_provider,mission,name,net,pad,rocket,status
+Institute of Space and Astronautical Science,Ohsumi 1,Lambda 4S | Ohsumi 1,09/26/1966 2:58 a.m.,"KS Center | Uchinoura Space Center, Japan",Lambda 4S,Launch Failure
+Institute of Space and Astronautical Science,Ohsumi 2,Lambda 4S | Ohsumi 2,12/20/1966 2:20 a.m.,"KS Center | Uchinoura Space Center, Japan",Lambda 4S,Launch Failure
+Institute of Space and Astronautical Science,Ohsumi 3,Lambda 4S | Ohsumi 3,04/13/1967 2:40 a.m.,"KS Center | Uchinoura Space Center, Japan",Lambda 4S,Launch Failure
+Institute of Space and Astronautical Science,Ohsumi 4,Lambda 4S | Ohsumi 4,09/22/1969 2:10 a.m.,"KS Center | Uchinoura Space Center, Japan",Lambda 4S,Launch Failure
+Institute of Space and Astronautical Science,Ohsumi 5,Lambda 4S | Ohsumi 5,02/11/1970 4:25 a.m.,"KS Center | Uchinoura Space Center, Japan",Lambda 4S,Launch Successful
+Institute of Space and Astronautical Science,MS-F1,Mu-4S | MS-F1,09/25/1970 5 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-4S,Launch Failure
+Institute of Space and Astronautical Science,Tansei-1,Mu-4S | Tansei-1,02/16/1971 4 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-4S,Launch Successful
+Institute of Space and Astronautical Science,Shinsei,Mu-4S | Shinsei,09/28/1971 4 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-4S,Launch Successful
+Institute of Space and Astronautical Science,Denpa,Mu-4S | Denpa,08/19/1972 2:40 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-4S,Launch Successful
+Institute of Space and Astronautical Science,Tansei-2,Mu-3C | Tansei-2,02/16/1974 5 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3C,Launch Successful
+Institute of Space and Astronautical Science,Taiyo,Mu-3C | Taiyo,02/24/1975 5:25 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3C,Launch Successful
+Institute of Space and Astronautical Science,CORSA,Mu-3C | CORSA,02/04/1976 6 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3C,Launch Failure
+Institute of Space and Astronautical Science,Tansei-3,Mu-3H | Tansei-3,02/19/1977 5:15 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3H,Launch Successful
+Institute of Space and Astronautical Science,Kyokko,Mu-3H | Kyokko,02/04/1978 7 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3H,Launch Successful
+Institute of Space and Astronautical Science,Jikiken,Mu-3H | Jikiken,09/16/1978 5 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3H,Launch Successful
+Institute of Space and Astronautical Science,Hakucho,Mu-3C | Hakucho,02/21/1979 5 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3C,Launch Successful
+Institute of Space and Astronautical Science,Tansei-4,Mu-3S | Tansei-4,02/17/1980 12:40 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S,Launch Successful
+Institute of Space and Astronautical Science,Hinotori,Mu-3S | Hinotori,02/21/1981 12:30 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S,Launch Successful
+Institute of Space and Astronautical Science,Tenma,Mu-3S | Tenma,02/20/1983 5:10 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S,Launch Successful
+Institute of Space and Astronautical Science,Ohzora,Mu-3S | Ohzora,02/14/1984 8 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S,Launch Successful
+Institute of Space and Astronautical Science,Sakigake,Mu-3S-II | Sakigake,01/07/1985 7:26 p.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S-II,Launch Successful
+Institute of Space and Astronautical Science,Suisei,Mu-3S-II | Suisei,08/18/1985 11:33 p.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S-II,Launch Successful
+Institute of Space and Astronautical Science,Ginga,Mu-3S-II | Ginga,02/05/1987 6:30 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S-II,Launch Successful
+Institute of Space and Astronautical Science,Akebono,Mu-3S-II | Akebono,02/21/1989 11:30 p.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S-II,Launch Successful
+Institute of Space and Astronautical Science,Hiten,Mu-3S-II | Hiten,01/24/1990 11:46 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S-II,Launch Successful
+Institute of Space and Astronautical Science,Yohkoh,Mu-3S-II | Yohkoh,08/30/1991 2:30 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S-II,Launch Successful
+Institute of Space and Astronautical Science,Asuka,Mu-3S-II | Asuka,02/20/1993 2:20 a.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S-II,Launch Successful
+Institute of Space and Astronautical Science,EXPRESS,Mu-3S-II | EXPRESS,01/15/1995 1:45 p.m.,"Mu Center | Uchinoura Space Center, Japan",Mu-3S-II,Launch Failure
+Institute of Space and Astronautical Science,Haruka,M-V | Haruka,02/12/1997 4:50 a.m.,"Mu Center | Uchinoura Space Center, Japan",M-V,Launch Successful
+Institute of Space and Astronautical Science,Nozomi,M-V | Nozomi,07/03/1998 6:12 p.m.,"Mu Center | Uchinoura Space Center, Japan",M-V,Launch Successful
+Institute of Space and Astronautical Science,ASTRO E,M-V | ASTRO E,02/10/2000 1:30 a.m.,"Mu Center | Uchinoura Space Center, Japan",M-V,Launch Failure
+Institute of Space and Astronautical Science,Hayabusa,M-V | Hayabusa,05/09/2003 4:29 a.m.,"Mu Center | Uchinoura Space Center, Japan",M-V,Launch Successful

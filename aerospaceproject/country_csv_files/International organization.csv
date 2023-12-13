@@ -1,0 +1,17 @@
+launch_service_provider,mission,name,net,pad,rocket,status
+European Space Research Organisation,ESRO 2A,Scout B | ESRO 2A,05/30/1967 2:06 a.m.,"Space Launch Complex 5 | Vandenberg SFB, CA, USA",Scout B,Launch Failure
+European Space Research Organisation,ESRO 2B,Scout B | ESRO 2B,05/17/1968 2:06 a.m.,"Space Launch Complex 5 | Vandenberg SFB, CA, USA",Scout B,Launch Successful
+European Space Research Organisation,ESRO 1A (Aurorae),Scout B | ESRO 1A (Aurorae),10/03/1968 8:49 p.m.,"Space Launch Complex 5 | Vandenberg SFB, CA, USA",Scout B,Launch Successful
+European Launcher Development Organisation,STV 1,Europa I | STV 1,11/29/1968 11:12 p.m.,Launch Area 6A | RAAF Woomera Range Complex,Europa I,Launch Failure
+European Launcher Development Organisation,STV 2,Europa I | STV 2,07/02/1969 10:55 p.m.,Launch Area 6A | RAAF Woomera Range Complex,Europa I,Launch Failure
+European Space Research Organisation,ESRO 1B (Boreas),Scout B | ESRO 1B (Boreas),10/01/1969 10:29 p.m.,"Space Launch Complex 5 | Vandenberg SFB, CA, USA",Scout B,Launch Successful
+European Launcher Development Organisation,STV 3 (ELDO F9),Europa I | STV 3 (ELDO F9),06/12/1970 1:10 a.m.,Launch Area 6A | RAAF Woomera Range Complex,Europa I,Launch Failure
+European Launcher Development Organisation,STV 4,Europa II | STV 4,11/05/1971 1 p.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Europa II,Launch Failure
+European Space Research Organisation,ESRO 4,Scout D-1 | ESRO 4,11/22/1972 12:17 a.m.,"Space Launch Complex 5 | Vandenberg SFB, CA, USA",Scout D-1,Launch Successful
+European Space Agency,CAT 1,Ariane 1 | CAT 1,12/24/1979 5:14 p.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Ariane 1,Launch Successful
+European Space Agency,"MaqSat-H, TEAMSAT, MaqSat-B, YES","Ariane 5 G | MaqSat-H, TEAMSAT, MaqSat-B, YES",10/30/1997 1:43 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 G,Launch Failure
+European Space Agency, MaqSat 3 & ARD,Ariane 5 G | MaqSat 3 & ARD,10/21/1998 4:37 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 G,Launch Successful
+European Space Agency,XMM-Newton,Ariane 5 G | XMM-Newton,12/10/1999 2:32 p.m.,"Ariane Launch Area 3 | Kourou, French Guiana",Ariane 5 G,Launch Successful
+European Space Agency,—,"Vega | Multipayload mission, 9 satellites",02/13/2012 10 a.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega,Launch Successful
+European Space Agency,LARES-2 (Maiden flight),Vega-C | LARES-2 (Maiden flight),07/13/2022 1:13 p.m.,"Ariane Launch Area 1 | Kourou, French Guiana",Vega-C,Launch Successful
+European Space Agency,Maiden Flight,Ariane 62 | Maiden Flight,06/30/2024 midnight,"Ariane Launch Area 4 | Kourou, French Guiana",Ariane 62,To Be Determined
